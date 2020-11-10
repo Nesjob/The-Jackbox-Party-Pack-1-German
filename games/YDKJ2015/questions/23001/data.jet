@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Dalmatiner|Mops|Gefr\u00e4\u00dfig|Idefix|Waltons|Hundstage",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Roter Baron|Kapit\u00e4n Haddock|Vanderbilt|Beagle|Lassie|Knetmasse|Hundekuchen",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Obelix|Black Beauty|Daltons|Rin Tin Tin|Sch\u00e4fer|Mozart|Stockinger",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Tim|Charlie Brown|Wallace|Lucky Luke|Richie Rich|Kommissar Moser|Familie Newton",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Unser t\u00e4glich Chappi gib uns heute",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Struppi|Snoopy|Gromit|Rantanplan|Dollar|Rex|Beethoven",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423001_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423001_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423001_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

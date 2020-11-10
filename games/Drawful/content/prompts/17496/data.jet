@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "f\u00fcr das B\u00fcrgermeisteramt kandidieren",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

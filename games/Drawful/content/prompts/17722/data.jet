@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Tasche mit furchterregenden Z\u00e4hnen",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

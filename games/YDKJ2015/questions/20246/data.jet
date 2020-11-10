@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "v": "420246_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Blut, Schwei\u00df & Amerikanische TV-Serien",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420246_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420246_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Welchen Bestandteil des menschlichen Bluts k\u00f6nnte man wegen seiner Funktion als \u201cA-Team des Blutkreislaufs\u201d bezeichnen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420246_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Die wei\u00dfen Blutk\u00f6rperchen",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Die roten Blutk\u00f6rperchen",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Die Blutpl\u00e4tzchen",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Das Blutplasma",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420246_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420246_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420246_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "420246_50",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "420246_51",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "420246_52",
+      "t": "G",
+      "n": "gPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

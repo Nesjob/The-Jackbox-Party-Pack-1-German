@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420067_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Voyeurismus & Das antike StGB",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420067_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420067_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wenn Jack Nicholson die Figur Aktaion aus der griechischen Mythologie gewesen w\u00e4re und die Nackte in der Wanne die G\u00f6ttin Artemis, was h\u00e4tte sie mit ihm gemacht? H\u00e4tte sie ihn",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420067_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "in einen Hirsch verwandelt",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "in eine Salzs\u00e4ule verwandelt",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "gek\u00fc\u00dft und verf\u00fchrt",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "dazu verdammt, Steine bergauf zu rollen",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420067_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420067_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420067_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420067_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

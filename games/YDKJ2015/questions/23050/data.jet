@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Glatze|K\u00f6nigin|Sprengstoff|Brunnen|Zeit|Wasser",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Marterpfahl|Kapit\u00e4n|Strand|Prinzessin|Angel|Ast|Blatt",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Ei|Reling|Erotik|Segel|Rinde|Zelt|Stunden",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Bart|Schloss|Busen|Stamm|Anker|Hahn|Krone",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Was haben wir gemeinsam?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Mann - Schl\u00fcssel|K\u00f6nig - T\u00fcr|Sexbombe - Meer|Indianer - Baum|Uhr - Schiff|Henne - Fass|Baum - K\u00f6nig",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423050_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423050_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423050_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

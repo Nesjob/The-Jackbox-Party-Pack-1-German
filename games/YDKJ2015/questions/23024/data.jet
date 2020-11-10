@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "ARD|Fernsehserie|Und alles wird gut|Cash & Ash|Hundename|Australian Academy",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Geheimzentrale|Ramadan Riad|Auch leider falsch|Strumpfmarke|Gummib\u00e4rchen|Macht Kinder froh|Und Erwachsene ebenso",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Crocker & Allies|frisst Katzen|Radio ARABELLA|Fernsehnorm|Satellitenfernsehen|Videowahn|Grazer Edelzwirn",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Volkswagen|Alien Life Form|Radio Detecting & Ranging|Clemens & August|Hans Riegel Bonn|um Antwort wird gebeten|Geb\u00fchreneinzugszentrale",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Was soll denn das bedeuten?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "VW|ALF|RADAR|C&A|Haribo|u.A.w.g.|GEZ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423024_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423024_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423024_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420157_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "W\u00e4scht so rot, r\u00f6ter geht\u2019s nicht",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420157_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Sie wollen das Waschmittel wechseln. Statt des Wei\u00dfen Riesen wollen Sie in Zukunft einen Roten Riesen verwenden. Wo k\u00f6nnen Sie sich einen besorgen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420157_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,3,0",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Im Weltall",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "In Australien",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "In China",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Im Beate-Uhse-Laden",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420157_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420157_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420157_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420157_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

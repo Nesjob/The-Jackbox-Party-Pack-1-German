@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "v": "420342_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Extrem-Tourismus & Reisen ohne Wiederkehr",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420342_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420342_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wohin m\u00fcssen Sie reisen, um den Swedenborgraum besichtigen zu k\u00f6nnen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420342_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Ins Jenseits",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Ins Innere Ihres Gehirns",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Ins Weltall",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Nach Stockholm",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420342_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420342_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420342_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420342_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420342_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

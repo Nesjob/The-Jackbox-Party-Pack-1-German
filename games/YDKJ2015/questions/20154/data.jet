@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420154_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Was zum Teufel macht die da?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420154_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "\u201cMeine Vielgeliebte Emma Musste Just Samstags Unbedingt Nach Pirmasens\u201d k\u00f6nnte eine Eselsbr\u00fccke sein, um sich was zu merken?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420154_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Die Reihenfolge der Planeten",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Die Reihenfolge der Bundespr\u00e4sidenten",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Die Farben des Regenbogens",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Die Reihenfolge der katholischen Feiertage",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420154_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420154_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420154_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420154_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Loch Lomond|Kenia|Irkutsk|Tarantula|Mythologie|Fl\u00fcgelpferd",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Drache|Kilt|Biotop|Vampir|Scotland Yard|Einhorn|China",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Schneemensch|Archipel|Uruguay|Empire State Building|Ramses|Deutschland|Okinawa",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Transsylvanien|Schottland|Japan|Himalaya|Griechenland|S\u00fcdseeinsel|\u00c4gypten",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Holde Heimat",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Dracula|Nessie|Godzilla|Yeti|Pegasus|King Kong|Mumie",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423014_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423014_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423014_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

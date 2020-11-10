@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420220_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "H\u00f6rden auf dem Weg zur Kanzlerparty",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420220_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420220_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Auf Ihrer Einladung steht \u201cu.A.w.g.\u201d Was wird von Ihnen erwartet?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420220_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Dass Sie die Einladung best\u00e4tigen",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Dass Sie m\u00f6glichst einen Smoking tragen",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Dass Sie ohne Begleitung kommen",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Dass Sie Antialkoholiker sind",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420220_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420220_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420220_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420220_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

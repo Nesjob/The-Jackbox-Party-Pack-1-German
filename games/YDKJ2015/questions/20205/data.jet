@@ -1,0 +1,149 @@
+{
+  "fields": [
+    {
+      "v": "420205_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Unterw\u00e4sche & Krummfr\u00fcchte",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420205_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Welche der folgenden Fr\u00fcchte w\u00fcrden Sie NICHT in einem Fruit of the Loom-Fruchtsalat finden?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420205_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Gr\u00fcne Trauben",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Rote Trauben",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Rote \u00c4pfel",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Gelbe Bananen",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420205_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420205_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "3",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "420205_50",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "420205_51",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "420205_52",
+      "t": "G",
+      "n": "gPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

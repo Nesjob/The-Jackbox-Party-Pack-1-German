@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420428_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Kippt davon die Welt um?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420428_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, eine Studie erg\u00e4be, dass es bald 2 Milliarden Chinesen geben wird. Wie k\u00f6nnte eine Computer-Zeitschrift dar\u00fcber berichten?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420428_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\u201cHilfe! Der zweite Gigachinese kommt!\u201d",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\u201cEs wird eng! Terachinese fast komplett!\u201d",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "\u201cZwei Megachinesen auf dem Vormarsch!\u201d",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "\u201cZwei Telekinesen sind einer zuviel!\u201d",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420428_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420428_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420428_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420428_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

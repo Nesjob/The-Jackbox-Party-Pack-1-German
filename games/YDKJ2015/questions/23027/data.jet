@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "M\u00e4rz|Pfingsten|Muttertag|April|Juli|Weihnachten",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Silvester|September|Peter und Paul|Bu\u00df- und Bettag|Christi Himmelfahrt|Vatertag|Juli",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Faschingsdienstag|Karfreitag|Aschermittwoch|Gr\u00fcndonnerstag|Rosenmontag|Reformationstag|Ostern",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Januar|Oktober|August|Mai|November|Februar|Dezember",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Feste feiern wann sie fallen",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Hl. Drei K\u00f6nige|Tag der Dt. Einheit|Mari\u00e4 Himmelfahrt|Tag der Arbeit|Allerheiligen|Valentinstag|2. Advent",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423027_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423027_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423027_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420193_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Sprechende Ringe & Der mysteri\u00f6se Dam Dam",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420193_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420193_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "\u201cNimm den goldenen Ring von mir, wenn du allein bist, dann sagt er dir: _____\u201d",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420193_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\u201cMarmor, Stein und Eisen bricht\u201d",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\u201cDu bist nicht allein\u201d",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "\u201cHossa! Hossa! Hossa! Ole!\u201d",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "\u201cIch lieb dich nicht, du liebst mich nicht\u201d",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420193_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420193_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420193_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420193_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

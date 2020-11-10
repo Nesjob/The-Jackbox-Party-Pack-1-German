@@ -1,0 +1,197 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bBoth"
+    },
+    {
+      "v": "Nero",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Domitian",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Crisan",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Seborin",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Caligula",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "Vespasian",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "Satina",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "0,0,1,1,0,0,1",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "Benutzte C\u00e4sar Kursp\u00fclung?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "R\u00f6mischer Kaiser",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "Haarshampoo",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "R\u00d6MISCHER KAISER",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "HAARSHAMPOO",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "422035_11",
+      "t": "A",
+      "n": "aQ1"
+    },
+    {
+      "v": "422035_12",
+      "t": "A",
+      "n": "aQ2"
+    },
+    {
+      "v": "422035_13",
+      "t": "A",
+      "n": "aQ3"
+    },
+    {
+      "v": "422035_14",
+      "t": "A",
+      "n": "aQ4"
+    },
+    {
+      "v": "422035_15",
+      "t": "A",
+      "n": "aQ5"
+    },
+    {
+      "v": "422035_16",
+      "t": "A",
+      "n": "aQ6"
+    },
+    {
+      "v": "422035_17",
+      "t": "A",
+      "n": "aQ7"
+    },
+    {
+      "v": "422035_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "422035_02",
+      "t": "A",
+      "n": "aSetup"
+    },
+    {
+      "v": "422035_20",
+      "t": "A",
+      "n": "aExit"
+    },
+    {
+      "v": "422035_03",
+      "t": "A",
+      "n": "aDis"
+    },
+    {
+      "v": "422035_04",
+      "t": "A",
+      "n": "aDat"
+    },
+    {
+      "v": "422035_21",
+      "t": "A",
+      "n": "aGenRocked"
+    },
+    {
+      "v": "422035_22",
+      "t": "A",
+      "n": "aGenDecent"
+    },
+    {
+      "v": "422035_23",
+      "t": "A",
+      "n": "aGenPoor"
+    },
+    {
+      "v": "422035_24",
+      "t": "A",
+      "n": "aGenAwful"
+    },
+    {
+      "t": "A",
+      "n": "aTimer"
+    },
+    {
+      "t": "A",
+      "n": "aInstr"
+    }
+  ]
+}

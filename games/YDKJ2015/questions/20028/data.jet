@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420028_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Betrunkene Planeten",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420028_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Welcher der folgenden Planeten w\u00fcrde bei einer Solar-System-Rave-Party vermutlich meist teilnahmslos in der Ecke sitzen, weil er von allen G\u00e4sten am \u201cdichtesten\u201d ist?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420028_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Erde",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Pluto",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Saturn",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Jupiter",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420028_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420028_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420028_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420028_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420028_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

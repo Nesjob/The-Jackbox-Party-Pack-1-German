@@ -1,0 +1,131 @@
+{
+  "fields": [
+    {
+      "v": "420061_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Das riecht doch nach Blasphemie!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420061_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Mal angenommen, im Garten Eden w\u00e4re damals ausschlie\u00dflich Mohn gewachsen. Welche der folgenden Drogen h\u00e4tten Adam und Eva NICHT daraus gewinnen k\u00f6nnen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420061_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Kokain",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Heroin",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Morphium",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Opium",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420061_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420061_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420061_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

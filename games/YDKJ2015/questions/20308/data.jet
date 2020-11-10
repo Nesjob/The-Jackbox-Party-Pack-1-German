@@ -1,0 +1,132 @@
+{
+  "fields": [
+    {
+      "v": "420308_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Affen & Haselnusswaffeln",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420308_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420308_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wenn eine Schokowaffel namens \u201cHanaffta\u201d neben feingehackten Haseln\u00fcssen auch feingehackte Affen enthielte, was w\u00e4re dann auf der Verpackung NICHT als Zutat aufgef\u00fchrt?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420308_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "BONGO-Extrakt",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "PAVIAN-Creme",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "BONOBO-Konzentrat",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "MAKAK-Pulver",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420308_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420308_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420308_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

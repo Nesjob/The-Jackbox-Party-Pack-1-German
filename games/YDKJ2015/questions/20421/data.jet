@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "v": "420421_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Easy Listening & Richtungslosigkeit",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420421_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420421_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wo dachte Christian Anders in den fr\u00fchen 70er Jahren \u00fcber das Scheitern seiner Beziehung zu einer gewissen Maria nach?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420421_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "In einem Zug nach Nirgendwo",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "In der kleinen Kneipe in unserer Stra\u00dfe",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Auf\u2019m Bahnhof Zoo im Damenklo",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Vor ihren Spuren im Sand",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420421_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420421_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420421_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "420421_50",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "420421_51",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "420421_52",
+      "t": "G",
+      "n": "gPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

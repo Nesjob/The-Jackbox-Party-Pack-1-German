@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420156_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Vielleicht sollten Sie damit mal zum Arzt gehen",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420156_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Sie kommen in die Praxis eines Phrenologen. Was werden Sie vermutlich ablegen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420156_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Ihren Hut",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Ihr Hemd",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Ihre Schuhe",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Ihre Hose",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420156_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420156_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420156_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420156_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

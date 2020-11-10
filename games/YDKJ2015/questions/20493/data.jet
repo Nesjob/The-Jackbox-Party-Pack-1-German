@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420493_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Arbeitet mein Geld wirklich f\u00fcr mich?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420493_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, das Geld auf Ihrem Girokonto w\u00fcrde den Begriff \u201cGiro\u201d w\u00f6rtlich nehmen, was m\u00fcsste es tun?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420493_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Sich best\u00e4ndig im Kreis drehen",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Langsam weniger werden",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Extreme Bewegungen ausf\u00fchren",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Schnell weniger werden",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420493_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420493_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420493_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420493_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420493_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420101_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Milit\u00e4rs & McDonald\u2010s",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420101_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "W\u00fcrden die Wachen des Towers von London ihren Namen w\u00f6rtlich nehmen, was w\u00fcrden sie bei McDonald\u2019s ausschlie\u00dflich essen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420101_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,3,0",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Big M\u00e4c",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Chicken McNuggets",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Fischm\u00e4c",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Apfeltaschen",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420101_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420101_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420101_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420101_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

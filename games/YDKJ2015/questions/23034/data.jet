@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "B\u00f6rsenmakler|Immobilien|Sex|Putzfimmel|Kreuzberg|Lindenstra\u00dfe",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Besen|Kneipenwirt|Diagnose|Leistungskurs|Hallo|Manfred Krug|Derrick",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Nachtw\u00e4chter|Urologe|Staatsanwalt|Skalpell|ARD|Krankenschwester|Azubi",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Versicherungsvertreter|Privatdetektiv|Lehrer|Frauenarzt|Rechtsanwalt|Hausmeisterin|Kommissar",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Und was machen Sie so beruflich?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Herr Kaiser|Matula|Dr. Specht|Dr. Stefan Frank|Liebling|Else Kling|Faust",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423034_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423034_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423034_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

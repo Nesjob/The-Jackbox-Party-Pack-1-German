@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Kongo|Island|Saludos Amigos|Russland|Bis sp\u00e4ter|Friede sei mit dir",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Schweden|Wie geht\u2019s?|Servus|Norwegen|China|Verschwinde!|Taiwan",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Hebr\u00e4isch|China|Gott zum Gru\u00dfe|Orthodox|Buenos Dias|Mach\u2019s gut|Ungarn",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Italien|Hawaii|Mexiko|Israel|Japan|Frankreich|England",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Auf Wiedersehen! Aber wo?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Arrividerci|Aloha|Adios|Shalom|Sayonara|Adieu|Goodbye",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423020_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423020_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423020_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

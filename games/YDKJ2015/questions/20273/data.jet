@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420273_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Mutter Natur & M\u00e4nnliche Genitalien",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420273_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Was h\u00e4tte Sokrates vermutlich NICHT von seiner Blumenverk\u00e4uferin verlangt, weil sich der Name der betreffenden Pflanze aus dem altgriechischen Wort f\u00fcr \u201cHoden\u201d ableitet?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420273_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\u201cWickeln Sie mir die ORCHIDEEN ein.\u201d",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\u201cSpr\u00fchen Sie mir den BAMBUS ein.\u201d",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "\u201cSchneiden Sie mir die ROSEN unten ab.\u201d",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "\u201cTun Sie mir was Gr\u00fcnes an die TULPEN.\u201d",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420273_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420273_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420273_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420273_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

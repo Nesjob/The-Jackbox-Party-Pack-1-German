@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Wenn Schlangen Krawatten tragen w\u00fcrden",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

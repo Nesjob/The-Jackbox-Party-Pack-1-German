@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420302_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Hochn\u00e4sige Gase & Alter Adel",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420302_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420302_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, die Edelm\u00e4nner fr\u00fcherer Jahrhunderte h\u00e4tten im Falle von Bl\u00e4hungen auch Edelgase abgesondert. Welches Gas w\u00e4re nicht dabeigewesen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420302_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Sauerstoff",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Helium",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Krypton",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Neon",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420302_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420302_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420302_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420302_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420199_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Asterix im Reich der Toten",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420199_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420199_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, r\u00f6mische Gerichtsmediziner untersuchen die Leichen der Gallier innerhalb weniger Stunden nach der Tat, wessen K\u00f6rper wird dann noch am w\u00e4rmsten sein? Der von",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420199_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,3,0",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Obelix",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Idefix",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Asterix",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Troubadix",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420199_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420199_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420199_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420199_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

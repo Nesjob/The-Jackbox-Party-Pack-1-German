@@ -1,0 +1,135 @@
+{
+  "fields": [
+    {
+      "v": "420201_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Die hei\u00dfesten Sites im Internet!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420201_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Beim Surfen durchs Internet sto\u00dfen Sie auf eine Chat Line f\u00fcr \u201cSeraphim\u201d. Wen haben Sie wohl in der Leitung?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420201_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Sechsfl\u00fcglige Engel",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\u00c4gyptische Netsurfer",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Orthodoxe Juden",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Liebestolle Araber",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420201_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420201_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420201_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

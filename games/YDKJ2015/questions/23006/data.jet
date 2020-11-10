@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Nibelungen|Arm|Mund|Detektiv|Zunge|Herz",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "\u00d6lfarbe|Boot|Pinsel|Pyramide|H\u00fcftgelenk|Frauenheld|Barbie",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Moby Dick|Z\u00e4hne|Brieftasche|K\u00f6nigreich|Lolli|Milz|Kopf",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Haare|Bein|Genitalien|Hand|Ohr|Auge|Nase",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "HILFE! Ich glaub mir fehlt etwas",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Kojak|Kapit\u00e4n Ahab|Ken|Captain Hook|Vincent van Gogh|Hagen von Tronje|Sphinx",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423006_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423006_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423006_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

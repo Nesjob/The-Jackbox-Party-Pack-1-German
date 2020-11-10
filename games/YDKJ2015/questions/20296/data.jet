@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420296_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Auf Sauftour mit Goethe",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420296_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420296_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Um vor den Jungs anzugeben, beschlie\u00dft Faust, sein Bier im Versma\u00df eines \u201cf\u00fcnff\u00fc\u00dfigen Jambus\u201d zu bestellen. Wie h\u00f6rt sich das an?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420296_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\u201cVerzeihung, Ober, kriege ich ein Bier?\u201d",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\u201cKann ich mal\u2019n Bier haben?\u201d",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "\u201cBier her! Bier her! Oder ich fall um!\u201d",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "\u201cHe da! Ein Bier, Bube, wenn\u2019s beliebt!\u201d",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420296_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420296_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420296_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

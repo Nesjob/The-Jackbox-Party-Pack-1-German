@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Fairy Ultra|Allianz|Walross|Baguette|Herr Winter|Hohes C",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Tchibo|Bonbons|Obst|Supermarkt|Quark|Beaujolais|Rollmops",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "M\u00fcsli|Onko|Granini|Gewinnspiel|Willy|Kaufrausch|Loriot",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Palmolive|Hamburg-Mannheimer|Ariel|Valensina|Aktion Sorgenkind|Jacobs|Holl\u00e4ndischer K\u00f6se",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "F\u00fcr wen halt\u2019 ich den Kopf hin?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Tilly|Herr Kaiser|Klementine|Onkel Dittmeyer|Wum & Wendelin|Frau Sommer|Frau Antje",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423043_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423043_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423043_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

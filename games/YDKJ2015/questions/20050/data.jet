@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420050_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Kojoten & Superfastfood",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420050_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420050_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Kojote Karl f\u00e4ngt endlich den Roadrunner und beschlie\u00dft, sein Opfer auf franz\u00f6sische Art im Bl\u00e4tterteigmantel zuzubereiten. Wie wird er das Gericht nennen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420050_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Roadrunner en croute",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Roadrunner en robe",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Roadrunner dans une capote",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Roadrunner au jus",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420050_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420050_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420050_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

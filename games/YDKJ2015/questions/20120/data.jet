@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420120_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Katastrophenfilme & Verdauungsprobleme",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420120_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "In dem Film \u201cDer Wei\u00dfe Hai\u201d wird an einem der Tierchen eine Autopsie vorgenommen. Welcher der folgenden Gegenst\u00e4nde fand sich im Magen dieses Hais?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420120_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Ein Nummernschild",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Eine abgetrennte Hand mit Ehering",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Eine unge\u00f6ffnete Dose Fr\u00fchst\u00fccksfleisch",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Ein funktionsf\u00e4higer Au\u00dfenbordmotor",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420120_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420120_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420120_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420120_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

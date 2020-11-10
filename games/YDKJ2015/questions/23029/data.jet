@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Wasser|Homosexualit\u00e4t|Heterosexualit\u00e4t|13|Beichte|Gestank",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Antiquit\u00e4ten|Nichts|Edelgas|B\u00fccher|Gro\u00dfe Pl\u00e4tze|Schwarze Katzen|Fahrst\u00fchle",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Flugzeuge|Drogen|M\u00f6bel|Blitzlicht|Transvestiten|Kondome|Spiele",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Gro\u00dfe H\u00f6hen|Fische|Pferde|Geschlechtsverkehr|Spinnen|Gott|Fremde Menschen",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Wovor haben Sie denn Angst?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Akrophobie|Ichthyophobie|Hippophobie|Coitophobie|Arachnophobie|Theophobie|Xenophobie",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423029_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423029_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423029_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

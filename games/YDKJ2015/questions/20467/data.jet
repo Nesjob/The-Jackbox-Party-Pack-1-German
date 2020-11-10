@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420467_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Mogli, Balu & T\u00f6dliche Ferien in Taiwan",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420467_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420467_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wer w\u00fcrde diesen Urlaub in permanenter Todesangst verbringen, weil er bef\u00fcrchten m\u00fcsste, von den Taiwanesen als Spezialit\u00e4t verspeist zu werden?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420467_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Kaa, die Schlange",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Mogli",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Balu, der B\u00e4r",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Shir Khan, der Tiger",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420467_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420467_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420467_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420467_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

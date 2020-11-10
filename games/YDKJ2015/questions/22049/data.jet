@@ -1,0 +1,197 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bBoth"
+    },
+    {
+      "v": "Autokratie",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Algolagnie",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Sodomie",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "P\u00e4derastie",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Gerontokratie",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "Gerontophilie",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "Despotie",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "1,0,0,0,1,0,1",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "Wie du mir, Sodomie!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Sexuelle Vorliebe",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "politischer Begriff",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "SEXUELLE VORLIEBE",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "POLITISCHER BEGRIFF",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "422049_11",
+      "t": "A",
+      "n": "aQ1"
+    },
+    {
+      "v": "422049_12",
+      "t": "A",
+      "n": "aQ2"
+    },
+    {
+      "v": "422049_13",
+      "t": "A",
+      "n": "aQ3"
+    },
+    {
+      "v": "422049_14",
+      "t": "A",
+      "n": "aQ4"
+    },
+    {
+      "v": "422049_15",
+      "t": "A",
+      "n": "aQ5"
+    },
+    {
+      "v": "422049_16",
+      "t": "A",
+      "n": "aQ6"
+    },
+    {
+      "v": "422049_17",
+      "t": "A",
+      "n": "aQ7"
+    },
+    {
+      "v": "422049_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "422049_02",
+      "t": "A",
+      "n": "aSetup"
+    },
+    {
+      "v": "422049_20",
+      "t": "A",
+      "n": "aExit"
+    },
+    {
+      "v": "422049_03",
+      "t": "A",
+      "n": "aDis"
+    },
+    {
+      "v": "422049_04",
+      "t": "A",
+      "n": "aDat"
+    },
+    {
+      "v": "422049_21",
+      "t": "A",
+      "n": "aGenRocked"
+    },
+    {
+      "v": "422049_22",
+      "t": "A",
+      "n": "aGenDecent"
+    },
+    {
+      "v": "422049_23",
+      "t": "A",
+      "n": "aGenPoor"
+    },
+    {
+      "v": "422049_24",
+      "t": "A",
+      "n": "aGenAwful"
+    },
+    {
+      "t": "A",
+      "n": "aTimer"
+    },
+    {
+      "t": "A",
+      "n": "aInstr"
+    }
+  ]
+}

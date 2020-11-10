@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420391_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Travestie & Sehr seltene Kochrezepte",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420391_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, Sie haben Schaupieler Divine zum Essen eingeladen. Was k\u00f6nnten Sie ihm eingedenk seiner kulinarischen Vorlieben in dem Film \u201cPink Flamingos\u201d kredenzen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420391_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Hundekotkl\u00f6\u00dfchen im Teigmantel",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Zuckerhut mit Fettsauce auf Filzunterlage",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Sahnetorte mit gro\u00dfem Marzipanpenis",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Carpaccio von rohem Flamingo",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420391_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420391_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420391_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420391_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420391_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

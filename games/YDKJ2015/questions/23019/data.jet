@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Seer\u00e4uber|Knoblauch|Vampire|Roadrunner|Watson|Frankenstein",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Shakespeare|Altes Testament|Invasion|Tom & Jerry|Schwertfisch|Steinschleuder|Schleim",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Robin Hood|Jules Verne|Formicula|Holzpflock|Blut|Walf\u00e4nger|Romeo",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Goliath|Moby Dick|Van Helsing|Aliens|Sylvester|Dr. Moriarty|Capulet",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Wer gegen wen?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "David|Kapit\u00e4n Ahab|Dracula|Ellen Ripley|Tweety|Sherlock Holmes|Montague",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423019_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423019_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423019_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

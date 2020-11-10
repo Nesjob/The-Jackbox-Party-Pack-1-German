@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420515_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Wien & Wilder Westen",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420515_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420515_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "In Ermangelung eines Saloons geht Lucky Luke dort in ein Kaffehaus. Doch vorher bestellt er f\u00fcr Jolly Jumper im Stall einen \u201cEinsp\u00e4nner\u201d. Was wird gebracht?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420515_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Kaffee im Glas mit geschlagener Sahne",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Bier mit Marillenschnaps",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Sachertorte in Kutschenform",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Zwei Stuten",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420515_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420515_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420515_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420515_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

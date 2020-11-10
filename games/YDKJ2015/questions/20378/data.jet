@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "v": "420378_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Mit dem Namen willst du in die Hitparade?!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420378_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420378_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Bob Dylan : Robert Allen Zimmerman = Roy Black : ?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420378_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Gerhard H\u00f6llerich",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Mick Jagger",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Georgious Passayiotou",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Udo Bockelmann",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420378_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420378_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420378_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420378_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420378_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

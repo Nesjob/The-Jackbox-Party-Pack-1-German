@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420542_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Schwiegerm\u00fctter im Weltall!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420542_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420542_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Sie beschlie\u00dfen, Ihre Schwiegermutter zur Sonne zu schie\u00dfen. Was w\u00e4re das beste Datum daf\u00fcr, da an diesem Tag die Erde der Sonne am n\u00e4chsten ist? Der",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420542_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "3. Januar",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "1. April",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "17. November",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "6. Februar",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420542_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420542_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420542_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420542_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

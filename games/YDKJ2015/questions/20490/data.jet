@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420490_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Gro\u00dfe Schriftsteller & Blanker Horror",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420490_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420490_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, Sie wollen einen Gruselfilm unter Verwendung eines Buches von Hermann Hesse drehen, wie k\u00f6nnte Ihr Film NICHT hei\u00dfen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420490_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,3,0",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Prof. Unrat - Das Monster aus dem M\u00fcll",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Siddharta - Bis aufs Blut gequ\u00e4lt",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Das Glasperlenspiel des Grauens",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Der Steppenwolf bei\u00dft um Mitternacht",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420490_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420490_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420490_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420490_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

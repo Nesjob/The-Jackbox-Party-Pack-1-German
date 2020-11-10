@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420424_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "TV-Kommissare & Der helle Wahnsinn",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420424_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420424_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wenn Theo Kojak damals in einer Folge der \u201cTheomanie\u201d verfallen w\u00e4re, was h\u00e4tte er dann vermutlich von seinen Kollegen verlangt?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420424_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\u201cNenn mich \u201cJesus\u201d, Saperstein!\u201d",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\u201cKannst mich \u201cmein Sohn\u201d nennen, Frank.\u201d",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "\u201cSag gef\u00e4lligst \u201cJulia\u201d zu mir, Stavros.\u201d",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "\u201cF\u00fcr dich \u201cHerr Pr\u00e4sident\u201d, Crocker.\u201d",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420424_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420424_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420424_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420424_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420348_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Der Alptraum jedes Hypochonders",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420348_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420348_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "W\u00e4hrend einer Untersuchung bei Ihrem Hausarzt betreffs Ihrer Gonorrhoe diagnostiziert er auch eine Logorrhoe und eine Diarrhoe bei Ihnen. Was k\u00f6nnte Ihnen am ehesten helfen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420348_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Eine Socke im Mund u. Kohletabletten",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Ein Kaiserschnitt u. eine Rektoskopie",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Eine Beinamputation u. Aspirin",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Morphium u. ein Abf\u00fchrmittel",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420348_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420348_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420348_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

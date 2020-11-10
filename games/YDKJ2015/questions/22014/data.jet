@@ -1,0 +1,197 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bBoth"
+    },
+    {
+      "v": "Chruschtschow",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Grasovka",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Puschkin",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Jelzin",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Gorbatschow",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "Stalin",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "Wyborovka",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "1,1,0,2,2,0,0",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "Wodka & Weltherrschaft",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Wodka",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "Russischer Pr\u00e4sident",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "WODKA",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "RUSSISCHER PR\u00c4SIDENT",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "422014_11",
+      "t": "A",
+      "n": "aQ1"
+    },
+    {
+      "v": "422014_12",
+      "t": "A",
+      "n": "aQ2"
+    },
+    {
+      "v": "422014_13",
+      "t": "A",
+      "n": "aQ3"
+    },
+    {
+      "v": "422014_14",
+      "t": "A",
+      "n": "aQ4"
+    },
+    {
+      "v": "422014_15",
+      "t": "A",
+      "n": "aQ5"
+    },
+    {
+      "v": "422014_16",
+      "t": "A",
+      "n": "aQ6"
+    },
+    {
+      "v": "422014_17",
+      "t": "A",
+      "n": "aQ7"
+    },
+    {
+      "v": "422014_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "422014_02",
+      "t": "A",
+      "n": "aSetup"
+    },
+    {
+      "v": "422014_20",
+      "t": "A",
+      "n": "aExit"
+    },
+    {
+      "v": "422014_03",
+      "t": "A",
+      "n": "aDis"
+    },
+    {
+      "v": "422014_04",
+      "t": "A",
+      "n": "aDat"
+    },
+    {
+      "v": "422014_21",
+      "t": "A",
+      "n": "aGenRocked"
+    },
+    {
+      "v": "422014_22",
+      "t": "A",
+      "n": "aGenDecent"
+    },
+    {
+      "v": "422014_23",
+      "t": "A",
+      "n": "aGenPoor"
+    },
+    {
+      "v": "422014_24",
+      "t": "A",
+      "n": "aGenAwful"
+    },
+    {
+      "t": "A",
+      "n": "aTimer"
+    },
+    {
+      "t": "A",
+      "n": "aInstr"
+    }
+  ]
+}

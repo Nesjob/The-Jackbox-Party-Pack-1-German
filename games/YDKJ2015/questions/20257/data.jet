@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420257_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Kreislaufprobleme im alten Gallien",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420257_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420257_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Welche der folgenden Aktivit\u00e4ten wird Asterix\u2019 Kreislauf am WENIGSTEN belasten?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420257_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Sex mit Gutemine",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Das Verpr\u00fcgeln wehrloser R\u00f6mer",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Ein Spaziergang mit Idefix",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Ein lautstarker Streit mit Obelix",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420257_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420257_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420257_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420257_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

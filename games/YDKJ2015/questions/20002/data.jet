@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "v": "420002_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Himmelsforscher im Drogenrausch",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420002_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420002_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Galilei h\u00e4lt sich f\u00fcr die Sonne, Kopernikus f\u00fcr den Mond und Kepler f\u00fcr die Erde. Wie m\u00fcssen die drei sich positionieren, um eine Mondfinsternis nachzustellen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420002_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Kepler tritt zwischen Galilei u. Kopernikus",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Galilei tritt zwischen Kopernikus u. Kepler",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Kopernikus tritt zwischen Galilei u. Kepler",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Galilei zeigt den anderen sein Hinterteil",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420002_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420002_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420002_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420002_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420002_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

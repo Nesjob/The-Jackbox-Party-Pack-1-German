@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420115_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Im Bett mit Cindy Crawford",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420115_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420115_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Welche der folgenden Fragen, die Sie dem Model stellen, ist eine rhetorische Frage?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420115_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\u201cWer w\u00e4re jetzt nicht gerne ich?\u201d",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\u201cWieviel kostet mich der ganze Spa\u00df?\u201d",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "\u201cKann ich ein Autogramm haben?\u201d",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "\u201cHast du irgendwelche Krankheiten?\u201d",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420115_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420115_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420115_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420115_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

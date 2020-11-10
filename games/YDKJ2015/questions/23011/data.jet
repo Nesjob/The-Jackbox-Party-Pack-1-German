@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Tierkreiszeichen|Physik|Greifv\u00f6gel|Reptilien|Mythen|Kinderkrankheiten",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Literatur|S\u00e4ugetiere|Reptilien|Fortpflanzung|Chemikalien|Bier|Landkarten",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Kreuzz\u00fcge|Sexualit\u00e4t|Ern\u00e4hrung|Kartenspiele|Gesellschaft|K\u00e4se|Osmose",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "W\u00f6rter|Pflanzen|Insekten|Knochen|Himmelsk\u00f6rper|Wappen|Wein",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Wof\u00fcr interessieren Sie sich denn?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Etymologe|Botaniker|Entomologe|Osteologe|Astronom|Heraldiker|\u00d6nologe",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423011_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423011_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423011_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

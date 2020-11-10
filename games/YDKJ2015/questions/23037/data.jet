@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Bier|Mexiko|Inverness|Oliven|Bananensaft|Wei\u00dfwein",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Cassis|Punsch|New York|Cocktail|Barkeeper|Eierlik\u00f6r|Feuerwasser",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Tequila Sunrise|Feuerzangenbowle|Brummsch\u00e4del|Harlem|Reisschnaps|Alkoholvergiftung|Obstler",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Rum|Wodka|Bourbon|Tequila|Gin|Champagner|Rotwein",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Was macht dich so hart?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Caipirinha|Bloody Mary|Manhattan|Margarita|Dry Martini|Kir Royal|Sangria",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423037_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423037_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423037_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

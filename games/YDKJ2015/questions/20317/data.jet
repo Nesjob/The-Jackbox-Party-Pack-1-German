@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420317_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Indiana Jones & Pr\u00e4historische Spie\u00dfer",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420317_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Arch\u00e4ologe Indiana Jones hat menschliche Knochen ausgegraben, die er f\u00fcr die \u00dcberreste von Fred Feuerstein h\u00e4lt. Mit welcher Methode kann er das Alter des Fundes bestimmen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420317_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,3,0",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Kohlenstoff-14-Methode",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Tritium-Methode",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Rhythmus-Methode",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Bart-Methode",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420317_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420317_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420317_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420317_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

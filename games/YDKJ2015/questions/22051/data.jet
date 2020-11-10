@@ -1,0 +1,197 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bBoth"
+    },
+    {
+      "v": "Karl Carstens",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Rolf T\u00f6pperwien",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Werner Hansch",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Gustav Heinemann",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Theodor Heu\u00df",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "Gerd Rubenbauer",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "Dieter K\u00fcrten",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "1,0,0,1,1,0,0",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "Wenn M\u00e4nner zuviel reden",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Sportreporter",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "Ex-Bundespr\u00e4sident",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "SPORTREPORTER",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "EX-BUNDESPR\u00c4SIDENT",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "422051_11",
+      "t": "A",
+      "n": "aQ1"
+    },
+    {
+      "v": "422051_12",
+      "t": "A",
+      "n": "aQ2"
+    },
+    {
+      "v": "422051_13",
+      "t": "A",
+      "n": "aQ3"
+    },
+    {
+      "v": "422051_14",
+      "t": "A",
+      "n": "aQ4"
+    },
+    {
+      "v": "422051_15",
+      "t": "A",
+      "n": "aQ5"
+    },
+    {
+      "v": "422051_16",
+      "t": "A",
+      "n": "aQ6"
+    },
+    {
+      "v": "422051_17",
+      "t": "A",
+      "n": "aQ7"
+    },
+    {
+      "v": "422051_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "422051_02",
+      "t": "A",
+      "n": "aSetup"
+    },
+    {
+      "v": "422051_20",
+      "t": "A",
+      "n": "aExit"
+    },
+    {
+      "v": "422051_03",
+      "t": "A",
+      "n": "aDis"
+    },
+    {
+      "v": "422051_04",
+      "t": "A",
+      "n": "aDat"
+    },
+    {
+      "v": "422051_21",
+      "t": "A",
+      "n": "aGenRocked"
+    },
+    {
+      "v": "422051_22",
+      "t": "A",
+      "n": "aGenDecent"
+    },
+    {
+      "v": "422051_23",
+      "t": "A",
+      "n": "aGenPoor"
+    },
+    {
+      "v": "422051_24",
+      "t": "A",
+      "n": "aGenAwful"
+    },
+    {
+      "t": "A",
+      "n": "aTimer"
+    },
+    {
+      "t": "A",
+      "n": "aInstr"
+    }
+  ]
+}

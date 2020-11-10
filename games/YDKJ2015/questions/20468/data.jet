@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420468_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Junge Wilde & Alte R\u00f6mer",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420468_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420468_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Eines Abends lernt Mogli an der Bar Romulus und Remus kennen. Was wird er nach ein paar Takten Smalltalk vermutlich ausrufen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420468_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\u201cIhr wurdet auch von einer W\u00f6lfin ges\u00e4ugt?\u201d",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\u201cIhr kennt auch sprechende Tiere?\u201d",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "\u201cIhr hattet auch Krach miteinander?\u201d",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "\u201cIhr habt auch eine Stadt gegr\u00fcndet?\u201d",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420468_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420468_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420468_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420468_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

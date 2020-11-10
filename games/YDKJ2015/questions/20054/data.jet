@@ -1,0 +1,132 @@
+{
+  "fields": [
+    {
+      "v": "420054_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "An der zweiten Lunge links!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420054_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420054_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Stellen Sie sich eine Fortsetzung des Films vor, in der die Wissenschaftler das Herz des Patienten erreichen m\u00fcssen. Welches Blutgef\u00e4\u00df bringt ihr U-Boot am schnellsten dorthin?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420054_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Eine Vene",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Eine Kapillare",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Ein Korpuskel",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Eine Arterie",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420054_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420054_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420054_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

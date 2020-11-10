@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Brauner|Druck|Essen|Hamburger|Fr\u00e4ulein|B\u00e4r",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Statue|Tofu|Gesundheit|Besteck|Paradoxon|Gesch\u00e4ftsmann|Krankheit",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Platte|Anstieg|Reformhaus|Staatsmann|Engl\u00e4nder|Rappe|Querdenker",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Greis|Zwerg|Glut|Schimmel|Million\u00e4r|Schwarzseher|Steak",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Zusammen ein Widerspruch in sich",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "junger|gro\u00dfer|kalte|schwarzer|armer|optimistischer|vegetarisches",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423049_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423049_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423049_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

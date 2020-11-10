@@ -1,0 +1,148 @@
+{
+  "fields": [
+    {
+      "v": "420034_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Auf dem \u201cHighway to Hell\u201d",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420034_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420034_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Als Sie durch Italien kommen, deuten die Leute auf Ihr Auto und rufen \u201cBabbo Natale\u201d. In Frankreich schreit man entsetzt \u201cp\u00e8re No\u00ebl\u201d. Wer klebt vorne auf Ihrem K\u00fchlergrill?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420034_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Der Weihnachtsmann",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Der Osterhase",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "V\u00e4terchen Frost",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Der Papst",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420034_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420034_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420034_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420034_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "3",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "420034_50",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "420034_51",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "420034_52",
+      "t": "G",
+      "n": "gPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

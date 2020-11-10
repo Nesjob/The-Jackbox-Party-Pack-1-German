@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Margarine|Alleskleber|Klebestreifen|Taschent\u00fccher|K\u00fcchenw\u00fcrze|L\u00f6slicher Kaffee",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Schmerztabletten|Rama|UHU|Tesa|Tempo|Maggi|Nescaf\u00e9",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Aspirin|Butter|Pflanzlich|In jedem Fall|Kakaogetr\u00e4nk|Cappuccino|Gegen den Gilb",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Brauselimonade|K\u00fcchenrolle|Plastikgeschirr|Kaba|Porzellan|Unkaputtbar|Pflaster",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Wie hei\u00dft du gleich wieder?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Ich f\u00fchle mich so frei|Ariel|Onko|Macht stark|Softies|Hansa-Plast|Cornflakes",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423044_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423044_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423044_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

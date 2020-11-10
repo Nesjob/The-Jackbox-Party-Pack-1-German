@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Sprengstoff|Kommissar|Vanderbilt|Madonna|Magisches Dreieck|London",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Walter-Elf|Graceland|Berti|St. Pauli|Downing Street|Iron Man|Wilhelm II.",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Marilyn Monroe|Queen|Herr Kaiser|Bayern|Die Fantastischen Vier|Playboy|Rock \u2019n\u2019 Roll",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Elvis Presley|Margaret Thatcher|Gerd M\u00fcller|Franz Beckenbauer|Helmut Fischer|Greta Garbo|Beatles",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Ach du bist das?!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "The King|Die Eiserne Lady|Der Bomber der Nation|Der Kaiser|Der ewige Stenz|Die G\u00f6ttliche|The Fab Four",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423003_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423003_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423003_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

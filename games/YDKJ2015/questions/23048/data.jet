@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Tom Cruise|Michael Jackson|Schauspieler|Regisseur|John Cleese|Pele",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Filmstar|Eric Clapton|Romy Schneider|Bee Gees|Schriftsteller|David Bowie|Stephen King",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Hollywood|Heino|Mike Tyson|John Lennon|Alfred Hitchcock|Oscar|H\u00f6lderlin",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Bob Dylan|Marylin Monroe|Elton John|Cary Grant|Muhammad Ali|Ringo Starr|Roy Black",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Wenn man sich selber tauft",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Robert Allan Zimmermann|Norma Jean Baker|Reginald K. Dwight|Archibald A. Leach|Cassius Clay|Richard Starkey|Gerhard H\u00f6llerich",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423048_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423048_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423048_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

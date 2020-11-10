@@ -1,0 +1,131 @@
+{
+  "fields": [
+    {
+      "v": "420048_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Kapitel eins: Stirb!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420048_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Stellen Sie sich vor, die Autoren des \u201cTotenbuches\u201d w\u00fcrden in einer Buchhandlung ihr Werk signieren. Wer w\u00fcrde wohl f\u00fcr ein Autogramm Schlange stehen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420048_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Totengr\u00e4ber aus dem Mittelalter",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Katholische Exorzisten aus Italien",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "\u00c4gypter aus der Pharaonenzeit",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Voodoo-Priester aus \u201cAkte X\u201d",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420048_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420048_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420048_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

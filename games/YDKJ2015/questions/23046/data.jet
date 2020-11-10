@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Western|Science Fiction|Neun|Zw\u00f6lf|10|Kim Basinger",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Sechs|Acht|Dreizehn|1941|Krimi|Erotik|Jules Verne",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Hugh Grant|Sergio Leone|5|17 + 4|Orient-Express|Hundertzw\u00f6lf|Harakiri",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Zehn|Zwei|9 1/2|Sieben|20|Vier|Drei",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Wie viele wart ihr doch gleich?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Kleine Negerlein|Glorreiche Halunken|Wochen|Samurai|Meilen unter dem Meer|Hochzeiten und ein Todesfall|M\u00e4nner und ein Baby",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423046_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423046_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423046_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

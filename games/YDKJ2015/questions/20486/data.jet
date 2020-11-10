@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420486_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Bl\u00f6dsinnige Ideen antiker Alpinisten",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420486_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, Hannibal h\u00e4tte die Alpen seinerzeit nicht mit Elefanten, sondern mit \u201cEleven\u201d \u00fcberquert. Worauf w\u00e4re er geritten?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420486_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Auf Ballettsch\u00fclern",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Auf elf Leuten",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Auf Aufz\u00fcgen",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Auf anmutigen Naturgeistern",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420486_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420486_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420486_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420486_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

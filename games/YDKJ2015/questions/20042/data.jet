@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420042_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Krieg der Spermien",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420042_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420042_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wenn jeder der folgenden M\u00e4nner pro Ejakulation so viele Spermien verschleudert wie sein tierischer Namensvetter, welchen sollten Sie dann erw\u00e4hlen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420042_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Das miese Schwein an der Bar",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Den geilen Hengst am Nachbartisch",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Die fiese Ratte in der Ecke",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Den verlogenen Hund auf Ihrem Scho\u00df",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420042_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420042_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420042_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420042_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "v": "420281_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Ges\u00fcnder leben mit harten Drinks",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420281_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420281_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Welchen der folgenden Schn\u00e4pse k\u00f6nnten Sie zwei- bis viermal am Tag trinken mit der Ausrede, das sei ratsam, weil er aus Obst gebrannt sei?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420281_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Calvados",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Whisky",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Korn",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Wodka",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420281_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420281_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420281_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420281_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "420281_50",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "420281_51",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "420281_52",
+      "t": "G",
+      "n": "gPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

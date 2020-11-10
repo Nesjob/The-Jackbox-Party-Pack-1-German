@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Sex|Luke Skywalker|Elektrischer Stuhl|Sauerstoff|Schrotflinte|Lungenkrebs",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Vierteilung|Schafott|Xanadu|Bonbon|Star Wars|Rosebud|Sumo",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Phaser|Werther\u2019s Echte|Pharis\u00e4er|Enterprise|Jungfrau|Goethe|Gott",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Scheiterhaufen|Darth Vader|Radioaktive Strahlung|Altersschw\u00e4che|Explosion|Selbstmord|Steinschleuder",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "HILFE! Ich sterbe!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Jeanne d\u2019Arc|Obi-Wan Kenobi|Mr. Spock|Citizen Kane|Der wei\u00dfe Hai|Werther|Goliath",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423032_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423032_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423032_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

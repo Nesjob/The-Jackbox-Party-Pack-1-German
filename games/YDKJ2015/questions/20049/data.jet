@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420049_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Wie viele Jachten wollen Sie kaufen?!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420049_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420049_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Diesmal muss der Mann eine Billion Dollar ausgeben. Wenn er jede Sekunde einen Dollar raushaut, wie lange dauert es dann, bis er seine Billion verprasst hat?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420049_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "32.000 Jahre",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "320 Jahre",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "32 Jahre",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "3,2 Jahre",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420049_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420049_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420049_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420049_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

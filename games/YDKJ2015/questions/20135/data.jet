@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420135_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Wenn \u201cEs\u201d beim Mann zu gro\u00df ist",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420135_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Was h\u00e4tte Sigmund Freud diagnostiziert, wenn Sie nach Ihrer ersten Masturbation \u00fcber Schuldgef\u00fchle geklagt h\u00e4tten?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420135_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Ein \u00fcberstarkes \u00dcber-Ich",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Einen \u00d6dipuskomplex",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Eine anale Fixierung",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Ein \u00fcberdimensioniertes Es",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420135_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420135_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420135_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420135_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420135_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

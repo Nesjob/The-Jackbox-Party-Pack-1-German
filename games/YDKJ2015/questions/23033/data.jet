@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Stacheldraht|Glocke|Circus Maximus|Bosporus|Gottheit|Champs \u00c9lys\u00e9es",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Afrika|Niederlande|Ruine|Pakistan|Maharadscha|Klagenfurt|Phallussymbol",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Jordanien|Einstein|Deutschland|Triumphbogen|Neutron|Beneluxstaaten|Gladiator",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Israel|England|Italien|Griechenland|Indien|Frankreich|Belgien",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Ich wei\u00df wo ich stehe.",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Klagemauer|Big Ben|Kolosseum|Akropolis|Tadsch Mahal|Arc de Triomphe|Atomium",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423033_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423033_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423033_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

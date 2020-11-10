@@ -1,0 +1,197 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bBoth"
+    },
+    {
+      "v": "Sellerie",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Stechapfel",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Bilsenkraut",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Tripmadam",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Bohnenkraut",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "Senfgas",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "Totentrompete",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "1,0,0,1,1,0,1",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "Hexen vor dem Gew\u00fcrzregal",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Gift",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "Gew\u00fcrzpflanze",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "GIFT",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "GEW\u00dcRZPFLANZE",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "422018_11",
+      "t": "A",
+      "n": "aQ1"
+    },
+    {
+      "v": "422018_12",
+      "t": "A",
+      "n": "aQ2"
+    },
+    {
+      "v": "422018_13",
+      "t": "A",
+      "n": "aQ3"
+    },
+    {
+      "v": "422018_14",
+      "t": "A",
+      "n": "aQ4"
+    },
+    {
+      "v": "422018_15",
+      "t": "A",
+      "n": "aQ5"
+    },
+    {
+      "v": "422018_16",
+      "t": "A",
+      "n": "aQ6"
+    },
+    {
+      "v": "422018_17",
+      "t": "A",
+      "n": "aQ7"
+    },
+    {
+      "v": "422018_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "422018_02",
+      "t": "A",
+      "n": "aSetup"
+    },
+    {
+      "v": "422018_20",
+      "t": "A",
+      "n": "aExit"
+    },
+    {
+      "v": "422018_03",
+      "t": "A",
+      "n": "aDis"
+    },
+    {
+      "v": "422018_04",
+      "t": "A",
+      "n": "aDat"
+    },
+    {
+      "v": "422018_21",
+      "t": "A",
+      "n": "aGenRocked"
+    },
+    {
+      "v": "422018_22",
+      "t": "A",
+      "n": "aGenDecent"
+    },
+    {
+      "v": "422018_23",
+      "t": "A",
+      "n": "aGenPoor"
+    },
+    {
+      "v": "422018_24",
+      "t": "A",
+      "n": "aGenAwful"
+    },
+    {
+      "t": "A",
+      "n": "aTimer"
+    },
+    {
+      "t": "A",
+      "n": "aInstr"
+    }
+  ]
+}

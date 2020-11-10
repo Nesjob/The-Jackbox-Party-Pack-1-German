@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420228_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Sie denken, Nonnen sind streng?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420228_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420228_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Der hl. Lambert bestrafte sich selbst, indem er sich \u00fcber Nacht in den Schnee setzte, weil er sein Schweigegel\u00fcbde gebrochen hatte. Welcher Art war seine Verfehlung gewesen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420228_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Er hatte Bl\u00e4hungen gehabt",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Er hatte mit den Kn\u00f6cheln geknackst",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Er hatte im Schlaf gesprochen",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Er hatte einen Schluckauf gehabt",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420228_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420228_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420228_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420228_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

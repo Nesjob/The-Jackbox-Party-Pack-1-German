@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "v": "420189_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Jede Menge Spa\u00df mit Plastilin",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420189_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420189_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Als Sie die Knetmasse wieder abziehen, sehen Sie die Worte EHCILKCERHCS RED RAG\u00c4H auf dem Klumpen. Wie hei\u00dft lhr Lieblingscomic?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420189_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "H\u00e4gar der Schreckliche",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Die Peanuts",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Tim und Struppi",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Prinz Eisenherz",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420189_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420189_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420189_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420189_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420189_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420558_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Leidenschaft & Undurchschaubare Kurven",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420558_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420558_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Sie wollen in \u201cPorgy and Bess\u201d gehen, landen aber in einem Musical namens \u201cPorgy and Baisse\u201d. Worum wird sich die Handlung vermutlich drehen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420558_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Um Liebe und Kursr\u00fcckg\u00e4nge an der B\u00f6rse",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Um Freundschaft und W\u00e4hrungsverfall",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Um Tod und stabile Aktienkurse",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Um Hass und Kursanstiege an der B\u00f6rse",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420558_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420558_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420558_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420558_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

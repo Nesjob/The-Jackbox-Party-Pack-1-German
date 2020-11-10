@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420103_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Woher du kommen?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420103_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Sie fahren nach New York, um vor dem UN-Geb\u00e4ude zu demonstrieren. Da spricht Sie eine h\u00fcbsche junge Dame in Esperanto an. Woher kommt sie vermutlich?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420103_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,3,0",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Schwer zu sagen",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Aus dem Inneren des UN-Geb\u00e4udes",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Aus Burkina Faso",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Aus dem Baskenland",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420103_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420103_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420103_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420103_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

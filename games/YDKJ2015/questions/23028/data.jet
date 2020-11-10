@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "New South Wales|Moskau|Afrika|Rolling Stones|Nougat|New London",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Holland|Schokoriegel|Revolver|Euphrat|Mittlerer Osten|\u00c4gypten|Kenia",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Mars|Spitzbergen|John Lennon|Beagles|Saudi-Arabien|Twiggy|Schah",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Pal\u00e4stina|Silver Beatles|Persien|Leningrad|Rhodesien|Raider|Neu-Amsterdam",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Ich hie\u00df nicht immer so",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Israel|Beatles|Iran|St. Petersburg|Simbabwe|Twix|New York",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423028_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423028_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423028_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

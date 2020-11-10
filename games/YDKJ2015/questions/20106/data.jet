@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "v": "420106_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Kann man das mitessen?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420106_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wie hei\u00dft eigentlich dieses wei\u00dfe Zeug, das in einem Snickers-Riegel drin ist?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420106_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Nougat",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Schokolade",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Invertzucker",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Taurin",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420106_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420106_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420106_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420106_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420106_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "1",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "420106_50",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "420106_51",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "420106_52",
+      "t": "G",
+      "n": "gPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

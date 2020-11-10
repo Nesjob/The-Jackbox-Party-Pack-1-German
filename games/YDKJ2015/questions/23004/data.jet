@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Igitt!|Heuschnupfen|Kahlk\u00f6pfigkeit|Milch und Zucker|Tollwut|Hatschi!",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Keuchhusten|W\u00fcrg!|Plattf\u00fc\u00dfe|Milzbrand|Hefeteig|Karottencremesuppe|Halswickel",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Akne|Bitter|\u00dcbermut|Fliegenpatsche|Lecker!|Vergr\u00f6\u00dferte Prostata|Warzen",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Fieber|Schlaflosigkeit|Potenzprobleme|Augen|Depressionen|Verstauchung|Wei\u00dfe Z\u00e4hne",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Wof\u00fcr soll das gut sein?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Wadenwickel|Baldrian|Spanische Fliege|Karotten|Johanniskraut|Essigsaure Tonerde|Backpulver",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423004_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423004_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423004_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

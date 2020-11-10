@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420142_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "K\u00f6rpergeruch & Lustige Tiergeschichten",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420142_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Parf\u00fcm enth\u00e4lt oft den wohlriechenden Duftstoff \u201cAmbra\u201d. Woraus wird dieser gewonnen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420142_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,3,0",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Aus Ausscheidungen des Pottwals",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Aus dem Urin von Warzenschweinen",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Aus dem Schleim von Zitteraalen",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Aus ausgepressten Heuschrecken",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420142_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420142_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420142_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420142_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

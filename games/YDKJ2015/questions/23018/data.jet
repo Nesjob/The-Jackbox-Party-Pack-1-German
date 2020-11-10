@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Tausend|Haie|Admiral|Meer|Tornados|Querfl\u00f6te",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Beutetier|Fischst\u00e4bchen|Verwandtschaft|Musik|Tiere|Tournee|Plural",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Sch\u00e4ferhund|Beatles|Familie|Orchestergraben|Wolle|Artillerie|Offiziere",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Geschwader|Armee|Schwarm|Orchester|Flotte|Herde|Rudel",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Gemeinsam sind wir was?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Flugzeuge|Soldaten|Fische|Musiker|Schiffe|Schafe|W\u00f6lfe",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423018_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423018_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423018_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

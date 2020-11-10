@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420274_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Manche L\u00fcgen haben verdammt lange Beine!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420274_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, Kleopatra h\u00e4tte eine Kontaktanzeige aufgegeben. Welcher Satz darin w\u00e4re eine glatte L\u00fcge gewesen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420274_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\u201cEchte \u00c4gypterin zeigt Dir die Liebe!\u201d",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\u201cSie, mit Bruder verm\u00e4hlt, sucht Dich!\u201d",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "\u201cLebensm\u00fcde bevorzugt. Natter vorhanden.\u201d",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "\u201cMarc Anton fand mich super.\u201d",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420274_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420274_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420274_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420274_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

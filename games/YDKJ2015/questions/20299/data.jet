@@ -1,0 +1,150 @@
+{
+  "fields": [
+    {
+      "v": "420299_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Skandal beim Tanztee!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420299_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Bei einem Tanztee sagt Ihnen jemand etwas indigniert, Ihr Freund habe ja einen ziemlich gro\u00dfen Liebesknochen. Daraufhin ermahnen Sie Ihren Freund, er soll",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420299_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "sich nicht immer das gr\u00f6\u00dfte Geb\u00e4ck nehmen",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "sofort seinen Hosenschlitz zumachen",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "sofort diesen Dildo wegstecken",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "sich endlich an der H\u00fcfte operieren lassen",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420299_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420299_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420299_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "420299_50",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "420299_51",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "420299_52",
+      "t": "G",
+      "n": "gPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

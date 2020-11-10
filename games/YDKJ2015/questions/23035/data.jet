@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Manhattan|Wilma|Mr. Sulu|Sportschau|Ernie|Daffy Duck",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Otto|Barney Ger\u00f6llheimer|C\u00e4sar|Goethe|Lolli|Saurier|Klingonen",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Boris Becker|Bibo|Bugs Bunny|Tweety|Katze|Dada|Tasmanischer Teufel",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Kojak|Fred Feuerstein|Mr. Spock|Heribert Fa\u00dfbender|Kr\u00fcmelmonster|Roadrunner|Alf",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Was soll ich gesagt haben?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Entz\u00fcckend, Baby.|Jabbadabbadu!|Faszinierend.|N\u2019Abend, allerseits.|Kekse!!!|Miep-miep!|Null problemo.",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423035_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423035_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423035_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420406_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Schlechtes Wetter & Sexuelle Ausrichtung",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420406_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Sie sind ein einsames, homosexuelles Tiefdruckgebiet. In welches der folgenden Lokale werden Sie gehen, um Anschluss zu finden?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420406_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "In Susis Klub \u201cSappho\u201d f\u00fcr sie",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "In den \u201cGoldenen Krug\u201d an der Ecke",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "In Freds \u201cGolden Shower\u201d Klub f\u00fcr ihn",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Ins Meteorologische Institut",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420406_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420406_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420406_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420406_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420406_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

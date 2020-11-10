@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "v": "420501_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Wie schmecken eigentlich Zelluloidburger?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420501_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420501_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Filmkom\u00f6die \u00fcber Juwelenraub + Produkt von McDonald\u2019s = ?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420501_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Fisch-namens-Wanda-M\u00e4c",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Hamburger-Royal-Airforce-One",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Pulp-Fiction-McNuggets",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Big-Easy-M\u00e4c",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420501_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420501_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420501_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420501_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420501_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

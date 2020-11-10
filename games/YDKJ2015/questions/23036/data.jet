@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Longline|Beach|Body Check|Caddy|Ingrid Bergman|Cricket",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Grundlinie|Foul|Quarterback|Boris|Finte|Zeitstrafe|Suspensorium",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Abseits|Eagle|Holzschl\u00e4ger|Unerlaubte H\u00e4rte|Green|Puck|Wasserball",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Tennis|Eishockey|American Football|Basketball|Darts|Baseball|Golf",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Was wird denn hier gespielt?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Volleystop|Bully|Touchdown|Rebound|Bull\u2019s Eye|Home Run|Bogey",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423036_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423036_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423036_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

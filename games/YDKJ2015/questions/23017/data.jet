@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Thanner|Harry|Clever|Agent 99|Tatort|Dr. Watson",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Spion|Karate|Lucien|Detektiv|Fritz|Moneypenny|Kommissar",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Steed|Belgier|Archibald|Goldfinger|Ars\u00e8ne|Kripo Duisburg|Oskar",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Horst|Stefan|Maxwell|Hercule|Emma|James|Sherlock",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Was vor dem Nachnamen kommt",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Schimanski|Derrick|Smart|Poirot|Peel|Bond|Holmes",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423017_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423017_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423017_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

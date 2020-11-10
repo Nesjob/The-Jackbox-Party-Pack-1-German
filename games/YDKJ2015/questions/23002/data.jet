@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Starsky|Mike Hammer|Holmes|Leo Kress|Tatort|Kommissar Moser",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Lauterbach|Manhattan|Der Alte|Interpol|Cannon|Cotton|PSI",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Inspector Stone|Phil Decker|Kottan|Miami Vice|Ruhrpott|Pornok\u00f6nig|Inspektor Clouseau",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Klein|Thanner|Scully|Tubbs|Crocker|F\u00e4ustchen|Matula",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Zweite Geigen im Kugelhagel",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Derrick|Schimanski|Mulder|Crockett|Kojak|Faust|Dr. Voss",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423002_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423002_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423002_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

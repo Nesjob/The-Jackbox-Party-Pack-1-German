@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420430_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Alte M\u00e4nner im Krei\u00dfsaal",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420430_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420430_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wir haben die griechische G\u00f6ttin Athene gefragt, wo eigentlich die Kinder herkommen. Was hat sie aufgrund ihrer pers\u00f6nlichen Erfahrungen geantwortet?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420430_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "u201cSie kommen erwachsen aus Papis Kopf.\u201d",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "u201cDas geht Sie gar nichts an!\u201d",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "u201cSie tauchen aus Nektar auf.\u201d",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "u201cSie wachsen an heiligen Olivenb\u00e4umen.\u201d",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420430_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420430_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420430_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420430_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

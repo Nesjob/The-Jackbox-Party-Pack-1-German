@@ -1,0 +1,197 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bBoth"
+    },
+    {
+      "v": "Piripiri",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Paso doble",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Sambal",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Kardamom",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Gopak",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "Samba",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "Kasatschok",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "0,1,0,0,1,1,1",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "Kr\u00e4uter im Dreivierteltakt",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Exotisches Gew\u00fcrz",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "Tanz",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "EXOTISCHES GEW\u00dcRZ",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "TANZ",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "422017_11",
+      "t": "A",
+      "n": "aQ1"
+    },
+    {
+      "v": "422017_12",
+      "t": "A",
+      "n": "aQ2"
+    },
+    {
+      "v": "422017_13",
+      "t": "A",
+      "n": "aQ3"
+    },
+    {
+      "v": "422017_14",
+      "t": "A",
+      "n": "aQ4"
+    },
+    {
+      "v": "422017_15",
+      "t": "A",
+      "n": "aQ5"
+    },
+    {
+      "v": "422017_16",
+      "t": "A",
+      "n": "aQ6"
+    },
+    {
+      "v": "422017_17",
+      "t": "A",
+      "n": "aQ7"
+    },
+    {
+      "v": "422017_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "422017_02",
+      "t": "A",
+      "n": "aSetup"
+    },
+    {
+      "v": "422017_20",
+      "t": "A",
+      "n": "aExit"
+    },
+    {
+      "v": "422017_03",
+      "t": "A",
+      "n": "aDis"
+    },
+    {
+      "v": "422017_04",
+      "t": "A",
+      "n": "aDat"
+    },
+    {
+      "v": "422017_21",
+      "t": "A",
+      "n": "aGenRocked"
+    },
+    {
+      "v": "422017_22",
+      "t": "A",
+      "n": "aGenDecent"
+    },
+    {
+      "v": "422017_23",
+      "t": "A",
+      "n": "aGenPoor"
+    },
+    {
+      "v": "422017_24",
+      "t": "A",
+      "n": "aGenAwful"
+    },
+    {
+      "t": "A",
+      "n": "aTimer"
+    },
+    {
+      "t": "A",
+      "n": "aInstr"
+    }
+  ]
+}

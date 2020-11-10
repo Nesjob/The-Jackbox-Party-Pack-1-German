@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "v": "420171_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Arme, geschundene Polyester",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420171_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Welches dieser Tiere gibt es wirklich?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420171_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Das Angorakaninchen wie in \u201cAngorapulli\u201d",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Das Nappa-Rind wie in \u201cNappalederjacke\u201d",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Das Mo wie in \u201cMohair\u201d",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Das Kaschmirschaf wie in \u201cKaschmirschal\u201d",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420171_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420171_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420171_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420171_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "1",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "420171_50",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "420171_51",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "420171_52",
+      "t": "G",
+      "n": "gPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

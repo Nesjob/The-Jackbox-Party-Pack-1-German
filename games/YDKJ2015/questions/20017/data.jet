@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420017_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Ackerbau & Schweinkram",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420017_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Ihre Sexualpraktiken werden immer fragw\u00fcrdiger. Seit neuestem stehen Sie auf Zucchini. Wissenschaftlich gesehen sind Sie also ein",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420017_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "K\u00fcrbis-Fetischist",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Gurken-Fetischist",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Bohnen-Fetischist",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "R\u00fcben-Fetischist",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420017_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420017_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420017_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420017_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420017_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

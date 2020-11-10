@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Mozart|Benelux-L\u00e4nder|Minimints|Toc|Balsamico|Trampas",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Krishna|Sidestep|Liechtenstein|Maria und Josef|Bonanza|Hip Hop|Milchstra\u00dfe",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Western|Heilige Drei K\u00f6nige|Br\u00fcssel|Hl. Dreifaltigkeit|Bethlehem|Hop Sing|Fred Astaire",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Domingo|Jump|Toe|Luxemburg|Balthasar|Little Joe|Heiliger Geist",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Eins Plus Eins Plus Eins",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Pavarotti, Carreras|Hop, Step|Tic, Tac|Belgien, Niederlande|Kaspar, Melchior|Hoss, Adam|Gott, Jesus",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423039_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423039_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423039_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

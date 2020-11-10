@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Sabbern|Magenknurren|H\u00e4kelnadel|\u00c4quator|Gewaltenteilung|Klimazone",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Geometriekurs|L\u00e4ngengrad|Hundeschule|Astrologiekurs|Sehr laut|Universum|Sinus",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Alaska|Datumsgrenze|Konditionierung|Deklination|Verbl\u00fcffend|Trugschluss|Determinante",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Psychologiekurs|Handarbeitskurs|Physikkurs|Geographiekurs|Mathematikkurs|Geschichtskurs|Deutschkurs",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Wo hab\u2019 ich das schon \u2019mal geh\u00f6rt?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Pawlowscher Hund|Luftmasche|Urknalltheorie|Breitengrad|Algebra|30-j\u00e4hriger Krieg|Konjugation",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423005_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423005_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423005_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

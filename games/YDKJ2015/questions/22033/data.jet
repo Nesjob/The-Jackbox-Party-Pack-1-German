@@ -1,0 +1,197 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bBoth"
+    },
+    {
+      "v": "Pavarotti",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Elvis",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Michael Jackson",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Boris Becker",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Gabriela Sabatini",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "Tosca",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "Skarlett",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "2,0,0,0,2,1,1",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "Der Duft der gro\u00dfen, weiten Welt",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Prominenter",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "Parf\u00fcm",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "PROMINENTER",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "PARF\u00dcM",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "422033_11",
+      "t": "A",
+      "n": "aQ1"
+    },
+    {
+      "v": "422033_12",
+      "t": "A",
+      "n": "aQ2"
+    },
+    {
+      "v": "422033_13",
+      "t": "A",
+      "n": "aQ3"
+    },
+    {
+      "v": "422033_14",
+      "t": "A",
+      "n": "aQ4"
+    },
+    {
+      "v": "422033_15",
+      "t": "A",
+      "n": "aQ5"
+    },
+    {
+      "v": "422033_16",
+      "t": "A",
+      "n": "aQ6"
+    },
+    {
+      "v": "422033_17",
+      "t": "A",
+      "n": "aQ7"
+    },
+    {
+      "v": "422033_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "422033_02",
+      "t": "A",
+      "n": "aSetup"
+    },
+    {
+      "v": "422033_20",
+      "t": "A",
+      "n": "aExit"
+    },
+    {
+      "v": "422033_03",
+      "t": "A",
+      "n": "aDis"
+    },
+    {
+      "v": "422033_04",
+      "t": "A",
+      "n": "aDat"
+    },
+    {
+      "v": "422033_21",
+      "t": "A",
+      "n": "aGenRocked"
+    },
+    {
+      "v": "422033_22",
+      "t": "A",
+      "n": "aGenDecent"
+    },
+    {
+      "v": "422033_23",
+      "t": "A",
+      "n": "aGenPoor"
+    },
+    {
+      "v": "422033_24",
+      "t": "A",
+      "n": "aGenAwful"
+    },
+    {
+      "t": "A",
+      "n": "aTimer"
+    },
+    {
+      "t": "A",
+      "n": "aInstr"
+    }
+  ]
+}

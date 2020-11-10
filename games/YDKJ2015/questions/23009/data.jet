@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Hagel|Gro\u00dfmutter|M\u00fctter|Ehre|Weihnachten|Zerst\u00f6rung",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Salat|Einschreiben|Aberglaube|Empf\u00e4ngnisverh\u00fctung|Wolf|Wei\u00dfe M\u00e4use|Gro\u00dfes Gebiss",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Sinkendes Schiff|Hunde|Unwetter|Krippe|Morgenstund|Kammerj\u00e4ger|Lange Beine",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Sch\u00f6nes Wetter|Essenskorb|Ungl\u00fcck|Babys|Geschenke|Pakete|Gl\u00fcck",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Na, was bringt ihr denn da?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Abendrot|Rotk\u00e4ppchen|Schwarze Katze|Klapperstorch|Christkind|UPS|Vierbl\u00e4ttriges Kleeblatt",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423009_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423009_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423009_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "fields": [
+    {
+      "v": "420074_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Br\u00e4uche, die zum Gl\u00fcck nie erfunden wurden",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420074_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, eine durchschnittliche Frau w\u00fcrde nach jedem Eisprung einen Eiertanz auff\u00fchren, wie viele Eiert\u00e4nze w\u00e4ren in etwa in ihrem Leben f\u00e4llig?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420074_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "So viele, wie ein Jahr Tage hat",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "So viele, wie eine Ejakulation Spermien hat",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "So viele, wie der Mond Perioden hat",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "So viele, wie eine Frau Ovarien hat",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420074_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420074_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420074_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420074_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

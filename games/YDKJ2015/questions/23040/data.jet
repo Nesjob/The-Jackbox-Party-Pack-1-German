@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "K\u00f6rbchen|Knochen|Aschenputtel|Sherwood Forest|Teutoburger Wald|Giftzwerg",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Schneewei\u00dfchen|Rosenrot|Trimm-Dich-Pfad|Gl\u00e4serner Sarg|Dschungel|Knusperh\u00e4uschen|Kipling",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Artus|R\u00fcbezahl|Alpengl\u00fchen|Wolfsblut|Froschk\u00f6nig|Watzmann|Wombat",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Wolf|Shir Khan|Hexe|Sheriff von Nottingham|R\u00f6mer|Unkerich|Schneewittchen",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Wen hast du im Wald getroffen?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Rotk\u00e4ppchen|Mogli|H\u00e4nsel & Gretel|Robin Hood|Obelix|Lurchi|Die sieben Zwerge",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423040_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423040_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423040_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

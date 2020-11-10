@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420122_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "\u201c900 Gramm Menschentorso, bitte.\u201d",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420122_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Sie planen eine Grillparty und wollen dabei menschliche Rippchen kredenzen. Wenn jeder Gast ein Rippchen isst, wie viele G\u00e4ste k\u00f6nnen Sie dann mit einem Torso verk\u00f6stigen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420122_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "24",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "16",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "12",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "36",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420122_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420122_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420122_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420122_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

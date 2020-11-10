@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Hades|Giraffenhals|Herkules|Kuhf\u00fc\u00dfe|Ra|Styx",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Lamak\u00f6rper|Schwimmh\u00e4ute|Erzengel|H\u00f6lle|Labyrinth|Griechische Mythologie|Ziegenbein",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Froschaugen|Zyklop|Hinduismus|Beelzebub|Kreta|Orakel|Kiemen",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Fl\u00fcgel|Pferdek\u00f6rper|Stierkopf|Schakalkopf|Mehrere K\u00f6pfe|Schlangenhaar|Pferdefu\u00df",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Sag mal, was hast du denn da?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Pegasus|Zentaur|Minotaurus|Anubis|Zerberus|Medusa|Teufel",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423010_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423010_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423010_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

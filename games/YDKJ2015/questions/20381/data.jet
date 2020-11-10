@@ -1,0 +1,153 @@
+{
+  "fields": [
+    {
+      "v": "420381_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Tom Cruise & Antike Sexualpraktiken",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420381_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420381_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wenn Sie die Methode anwenden wollen, mit der Kleopatra damals Julius C\u00e4sar verf\u00fchrt hat, was sollten Sie dann tun?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420381_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Sich in einen Teppich einwickeln",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Sich ganz mit Schokolade \u00fcberziehen",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Sich in ein Krokodil einn\u00e4hen lassen",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Auf einem Vogel Strau\u00df einreiten",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420381_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420381_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420381_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420381_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420381_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "1",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "420381_50",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "420381_51",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "420381_52",
+      "t": "G",
+      "n": "gPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

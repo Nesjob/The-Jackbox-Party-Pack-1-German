@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "v": "420469_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Babycreme & Folgenschwere Fehlk\u00e4ufe",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420469_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, Sie werden losgeschickt, um Penatencreme zu besorgen, bringen aber irrt\u00fcmlich echte Penaten mit nach Hause. Was sollten Sie mit ihnen machen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420469_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Sie anbeten",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Sie braten und essen",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Ihr Baby trotzdem damit eincremen",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Sich eine Jacke daraus stricken",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420469_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420469_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420469_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420469_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "420469_50",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "420469_51",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "420469_52",
+      "t": "G",
+      "n": "gPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

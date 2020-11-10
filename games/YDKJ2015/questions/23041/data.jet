@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Lauge|Langzeitkraft|Rotwein|Bounty|Duplo|E-421",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Napalm|Granini|Plutonium|Damenbinde|Pflegekomplex|Apotheke|Bio-Formel",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Problemzone|Formel Eins|Popo Plops|Fols\u00e4ure|Jod-S-11-K\u00f6rnchen|Salicyls\u00e4ure|Tanin",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Persil|Red Bull|Oil of Olaz|Vitakraft|Mars|Ajax Ultra|Coca Cola",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Ich wei\u00df zwar nicht was es ist, aber ich kauf\u2019s!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Megaperls|Taurin|Betahydroxy-Komplex|Jod-Rapid-Perlen|Candycreme|Auto-Aktiv-Formel|Phosphors\u00e4ure",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423041_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423041_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423041_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

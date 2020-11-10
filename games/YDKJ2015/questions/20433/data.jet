@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420433_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Schwarze Badehosen erbeten!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420433_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420433_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "\u201cObgleich es klein und das niedrigste Gew\u00e4sser der Welt war, hatten seine Nachbarn Israel und Jordanien doch Hochachtung vor ihm. Es war f\u00fcr diese Region Salz und Suppe in einem.\u201d",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420433_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Das Tote Meer",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Das Rote Meer",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Das Schwarze Meer",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Das Tal des Todes",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420433_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420433_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420433_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420433_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

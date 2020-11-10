@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "v": "420278_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "\u201cWeit aufmachen, bitte!\u201d",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420278_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420278_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Asterix tr\u00e4umt dauernd, dass ihm die Z\u00e4hne ausfallen, und das beunruhigt ihn. Wenn Miraculix ein Anh\u00e4nger von Freuds Theorien ist, was wird er bei Asterix diagnostizieren?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420278_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Kastrationsangst",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Potenz\u00e4ngste",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Penisneid",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Angst vor den R\u00e4mern",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420278_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420278_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420278_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420278_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420278_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

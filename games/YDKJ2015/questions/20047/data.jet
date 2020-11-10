@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420047_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Hollywood im 16. Jahrhundert",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420047_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "H\u00e4tten die folgenden Schauspieler zu Shakespeares Zeiten gelebt, welches dieser Paare h\u00e4tte am wahrscheinlichsten Romeo und Julia gespielt?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420047_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Keanu Reeves und Nicolas Cage",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "G\u00f6tz George und Veronica Ferres",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Johnny Depp und Julia Roberts",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Die Kessler-Zwillinge",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420047_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420047_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420047_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420047_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420047_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

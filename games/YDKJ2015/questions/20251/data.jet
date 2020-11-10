@@ -1,0 +1,132 @@
+{
+  "fields": [
+    {
+      "v": "420251_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Richtig \u201cVerbotene Liebe\u201d",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420251_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420251_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wenn sie wahnsinnig wird und eine Maschine bauen will, die die beiden M\u00e4nner buchst\u00e4blich miteinander VERSCHMILZT, wie k\u00f6nnte dieses Ger\u00e4t dann hei\u00dfen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420251_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,3,0",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Fusionsapparat",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "F\u00fcsilierapparat",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Fraktionierapparat",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Futilisierapparat",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420251_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420251_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420251_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

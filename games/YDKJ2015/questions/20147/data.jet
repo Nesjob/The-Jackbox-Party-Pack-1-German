@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420147_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Unsterbliches Schuhwerk",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420147_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Einst war sie die G\u00f6ttin des Sieges, heute verdient sie sich als Logo eines Sportschuhs was zur Rente dazu. Wie hei\u00dft die Dame?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420147_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Nike",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Puma",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Adida",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Reeboka",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420147_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420147_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420147_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420147_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "v": "420451_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Milzzellen & Limbo-Partys",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420451_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, einer Zelle in Ihrer Milz ist langweilig und sie will zum \u201climbischen System\u201d, weil sie geh\u00f6rt hat, dass dort Limbo getanzt wird. Wohin muss sie sich begeben?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420451_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "In Ihr Gehirn",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "In Ihre Geschlechtsteile",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "In Ihre Leber",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "In Ihre Augen",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420451_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420451_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420451_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420451_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "3",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "420451_50",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "420451_51",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "420451_52",
+      "t": "G",
+      "n": "gPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

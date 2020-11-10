@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "v": "420367_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Adlige im All",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420367_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420367_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Zur Begr\u00fc\u00dfung wird der Baron, wie es auf Poly III Sitte ist, erst einmal einem Polygraphentest unterzogen. Was pr\u00fcfen die Au\u00dferirdischen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420367_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Den Wahrheitsgehalt seiner Angaben",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Die Gr\u00f6\u00dfe seines Gehirns",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Den Blutalkoholgehalt in seinem K\u00f6rper",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Die Anzahl seiner Darmpolypen",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420367_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420367_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420367_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420367_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420367_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

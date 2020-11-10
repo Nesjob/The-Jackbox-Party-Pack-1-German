@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420075_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Das ist der Hammer!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420075_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Welche der folgenden Aktivit\u00e4ten l\u00e4sst sich ohne einen Hammer ausf\u00fchren?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420075_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Einen Hammerhai fangen",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Dem Chef sagen, er habe einen Hammer",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Klavier spielen mit MC Hammer",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Mike Hammers Patellasehnenreflex testen",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420075_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420075_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420075_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420075_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420075_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

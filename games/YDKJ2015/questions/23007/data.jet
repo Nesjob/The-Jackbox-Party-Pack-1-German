@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Evangelium|Degen|11|Dreieinhalb|40 R\u00e4uber|13",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Moses|Hundertzwei|Sechs|Purer Sex|110|Zweitausendeins|Vierzehn",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Western|Neunundneunzig|Neun|Bernhardiner|24|Verbote|Berg Sinai",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "1001|Neuneinhalb|Sieben|Zehn|F\u00fcnf|Drei|Zw\u00f6lf",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Wie viele waren das doch gleich?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Nacht|Wochen|Glorreiche|Gebote|Kontinente|Musketiere|Apostel",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423007_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423007_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423007_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

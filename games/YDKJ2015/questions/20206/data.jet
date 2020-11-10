@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "v": "420206_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Nach dem Anblick brauch ich \u2019ne Fluppe!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420206_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420206_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Ein v\u00f6llig ausgemergeltes Pl\u00fcschdromedar mit erschlafftem H\u00e4cker und Schaum vor dem Mund verspritzt \u00fcberall Urin. Wie k\u00f6nnte der dazugeh\u00f6rige Slogan faktisch richtig lauten?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420206_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Lass deine Camel nicht br\u00fcnftig werden!",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Lass deine Camel nicht krank werden!",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Lass deine Camel nicht verdursten!",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Lass deine Camel nicht verr\u00fcckt werden!",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420206_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420206_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420206_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420206_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "3",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "420206_50",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "420206_51",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "420206_52",
+      "t": "G",
+      "n": "gPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

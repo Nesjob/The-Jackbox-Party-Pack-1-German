@@ -1,0 +1,135 @@
+{
+  "fields": [
+    {
+      "v": "420432_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Muppets & Gro\u00dfe Denker",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420432_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, Oskar aus der Sesamstra\u00dfe trifft an einer Bushaltestelle den Philosophen Diogenes. Was k\u00f6nnte Oskar zu Diogenes sagen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420432_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,3,0",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\u201cWas, du lebst auch in \u2019ner Tonne?\u201d",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\u201cAch, du kennst auch einen Kermit?\u201d",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "\u201cSo, du siehst auch gerne schwarz?\u201d",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "\u201cOh, du hast auch Philosophie studiert?\u201d",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420432_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420432_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420432_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

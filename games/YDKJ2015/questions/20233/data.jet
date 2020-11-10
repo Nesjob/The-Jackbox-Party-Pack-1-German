@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420233_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Murmeltiere & Ihre L\u00f6cher",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420233_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420233_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wann wird das Murmeltier beschlie\u00dfen, wach zu bleiben?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420233_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Wenn es hungrig und \u201cscharf\u201d ist",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Wenn es die warme Sonne sp\u00fcrt",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Wenn es seinen eigenen Schatten nicht sieht",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Wenn es 10 Monate nicht uriniert hat",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420233_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420233_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420233_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420233_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

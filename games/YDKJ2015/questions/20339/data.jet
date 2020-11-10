@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420339_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Nachts in deinem Computer",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420339_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "32 Bits treffen sich auf Ihrem Main Board, um Gruppensex, in der Bit-Sprache \u201cByte\u201d genannt, zu praktizieren. In wie viele Gruppen teilen sich die Bits dazu auf? In",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420339_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "4",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "8",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "32",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "64",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420339_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420339_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420339_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420339_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

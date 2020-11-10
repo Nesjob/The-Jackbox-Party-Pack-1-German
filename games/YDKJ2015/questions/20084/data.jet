@@ -1,0 +1,131 @@
+{
+  "fields": [
+    {
+      "v": "420084_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Baul\u00f6wen & Die Flucht nach hinten",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420084_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, Immobilien-Pleitier Schneider h\u00e4tte sich seinerzeit nicht in die USA abgesetzt, sondern nach Pang\u00e4a. Was h\u00e4tte die Polizei gebraucht, um ihn zu finden?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420084_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Eine Zeitmaschine",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Eine sehr, sehr lange Stange",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Eine Hellseherin",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Ein Raumschiff mit Warp-Antrieb",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420084_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420084_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420084_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

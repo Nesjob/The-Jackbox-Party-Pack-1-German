@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420102_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Drogensucht & Seifenopern",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420102_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "In einer Folge der Serie \u201cMarienhof\u201d spritzt Junkie Charly sich aus Versehen 1000 mg Ascorbins\u00e4ure. Was ist vermutlich das Resultat?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420102_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Verbesserte Immunit\u00e4t gegen Erk\u00e4ltungen",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Ein langsamer, schmerzhafter Tod",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Taube Gliedma\u00dfen",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Kr\u00e4mpfe und Schaum vor dem Mund",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420102_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420102_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420102_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420102_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420102_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

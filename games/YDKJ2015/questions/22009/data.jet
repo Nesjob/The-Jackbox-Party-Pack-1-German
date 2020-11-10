@@ -1,0 +1,197 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bBoth"
+    },
+    {
+      "v": "Jack Daniels",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Jimmy Carter",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Harry Truman",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Jim Beam",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "John Collins",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "Tullamore Dew",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "Thomas Jefferson",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "0,1,1,0,0,0,1",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "Amerikanische Pr\u00e4sidenten & Harte Drinks",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Whisky",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "Amerikanischer Pr\u00e4sident",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "WHISKY",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "AMERIKANISCHER PR\u00c4SIDENT",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "422009_11",
+      "t": "A",
+      "n": "aQ1"
+    },
+    {
+      "v": "422009_12",
+      "t": "A",
+      "n": "aQ2"
+    },
+    {
+      "v": "422009_13",
+      "t": "A",
+      "n": "aQ3"
+    },
+    {
+      "v": "422009_14",
+      "t": "A",
+      "n": "aQ4"
+    },
+    {
+      "v": "422009_15",
+      "t": "A",
+      "n": "aQ5"
+    },
+    {
+      "v": "422009_16",
+      "t": "A",
+      "n": "aQ6"
+    },
+    {
+      "v": "422009_17",
+      "t": "A",
+      "n": "aQ7"
+    },
+    {
+      "v": "422009_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "422009_02",
+      "t": "A",
+      "n": "aSetup"
+    },
+    {
+      "v": "422009_20",
+      "t": "A",
+      "n": "aExit"
+    },
+    {
+      "v": "422009_03",
+      "t": "A",
+      "n": "aDis"
+    },
+    {
+      "v": "422009_04",
+      "t": "A",
+      "n": "aDat"
+    },
+    {
+      "v": "422009_21",
+      "t": "A",
+      "n": "aGenRocked"
+    },
+    {
+      "v": "422009_22",
+      "t": "A",
+      "n": "aGenDecent"
+    },
+    {
+      "v": "422009_23",
+      "t": "A",
+      "n": "aGenPoor"
+    },
+    {
+      "v": "422009_24",
+      "t": "A",
+      "n": "aGenAwful"
+    },
+    {
+      "t": "A",
+      "n": "aTimer"
+    },
+    {
+      "t": "A",
+      "n": "aInstr"
+    }
+  ]
+}

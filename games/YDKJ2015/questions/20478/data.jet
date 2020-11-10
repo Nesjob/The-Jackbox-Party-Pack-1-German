@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420478_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Beate Uhse & Theatralischer Sex",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420478_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, Beate Uhse m\u00f6chte eine Reihe von Sexfilmen drehen, die sich an Shakespeare-Dramen anlehnen, welcher Film w\u00e4re NICHT darunter?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420478_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Maria Stuart: Blutjung und verdorben",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Troilus und Cressida: Sex ohne Tabu",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Othello - Unter der R\u00fcstung wird gejodelt",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Drei Hamlets auf der Reeperbahn",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420478_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420478_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420478_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420478_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

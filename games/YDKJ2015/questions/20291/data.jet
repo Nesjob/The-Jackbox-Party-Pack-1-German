@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420291_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Sehr merkw\u00fcrdige Rechnungen",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420291_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420291_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Ber\u00fchmter Western + Beethovens einzige Oper = ?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420291_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\u201cSpiel mir das Lied vom Fidelio\u201d",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\u201cDer Barbier vom Rio Grande\u201d",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "\u201cF\u00fcr eine Handvoll fliegende Holl\u00e4nder\u201d",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "\u201cDer Freisch\u00fctz jagt Billy the Kid\u201d",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420291_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420291_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420291_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420291_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

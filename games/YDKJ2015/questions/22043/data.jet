@@ -1,0 +1,197 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bBoth"
+    },
+    {
+      "v": "Sarong",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Pachisi",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Bolero",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Muff",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Baccarat",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "Mikado",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "Fez",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "0,1,0,0,1,1,1",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "Am liebsten zieh ich ja meinen Monopoly an!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Kleidungsst\u00fcck",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "Spiel",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "KLEIDUNGSST\u00dcCK",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "SPIEL",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "422043_11",
+      "t": "A",
+      "n": "aQ1"
+    },
+    {
+      "v": "422043_12",
+      "t": "A",
+      "n": "aQ2"
+    },
+    {
+      "v": "422043_13",
+      "t": "A",
+      "n": "aQ3"
+    },
+    {
+      "v": "422043_14",
+      "t": "A",
+      "n": "aQ4"
+    },
+    {
+      "v": "422043_15",
+      "t": "A",
+      "n": "aQ5"
+    },
+    {
+      "v": "422043_16",
+      "t": "A",
+      "n": "aQ6"
+    },
+    {
+      "v": "422043_17",
+      "t": "A",
+      "n": "aQ7"
+    },
+    {
+      "v": "422043_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "422043_02",
+      "t": "A",
+      "n": "aSetup"
+    },
+    {
+      "v": "422043_20",
+      "t": "A",
+      "n": "aExit"
+    },
+    {
+      "v": "422043_03",
+      "t": "A",
+      "n": "aDis"
+    },
+    {
+      "v": "422043_04",
+      "t": "A",
+      "n": "aDat"
+    },
+    {
+      "v": "422043_21",
+      "t": "A",
+      "n": "aGenRocked"
+    },
+    {
+      "v": "422043_22",
+      "t": "A",
+      "n": "aGenDecent"
+    },
+    {
+      "v": "422043_23",
+      "t": "A",
+      "n": "aGenPoor"
+    },
+    {
+      "v": "422043_24",
+      "t": "A",
+      "n": "aGenAwful"
+    },
+    {
+      "t": "A",
+      "n": "aTimer"
+    },
+    {
+      "t": "A",
+      "n": "aInstr"
+    }
+  ]
+}

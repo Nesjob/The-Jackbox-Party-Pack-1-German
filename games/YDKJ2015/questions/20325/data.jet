@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420325_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Ungeziefer & Familie Feuerstein",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420325_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wilma Feuerstein kommt nach Hause und findet eine pal\u00e4ozoische Libelle im Wohnzimmer vor. Welchen Durchmesser muss die Fliegenpatsche haben, wenn sie das Biest erledigen will?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420325_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,3,0",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Mindestens 80 Zentimeter",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Mindestens die L\u00e4nge von Freds Auto",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Mindestens 20 Meter",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Mindestens 10 Zentimeter",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420325_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420325_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420325_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420325_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

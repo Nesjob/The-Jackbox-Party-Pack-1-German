@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Noah|Krieg der Sterne|Adam und Eva|Hexe|Sue Ellen|Eusebia",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Bonanza|Spock|Rapunzel|Abraham|The Blues Brothers|Genesis|Han Solo",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Irma La Douce|Lupo|Pam|Shirley Temple|Southfork|Chewbacca|Rock Hudson",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Abel|Luke Skywalker|Hoss|Foxi|H\u00e4nsel|Warren Beatty|J.R.",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Ohje, mein Bruder!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Kain|Prinzessin Leia|Little Joe|Fix|Gretel|Shirley Maclaine|Bobby Ewing",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423013_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423013_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423013_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420119_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Gro\u00dfe Buchstaben & Gro\u00dfe Liebe",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420119_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Welche faktisch korrekte Schlagzeile k\u00f6nnte einen STERN-Artikel \u00fcber Romeo und Julia zieren?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420119_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\u201cNach Scheintod: Doppelselbstmord!\u201d",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\u201cHirntote durch Kuss erwacht!\u201d",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "\u201cJunger Prinz entmannt sich aus Liebe!\u201d",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "\u201cLiebespaar nach Amokfahrt get\u00f6tet!\u201d",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420119_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420119_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420119_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420119_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

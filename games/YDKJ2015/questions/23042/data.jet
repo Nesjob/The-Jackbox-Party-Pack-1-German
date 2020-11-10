@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Arterien|Ibiza-Akne|Ego-Verlust|Gonorrhoe|Lausbefall|Haarausfall",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Hammerzehen|Kniescheibenvorfall|Gel\u00e9e Royale|Venenbildung|Milben|Bandscheibenkomplex|Sommerr\u00f6teln",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Blasenepilation|D\u00fcnndarmverdickung|\u00d6strogenmangel|Heimweh|Penisneid|Schlangenbiss|Mandelkolik",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Kopfschmerz|Verstauchung|Potenz|Schnupfen|Magenschmerzen|Verstopfung|Fu\u00dfpilz",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Na hoffentlich hilft\u2019s",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Aspirin|Mobilat|Penisex|Nasivin|Gelusil|Agiolax|Canesten",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423042_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423042_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423042_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

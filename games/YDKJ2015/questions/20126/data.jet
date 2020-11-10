@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420126_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Urlaub an Alptraumstr\u00e4nden",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420126_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Weltenbummler Hardy Kr\u00fcger m\u00f6chte f\u00fcr seine n\u00e4chste Sendung gerne die Langerhans-Inseln besuchen. Sein Produzent sagt ihm, dazu m\u00fcsste er was sein?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420126_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Mikroskopisch klein",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Auf dem Mars",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Im Jahr 300 Millionen v. Chr.",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Eine Figur aus \u201cGullivers Reisen\u201d",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420126_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420126_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420126_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420126_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

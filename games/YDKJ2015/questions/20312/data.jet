@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "v": "420312_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Geniale letzte Worte",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420312_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420312_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wenn Sie wahnsinnig werden und sich f\u00fcr Goethe halten, was sollten Sie dann eingedenk seiner angeblichen letzten Worte sagen, wenn es mit Ihnen zu Ende geht?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420312_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\u201cMehr Licht!\u201d",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\u201cUnd tsch\u00fcss.\u201d",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "\u201cUnd sie bewegt sich doch!\u201d",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "\u201cWelch ein K\u00fcnstler stirbt mit mir!\u201d",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420312_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420312_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420312_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420312_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420312_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

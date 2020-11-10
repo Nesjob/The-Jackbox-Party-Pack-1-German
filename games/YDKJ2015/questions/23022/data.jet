@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Honig|Feucht|Hummel|Dumm|Gans|Feder",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Eloquent|Huftier|Nagetier|Pelzig|Luchs|Bl\u00f6ken|Schwein",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Beichtstuhl|Schiedsrichter|Treu|Wolf|Insekt|Verlogen|Schaf",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Flei\u00dfig|Sanft|Arm|Blind|Munter|Eitel|Flink",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Schlau wie ein Fuchs",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Biene|Lamm|Kirchenmaus|Maulwurf|Fisch im Wasser|Pfau|Wiesel",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423022_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423022_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423022_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

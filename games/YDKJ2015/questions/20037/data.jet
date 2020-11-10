@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420037_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Zeichentrick-Ged\u00e4rme riechen nicht!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420037_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420037_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wenn Elmer die Saiten seiner Geige wechseln wollte, welchen seiner Cartoon-Kollegen m\u00fcsste er killen, um aus dessen Darm Saiten drehen zu k\u00f6nnen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420037_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Schweinchen Dick",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Kater Sylvester",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Tweety",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Bugs Bunny",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420037_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420037_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420037_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420037_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

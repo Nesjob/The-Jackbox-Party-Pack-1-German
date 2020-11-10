@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420001_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Untote & Die christliche Seefahrt",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420001_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, BILD w\u00fcrde die Story von Richard Wagners Oper \u201cDer Fliegende Holl\u00e4nder\u201d bringen. Wie k\u00f6nnte die Schlagzeile lauten?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420001_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Kapit\u00e4nstochter geht f\u00fcr Zombie in den Tod!",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Verr\u00fcckter Niederl\u00e4nder l\u00f6scht Familie aus!",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Liebestoller Friese heiratet Scheintote!",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Nach Sex mit Geist: Frau kriegt Drillinge!",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420001_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420001_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420001_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420001_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

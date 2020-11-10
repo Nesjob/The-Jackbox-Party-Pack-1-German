@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420254_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Sehr alte Frauen in der Werbung",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420254_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "W\u00fcrde die griechische Sagengestalt Helena heute noch leben, f\u00fcr welche Produkte w\u00fcrde sie eingedenk ihres Beinamens vermutlich Werbung machen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420254_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,3,0",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "F\u00fcr hochwirksame Beauty-Cremes",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "F\u00fcr isotonische Fitnessdrinks",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "F\u00fcr extra saugf\u00e4hige Slip-Einlagen",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "F\u00fcr superg\u00fcnstige Hausratversicherungen",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420254_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420254_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420254_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420254_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

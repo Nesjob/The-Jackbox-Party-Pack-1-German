@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "v": "420315_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "James Bond & Alternative Fortbewegungsmittel",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420315_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Gegen welches Film-Gef\u00e4hrt h\u00e4tte James Bond in einem seiner Filme seinen Sportwagen eintauschen k\u00f6nnen, weil beide Streifen aus der Feder des gleichen Autoren stammen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420315_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Tschitti Tschitti B\u00e4ng B\u00e4ng",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Aladins fliegenden Teppich",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Michael Knights Auto KITT",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Raumschiff Orion",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420315_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420315_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420315_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420315_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "420315_50",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "420315_51",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "420315_52",
+      "t": "G",
+      "n": "gPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

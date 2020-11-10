@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420032_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Gr\u00fcnpflanzen & Unterw\u00e4sche",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420032_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420032_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Welche Dame wird aufgrund ihrer Neigung, sehr viel Wasser im K\u00f6rper einzulagern, aus fig\u00fcrlichen Gr\u00fcnden das Korsett am engsten schn\u00fcren, bevor sie zur Gartenparty geht?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420032_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Madame Kaktus",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Madame Riesenalge",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Madame Venusfliegenfalle",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Madame Bananenstaude",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420032_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420032_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420032_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420032_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

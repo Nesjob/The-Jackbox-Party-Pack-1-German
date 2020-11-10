@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Vampir|Rot|Kaiserschmarrn|Szepter|Earl Grey|Kleopatra",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Baronesse|Freiherr|Tochter|Kurf\u00fcrst|Willy Brandt|C\u00e4sar|Steffi",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Parlament|Mittelalter|Kartenspielen|Ritter|Cousin|Transsylvanien|Karl Marx",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Kong|Eisenherz|Drosselbart|M\u00fcnchhausen|Leia|Dracula|de Sade",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Bitte hier unterzeichnen, euer Hoheit",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "King|Prinz|K\u00f6nig|Baron|Prinzessin|Graf|Marquis",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423008_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423008_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423008_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

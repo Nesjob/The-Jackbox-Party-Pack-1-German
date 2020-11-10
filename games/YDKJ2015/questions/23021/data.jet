@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "braun|alt|lila|orange|rosa|bunt",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "scharf|b\u00f6se|dunkel|b\u00e4uerlich|s\u00fc\u00df|hohl|hoch",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "klebrig|eifers\u00fcchtig|hei\u00df|stumm|elegant|feige|fahl",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "blau|gr\u00fcn|wei\u00df|schwarz|gelb|grau|rot",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Bring Farbe rein!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "himmel|gras|bl\u00fcten|pech|zitronen|maus|feuer",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423021_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423021_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423021_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

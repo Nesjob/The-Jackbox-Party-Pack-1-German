@@ -1,0 +1,197 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bBoth"
+    },
+    {
+      "v": "Guam",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Beriberi",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Skorbut",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Fidschi",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Papeete",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "Bora Bora",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "Struma",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "1,0,0,1,1,1,0",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "Urlaub & Merkw\u00fcrdige Krankheiten",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Krankheit",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "S\u00fcdseeinsel",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "KRANKHEIT",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "S\u00dcDSEEINSEL",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "422003_11",
+      "t": "A",
+      "n": "aQ1"
+    },
+    {
+      "v": "422003_12",
+      "t": "A",
+      "n": "aQ2"
+    },
+    {
+      "v": "422003_13",
+      "t": "A",
+      "n": "aQ3"
+    },
+    {
+      "v": "422003_14",
+      "t": "A",
+      "n": "aQ4"
+    },
+    {
+      "v": "422003_15",
+      "t": "A",
+      "n": "aQ5"
+    },
+    {
+      "v": "422003_16",
+      "t": "A",
+      "n": "aQ6"
+    },
+    {
+      "v": "422003_17",
+      "t": "A",
+      "n": "aQ7"
+    },
+    {
+      "v": "422003_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "422003_02",
+      "t": "A",
+      "n": "aSetup"
+    },
+    {
+      "v": "422003_20",
+      "t": "A",
+      "n": "aExit"
+    },
+    {
+      "v": "422003_03",
+      "t": "A",
+      "n": "aDis"
+    },
+    {
+      "v": "422003_04",
+      "t": "A",
+      "n": "aDat"
+    },
+    {
+      "v": "422003_21",
+      "t": "A",
+      "n": "aGenRocked"
+    },
+    {
+      "v": "422003_22",
+      "t": "A",
+      "n": "aGenDecent"
+    },
+    {
+      "v": "422003_23",
+      "t": "A",
+      "n": "aGenPoor"
+    },
+    {
+      "v": "422003_24",
+      "t": "A",
+      "n": "aGenAwful"
+    },
+    {
+      "t": "A",
+      "n": "aTimer"
+    },
+    {
+      "t": "A",
+      "n": "aInstr"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "fields": [
+    {
+      "v": "420394_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "TV-Werbung & Der F\u00fcrst der Finsternis",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420394_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420394_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wenn der Antichrist f\u00fcr seine Kampagne einen Slogan von Sat.1 abkupfert, was k\u00f6nnten wir dann bald auf Plakatw\u00e4nden und Litfa\u00dfs\u00e4ulen lesen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420394_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Satan - Ich dr\u00fcck dich",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Beelzebub - Beten k\u00f6nnen Sie woanders",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Luzifer - Der tut was",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Leviathan - nicht immer, aber immer \u00f6fter",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420394_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420394_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420394_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420394_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

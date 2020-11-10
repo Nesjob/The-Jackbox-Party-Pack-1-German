@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420505_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Der Wilde Westen & Unappetitliche T\u00e4nze",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420505_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, der Filmtitel \u201cDer mit dem Wolf tanzt\u201d bez\u00f6ge sich nicht auf das Tier sondern auf das gleichnamige Wehwehchen, wie h\u00e4tte der Film dann auch hei\u00dfen k\u00f6nnen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420505_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Der mit der Hautentz\u00fcndung tanzt",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Der mit der lepr\u00f6sen Erkrankung tanzt",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Der mit den Filzl\u00e4usen tanzt",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Der mit dem pickligen Ausschlag tanzt",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420505_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420505_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420505_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420505_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

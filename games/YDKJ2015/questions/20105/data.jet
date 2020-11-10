@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420105_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Griechische Mythologie & Schuhmode",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420105_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Sie wollen mit Achilles vor seiner n\u00e4chsten Schlacht noch Schuhe kaufen gehen. Welches Schuhwerk w\u00fcrde ihn eingedenk seiner Schwachstelle am besten sch\u00fctzen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420105_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,0,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Pumps",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Filzpantoffeln",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Fashy-Badeschlappen",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Birkenstock-Sandalen",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420105_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420105_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420105_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420105_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "fields": [
+    {
+      "v": "420043_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Aberglaube & Fern\u00f6stliche Sch\u00f6nheiten",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420043_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, die Chinesen w\u00fcrden jedes Jahr eine Misswahl unter dem Motto der chinesischen Tierkreiszeichen veranstalten. Welche Miss w\u00fcrde nie gew\u00e4hlt?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420043_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Miss Gorilla",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Miss Schwein",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Miss Tiger",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Miss Ratte",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420043_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420043_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420043_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "3",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "420043_50",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "420043_51",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "420043_52",
+      "t": "G",
+      "n": "gPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

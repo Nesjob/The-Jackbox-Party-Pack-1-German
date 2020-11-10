@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "China|Carbonara|Croissant|Bolognese|Gl\u00fchwein|Tentakel",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Chili|Wodka|Fettig|Reblaus|Holland|Steinbutt|D\u00f6ner",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Sojasprossen|Fr\u00fchst\u00fcck|Ketchup|Pfannkuchen|Gr\u00f6nland|Knoblauch|Bosporus",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Japan|Spanien|England|Italien|Russland|Frankreich|Griechenland",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Wo hab\u2019 ich das schon mal gegessen?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Sushi|Paella|Fish & Chips|Minestrone|Borschtsch|Baguette|Tsatsiki",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423016_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423016_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423016_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

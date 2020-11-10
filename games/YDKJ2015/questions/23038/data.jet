@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Taramas|So\u00dfenbinder|Frankreich|Glitschig|Ketchup|Nudeln",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Champagner|Rindfleisch|Cheeseburger|Schwertfisch|Hors d\u2019oeuvre|Fritiert|Tapas",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Borschtsch|Kohlroulade|Con Carne|Zitronensaft|Chefkoch|Magenkr\u00e4mpfe|Spiegelei",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Fischeier|Kalte Gem\u00fcsesuppe|Schnecken|Tintenfisch|Innereien|Kalbsbrustdr\u00fcse|Muscheln",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Um Himmels Willen, was ess\u2019 ich da?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Kaviar|Gazpacho|Escargots|Calamari|Kaldaunen|Bries|Cozze",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423038_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423038_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423038_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

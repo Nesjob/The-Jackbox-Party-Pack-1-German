@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "W\u00fcrg!|C. Hina|Nur echt im Darm!|Hi there!|\u00d6sterreich|S. \u00dcdjemen",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "G. Ulaschkanone|mit C. Heddar-K\u00e4se|Thailand|Alles B. Anane!|Kapstadt|Russland|\u00dcberbacken",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "C. Heeseburger|T. Ortellini|K. Orsika|Mmmmh!|Lettland|P. Armesan|Frankreich",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Mexiko|Schweiz|USA|Marokko|Italien|Schweden|Griechenland",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Wo isst man euch denn?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "T. Ortilla|R. \u00d6sti|B. Agel|C. Ouscous|G. Orgonzola|K. N\u00e4ckebrot|T. Aramas",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423047_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423047_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423047_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

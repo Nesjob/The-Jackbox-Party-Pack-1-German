@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420500_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Endlich neue Superhelden!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420500_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, Superman muss sich in einem neuen Abenteuer mit einem Schurken namens \u201cMegaloman\u201d herumschlagen, wer ist dann sein Gegner?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420500_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Ein gr\u00f6\u00dfenwahnsinniger Superheld",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Eine Million \u201cLomans\u201d",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Eine h\u00e4ufige Darmerkrankung",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Ein Festplatten-Erweiterungsset",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420500_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420500_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420500_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420500_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

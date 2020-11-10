@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Jaguar|Ibiza|Elbsandstein|Mistral|Grauwal|Pr\u00e4rie",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Mittelmeer|Diplomat|Senator|Pferderennen|Olympia|Kadett|Cordoba",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Scirocco|Ka|Schlange|Oldtimer|K\u00e4fer|Mungo|Insekt",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Wind|Rochen|Stadt|Pferd|Ballspiel|Insel|Mittelgebirge",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Dem Fahrzeug ein Vorbild",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Passat|Manta|Granada|Mustang|Polo|Capri|Taunus",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423026_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423026_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423026_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

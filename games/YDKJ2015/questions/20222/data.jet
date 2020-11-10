@@ -1,0 +1,135 @@
+{
+  "fields": [
+    {
+      "v": "420222_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Der Papst? Nackt?!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420222_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, der Heilige Vater zieht sich aus, um ein Bad zu nehmen. Wenn er seine Kopfbedeckung absetzt, welches Kleidungsst\u00fcck legt er damit ab?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420222_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Die Tiara",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Die Stola",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Die Boa",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Die Mitra",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420222_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420222_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420222_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

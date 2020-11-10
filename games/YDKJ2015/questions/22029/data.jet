@@ -1,0 +1,197 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bBoth"
+    },
+    {
+      "v": "Guave",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Wagga Wagga",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Maputo",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Colombo",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Mango",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "Kumquat",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "Rambutan",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "0,1,1,1,0,0,0",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "Wenn Fr\u00fcchte in die Ferne reisen",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Exotische Frucht",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "Stadt",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "EXOTISCHE FRUCHT",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "STADT",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "422029_11",
+      "t": "A",
+      "n": "aQ1"
+    },
+    {
+      "v": "422029_12",
+      "t": "A",
+      "n": "aQ2"
+    },
+    {
+      "v": "422029_13",
+      "t": "A",
+      "n": "aQ3"
+    },
+    {
+      "v": "422029_14",
+      "t": "A",
+      "n": "aQ4"
+    },
+    {
+      "v": "422029_15",
+      "t": "A",
+      "n": "aQ5"
+    },
+    {
+      "v": "422029_16",
+      "t": "A",
+      "n": "aQ6"
+    },
+    {
+      "v": "422029_17",
+      "t": "A",
+      "n": "aQ7"
+    },
+    {
+      "v": "422029_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "422029_02",
+      "t": "A",
+      "n": "aSetup"
+    },
+    {
+      "v": "422029_20",
+      "t": "A",
+      "n": "aExit"
+    },
+    {
+      "v": "422029_03",
+      "t": "A",
+      "n": "aDis"
+    },
+    {
+      "v": "422029_04",
+      "t": "A",
+      "n": "aDat"
+    },
+    {
+      "v": "422029_21",
+      "t": "A",
+      "n": "aGenRocked"
+    },
+    {
+      "v": "422029_22",
+      "t": "A",
+      "n": "aGenDecent"
+    },
+    {
+      "v": "422029_23",
+      "t": "A",
+      "n": "aGenPoor"
+    },
+    {
+      "v": "422029_24",
+      "t": "A",
+      "n": "aGenAwful"
+    },
+    {
+      "t": "A",
+      "n": "aTimer"
+    },
+    {
+      "t": "A",
+      "n": "aInstr"
+    }
+  ]
+}

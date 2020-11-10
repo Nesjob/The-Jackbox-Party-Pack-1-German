@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420544_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Muss man das nachmachen?!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420544_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wenn die Einwohner der Stadt Phoenix in den USA das gleiche tun w\u00fcrden wie der mythologische Vogel Ph\u00f6nix, was w\u00e4re zu erwarten? Dass Sie",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420544_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "ihre Stadt alle 500 Jahre verbrennen",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "bei Vollmond Feuer schlucken",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "goldene Eier legen",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "ihre Nachkommen verspeisen",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420544_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420544_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420544_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420544_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420261_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Argonauten im Leihhaus",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420261_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420261_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Der Pfandleiher erkl\u00e4rt dem entt\u00e4uschten Jason, das Goldene Vlies habe nur 12 Karat. Wie hoch ist also der Anteil an reinem Gold?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420261_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "50%",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "100%",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "75%",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "33%",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420261_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420261_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420261_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420261_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "fields": [
+    {
+      "v": "420407_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Schmackhafte Pers\u00f6nlichkeiten",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420407_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Angenommen, Sie haben im Restaurant Filet Wellington bestellt, bekommen aber irrt\u00fcmlich nur Wellington serviert. Wer sitzt auf Ihrem Teller?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420407_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Ein Politiker im Teigmantel",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Ein gegrillter Komponist",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Ein K\u00f6nig in Senf-Kartoffelkruste",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Ein Maler auf Salatbett",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420407_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420407_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420407_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420292_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Dass du dich nicht sch\u00e4mst!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420292_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420292_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Sie sind ein normales Familienoberhaupt und m\u00fcssen entdecken, dass Ihr Spr\u00f6ssling die ganze Nacht aufbleibt, um \u201cspamming\u201d zu betreiben. Was k\u00f6nnen Sie tun, um dies zu unterbinden?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420292_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,3,0",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Seinen Internet-Anschluss k\u00fcndigen",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Ihm ein Mittel gegen \u00fcbelkeit verabreichen",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Seine Pornos den Nachbarskindern verkaufen",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Ihm einen Nachhilfelehrer besorgen",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420292_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420292_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420292_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420292_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

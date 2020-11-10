@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Torwart|17|Puck|1923|Pferde|St\u00fcrmer",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Zw\u00f6lf|Drei|Rebound|Schlittschuhe|Bundesliga|13|345",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Eckball|Acht|Zwei|Netz|Schl\u00e4ger|Strafraum|Abseits",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Neun|F\u00fcnf|Elf|Sieben|F\u00fcnfzehn|Vier|Sechs",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Wie viele Freunde m\u00fcsst ihr sein?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Baseball|Basketball|Fu\u00dfball|Wasserball|Rugby|Polo|Hallenhockey",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423025_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423025_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423025_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

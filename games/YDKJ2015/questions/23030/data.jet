@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Bonanza|Louvre|Dallas|Astrid Lindgren|Spice Girls|Socks",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Grace Kelly|Frankenstein|Backstreet Boys|Madonna|Blake Carrington|Jack Daniels|Danton",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Butch Cassidy|Sundance Kid|Herr Nilsson|Harrison Ford|Guillotine|Buddy Holly|Jack the Ripper",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Ben Cartwright|J.R. Ewing|Ludwig XIV.|Englischer Premier|US-Pr\u00e4sident|Pippi Langstrumpf|Elvis",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Wer mag der Herr wohl von diesem H\u00e4uschen sein",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Ponderosa|Southfork Ranch|Versailles|Downing Street 10|Wei\u00dfes Haus|Villa Kunterbunt|Graceland",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423030_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423030_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423030_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

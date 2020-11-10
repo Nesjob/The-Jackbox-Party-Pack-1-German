@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Sherwood Forest|Flower Power|90er Jahre|Gallien|Travolta|Barock",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "50er Jahre|Raumschiff|Franz Josef|Spock|Disco|Milchstra\u00dfe|\u00d6sterreich",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Captain Kirk|Foxtrott|R\u00f6mer|Jahrtausend|Andromeda|Brontosaurus|Arnold",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Mittelalter|19. Jahrhundert|25. Jahrhundert|70er Jahre|23. Jahrhundert|50 v.Chr.|Steinzeit",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Alles zur seiner Zeit",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Robin Hood|Sissi|Buck Rogers|Saturday Night Fever|Star Trek|Asterix|Conan",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423015_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423015_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423015_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

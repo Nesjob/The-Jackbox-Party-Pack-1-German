@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "v": "420349_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Monster & Gesunde Ern\u00e4hrung",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420349_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Oh Gott! Godzilla hat seine Insel verlassen! Er ist n\u00e4mlich Laktovegetarier geworden und m\u00f6chte \u201cin das Land, wo Milch und Honig flie\u00dfen\u201d. Wohin geht Godzillas Reise?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420349_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Nach Israel",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Nach \u00c4gypten",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "In den Garten Eden",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Ins Schlaraffenland",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420349_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420349_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420349_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420349_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "420349_50",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "420349_51",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "420349_52",
+      "t": "G",
+      "n": "gPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

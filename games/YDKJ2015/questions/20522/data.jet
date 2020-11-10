@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "v": "420522_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Sex, Zeitmaschinen & Ganz schlechte Ideen",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420522_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420522_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wenn der Junge, mittlerweile \u00e4lter, die gleiche Reise noch einmal als Sextourist unternimmt, auf welche weibliche Verh\u00fctungsmethode wird er auf seiner Zeitreise NICHT sto\u00dfen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420522_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Postkoitales Einreiben mit Hackfleisch",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Einf\u00fchren von Krokodil-Dung in die Vagina",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Einsetzen eines Metallteils in den Uterus",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "H\u00fcpfen, husten und schneuzen",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420522_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420522_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420522_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420522_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420522_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

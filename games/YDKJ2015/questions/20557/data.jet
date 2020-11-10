@@ -1,0 +1,150 @@
+{
+  "fields": [
+    {
+      "v": "420557_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Wenn\u2019s John Wayne krachen l\u00e4sst",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420557_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420557_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "John Wayne knallt mit der Peitsche - obwohl er gar nicht wei\u00df, warum sie knallt. Wissen Sie das?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420557_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Sie durchbricht die Schallmauer",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Leder reibt an Leder",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Die Peitschenspitze enth\u00e4lt ein Chakra",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Beim Schlag wird Luft hei\u00dfer als 100 Grad",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420557_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420557_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "3",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "420557_50",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "420557_51",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "420557_52",
+      "t": "G",
+      "n": "gPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

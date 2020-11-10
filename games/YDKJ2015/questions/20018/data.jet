@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420018_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Mythologie & \u201cEhen vor Gericht\u201d",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420018_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420018_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Was f\u00fcr einen Sieg haben Sie errungen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420018_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Pyrrhussieg",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Kantersieg",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Totalen Sieg",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Binsensieg",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420018_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420018_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420018_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420018_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

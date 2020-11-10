@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Sparta|Krempe|Dosenbier|Ponderosa|Helena|Reis",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Baukl\u00f6tze|Bohnen|Torte|Pfefferminze|Kriegslist|Mythologie|Peking",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Kondome|Vorsteherdr\u00fcse|Walnuss|Perle|Fluch|Tombola|Fleischf\u00fcllung",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Krieger|Wei\u00dfes Kaninchen|Weissagung|\u00dcbel der Welt|Hoden|\u00dcberraschung|Sahne",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Das Gute daran ist das Gute darin.",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Trojanisches Pferd|Hut des Zauberers|Chinesischer Gl\u00fcckskeks|B\u00fcchse der Pandora|Skrotum|Wundert\u00fcte|Windbeutel",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423012_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423012_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423012_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

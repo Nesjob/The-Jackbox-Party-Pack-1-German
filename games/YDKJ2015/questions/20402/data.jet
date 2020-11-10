@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420402_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Traube auf Partnersuche",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420402_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Stellen Sie sich vor, Sie sind eine Weintraube. Mit wem h\u00e4tten Sie vermutlich am meisten zu tun? Mit einem",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420402_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\u00d6nologen",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Onkologen",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Proktologen",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Ornithologen",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420402_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420402_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420402_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420402_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420402_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

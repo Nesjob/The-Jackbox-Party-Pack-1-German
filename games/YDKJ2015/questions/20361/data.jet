@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "v": "420361_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Gef\u00e4hrliche Violinkonzerte",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420361_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420361_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Nach dem letzten St\u00fcck spenden Sie frenetischen Applaus. Aber was gesch\u00e4he mit Ihnen, wenn Sie selbst in diesem Moment \u201cphrenetisch\u201d w\u00fcrden?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420361_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Sie w\u00fcrden den Verstand verlieren",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Sie bek\u00e4men Fieber",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Ihr Sexualtrieb w\u00fcrde sich melden",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Sie bek\u00e4men rote Ohren",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420361_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420361_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420361_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420361_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420361_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

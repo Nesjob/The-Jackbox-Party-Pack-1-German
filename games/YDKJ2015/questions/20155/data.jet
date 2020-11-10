@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420155_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Tierversuche & Schlechtes Karma",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420155_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Sagen wir mal, Sie sind ein Seestern und ich rei\u00dfe Ihnen zum Spa\u00df einen Arm samt einem Teil Ihrer Scheibe aus und schmei\u00dfe ihn wieder ins Meer. Was werden Sie tun?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420155_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Aus dem Arm einen neuen Seestern bilden",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Ein t\u00f6dliches Gift aus dem Arm absondern",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Herumtreiben, bis Sie die M\u00f6wen fressen",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Versinken und zur Koralle werden",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420155_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420155_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420155_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420155_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

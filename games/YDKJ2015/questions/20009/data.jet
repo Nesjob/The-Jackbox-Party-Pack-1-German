@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "v": "420009_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Nachbars Lumpi & Der Antichrist",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420009_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420009_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Bei welcher Hunderasse m\u00fcssen Sie mit einer teuflisch unangenehmen \u00dcberraschung rechnen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420009_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Pudel",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Mastino",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Spitz",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Dobermann",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420009_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420009_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420009_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420009_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420009_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

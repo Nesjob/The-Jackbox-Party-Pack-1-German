@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Prostata|Nieren|Gehirnhaut|Leber|Ohrl\u00e4ppchen|Knochen",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Geb\u00e4rmutter|Fu\u00dfsohlen|G\u00fcrtelrose|Geh\u00f6rsturz|Ohren|Blinddarm|Blase",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Asthma|Fingerspitzen|Hoden|Leistenbruch|Adduktoren|Keuchhusten|Hypertonie",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Zahnfleisch|Augen|Atemwege|Penis|Magen|Dickdarm|Mandeln",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Na, Wo tut\u2019s uns denn weh?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Parodontose|Glaukom|Bronchitis|Priapismus|Gastritis|Kolitis|Tonsilitis",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423031_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423031_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423031_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

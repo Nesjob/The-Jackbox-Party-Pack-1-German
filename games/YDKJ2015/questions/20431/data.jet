@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420431_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Robinson Crusoe & Die Macht des Schicksals",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420431_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wie k\u00f6nnte ein Kapitel in \u201cRobinson Crusoe\u201d \u00fcberschrieben sein, in dem Freitag Robinson einreden will, es gebe keine Rettung und er solle sich in sein Schicksal ergeben?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420431_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,3,0",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Freitags fataler Fatalismus",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Freitags alberner Altruismus",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Freitags eklatanter Egotrip",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Freitags ekelhafter Empirismus",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420431_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420431_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420431_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420431_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

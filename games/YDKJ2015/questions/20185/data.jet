@@ -1,0 +1,131 @@
+{
+  "fields": [
+    {
+      "v": "420185_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Lustige Sp\u00e4\u00dfe unter Trinkern",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420185_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Sagen wir, Ihr trockener Martini hat nicht ganz die richtige Temperatur und Sie beschlie\u00dfen, etwas festes Kohlendioxid hineinzugeben. Was werfen Sie in Ihren Drink?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420185_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,3,0",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Trockeneis",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Kohlenstoff 14",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Carbonara",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Nitro",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420185_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420185_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420185_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

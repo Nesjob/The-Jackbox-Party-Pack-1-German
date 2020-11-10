@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420260_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Arbeitsmarkt & Innere Organe",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420260_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420260_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Wenn Ihr Arbeitsamt Ihnen die Milz entfernen l\u00e4sst, um ihr getrennt von Ihnen eine Stelle zu vermitteln, was w\u00e4re dann eingedenk ihrer Funktion der passende Job f\u00fcr sie?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420260_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "M\u00fcllmann",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Trompeter",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Finanzbeamter",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Mathematiker",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420260_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420260_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420260_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420260_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

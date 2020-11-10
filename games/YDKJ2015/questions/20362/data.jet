@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "v": "420362_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Erdkunde & Unappetitliche Erkrankungen",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420362_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420362_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Welche der folgenden Krankheiten gibt es wirklich?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420362_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Die Mallorca-Akne",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Die Hamburger H\u00e4morrhoiden",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Die Peking-Enteritis",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Die Pariser Pusteln",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420362_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420362_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420362_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420362_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420362_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "v": "420498_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Peinliche Pannen bei der \u201cKnoff-hoff-Show\u201d",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420498_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420498_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Das Moderatorenteam will die Wirkung eines Faradayschen K\u00e4figs demonstrieren, hat aber statt des K\u00e4figs aus Versehen \u201cFarah Diba\u201d erwischt. Was wird passieren?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420498_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Eine Kaiserin wird vom Blitz getroffen",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Ein Pop-Star explodiert in einem K\u00e4fig",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Ein Top-Model vergl\u00fcht in der Mikrowelle",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Eine Rennl\u00e4uferin kriegt einen Stromschlag",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420498_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420498_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420498_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420498_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420498_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

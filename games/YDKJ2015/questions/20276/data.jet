@@ -1,0 +1,136 @@
+{
+  "fields": [
+    {
+      "v": "420276_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Spa\u00df mit Sigmund Freud",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420276_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420276_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "\u201cBesorgnis der Patientin \u00fcber ihr Aussehen \u00e4u\u00dfert sich in Gespr\u00e4chen mit Spiegeln. Furcht vor sch\u00f6neren Konkurrentinnen entl\u00e4dt sich in Hass auf j\u00fcngere Familienmitglieder.\u201d",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420276_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Schneewittchens Stiefmutter",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Frau Holle",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Die Prinzessin aus dem \u201cFroschk\u00f6nig\u201d",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Rapunzel",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420276_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420276_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420276_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Delikatessen|Eisenwaren|Kalahari|Alm|Nordkap|Einkaufswagen",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Mundwasser|Tukan|Molkerei|Anabolika|Aphrodisiaka|Handtaschen|Geweihe",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Pelze|Magenbitter|Wasser|Winterschlaf|Lachs|Leopard|Lurch",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Kondensmilch|Zigaretten|M\u00f6bel|Schokolade|Schuhe|Autos|F\u00fcllhalter",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Was gibt\u2019s bei mir zu kaufen?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "B\u00e4r|Kamel|Elch|Lila Kuh|Salamander|Jaguar|Pelikan",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423045_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423045_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423045_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

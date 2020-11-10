@@ -1,0 +1,138 @@
+{
+  "fields": [
+    {
+      "v": "420078_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Hei\u00dfe Bienen & Der Stachel der Liebe",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420078_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420078_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Welche Anmache ist am aussichtsreichsten, wenn Sie als Drohne eine Bienenk\u00f6nigin aufrei\u00dfen wollen?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420078_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "1,2,0,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\u201cWie w\u00e4r\u2019s mit einem flotten Zw\u00f6lfer?\u201d",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\u201cMein Pollen wartet nur auf dich.\u201d",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "\u201cF\u00fchl mal meinen Stachel, Baby.\u201d",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "\u201cIIch zeig dir meine Wabensammlung.\u201d",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420078_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420078_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "420078_11",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420078_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420078_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

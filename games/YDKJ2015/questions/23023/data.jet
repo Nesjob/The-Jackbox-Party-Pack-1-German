@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Bundespr\u00e4sident|Erster Geiger|Maat|747|Cockpit|Partitur",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Stewardess|Raumschiff|Papamobil|Reliquie|Flugzeug|Magnifizenz|Herzog",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Funker|Kloster|Mr. Spock|Organist|Fraktionsvorsitzender|Premierminister|Universit\u00e4t",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Vizekanzler|Kopilot|Kronprinz|Commander Riker|Kapellmeister|Kardinal|Prior",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Immer der Reihe nach",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Bundeskanzler|Pilot|K\u00f6nig|Captain Picard|Dirigent|Papst|Abt",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "423023_20",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "423023_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "423023_10",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

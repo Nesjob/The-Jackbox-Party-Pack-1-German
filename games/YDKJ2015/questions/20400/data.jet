@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "v": "420400_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "Betr\u00fcger im Tierreich!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "420400_02",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "420400_03",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "Welches der folgenden Tiere w\u00fcrde Agent Maus der Polizei melden, weil es gar keine Maus ist?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "420400_04",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "0,1,2,3",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Spitzmaus",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Feldmaus",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "Rennmaus",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "W\u00fchlmaus",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "420400_20",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "420400_10",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "420400_12",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "420400_13",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    }
+  ]
+}

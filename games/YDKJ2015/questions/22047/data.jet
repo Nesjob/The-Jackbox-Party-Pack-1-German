@@ -1,0 +1,197 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bBoth"
+    },
+    {
+      "v": "Gerald Carr",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Charles Barkley",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Leroy Cooper",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Karl Malone",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Neil Armstrong",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "Alan Shepard",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "Scottie Pippen",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "1,0,1,0,1,1,0",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "Wenn die K\u00f6rbe WIRKLICH hoch h\u00e4ngen",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "NBA-Basketball-Star",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "Astronaut",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "NBA-BASKETBALL-STAR",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "ASTRONAUT",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "422047_11",
+      "t": "A",
+      "n": "aQ1"
+    },
+    {
+      "v": "422047_12",
+      "t": "A",
+      "n": "aQ2"
+    },
+    {
+      "v": "422047_13",
+      "t": "A",
+      "n": "aQ3"
+    },
+    {
+      "v": "422047_14",
+      "t": "A",
+      "n": "aQ4"
+    },
+    {
+      "v": "422047_15",
+      "t": "A",
+      "n": "aQ5"
+    },
+    {
+      "v": "422047_16",
+      "t": "A",
+      "n": "aQ6"
+    },
+    {
+      "v": "422047_17",
+      "t": "A",
+      "n": "aQ7"
+    },
+    {
+      "v": "422047_01",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "422047_02",
+      "t": "A",
+      "n": "aSetup"
+    },
+    {
+      "v": "422047_20",
+      "t": "A",
+      "n": "aExit"
+    },
+    {
+      "v": "422047_03",
+      "t": "A",
+      "n": "aDis"
+    },
+    {
+      "v": "422047_04",
+      "t": "A",
+      "n": "aDat"
+    },
+    {
+      "v": "422047_21",
+      "t": "A",
+      "n": "aGenRocked"
+    },
+    {
+      "v": "422047_22",
+      "t": "A",
+      "n": "aGenDecent"
+    },
+    {
+      "v": "422047_23",
+      "t": "A",
+      "n": "aGenPoor"
+    },
+    {
+      "v": "422047_24",
+      "t": "A",
+      "n": "aGenAwful"
+    },
+    {
+      "t": "A",
+      "n": "aTimer"
+    },
+    {
+      "t": "A",
+      "n": "aInstr"
+    }
+  ]
+}
