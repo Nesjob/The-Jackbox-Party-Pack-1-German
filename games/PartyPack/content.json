@@ -1,0 +1,57 @@
+{
+  "games": [
+    {
+	  "name":"YDKJ2015",
+      "mainSwf": "YDKJ2015.swf",
+      "title": "YOU DON'T KNOW JACK 2015",
+      "players": "1-4 SPIELER",
+      "controllers": "HANDYS, TABLETS ODER PCs ERFORDERLICH",
+      "descriptionFile":"content/YDKJ2015.html",
+	  "hasADemo":true,
+	  "video":"videos/ydkj2015"
+    },
+    {
+	  "name":"Drawful",
+      "mainSwf": "Drawful.swf",
+      "title": "Drawful",
+      "players": "3-8 SPIELER",
+      "controllers": "HANDYS, TABLETS ODER PCs ERFORDERLICH",
+      "descriptionFile":"content/Drawful.html",
+	  "hasADemo":false,
+	  "videoPreview":"videos/preview",
+	  "video":"videos/drawful"
+    },
+    {
+	  "name":"WordSpud",
+      "mainSwf": "Wordspud.swf",
+      "title": "Word Spud",
+      "players": "2-8 SPIELER",
+      "controllers": "HANDYS, TABLETS ODER PCs ERFORDERLICH",
+      "descriptionFile":"content/WordSpud.html",
+	  "hasADemo":false,
+	  "videoPreview":"videos/preview",
+	  "video":"videos/wordspud"
+    },
+    {
+	  "name":"LieSwatterParty",
+      "mainSwf": "LieSwatterParty.swf",
+      "title": "Lie Swatter Party",
+      "players": "1-100 SPIELER",
+      "controllers": "HANDYS, TABLETS ODER PCs ERFORDERLICH",
+      "descriptionFile":"content/LieSwatterParty.html",
+	  "hasADemo":false,
+  	  "videoPreview":"videos/preview",
+	  "video":"videos/lieswatterparty"
+    },
+    {
+	  "name":"Fibbage",
+      "mainSwf": "FibbageXL.swf",
+      "title": "Fibbage",
+      "players": "2-8 SPIELER",
+      "controllers": "HANDYS, TABLETS ODER PCs ERFORDERLICH",
+      "descriptionFile":"content/Fibbage.html",
+	  "hasADemo":true,
+	  "video":"videos/fibbage"
+    }
+  ]
+}
