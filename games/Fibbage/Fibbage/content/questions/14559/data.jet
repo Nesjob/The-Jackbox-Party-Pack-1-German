@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Feuerstellen,alte Leute,Schlangen,Hydranten,Gräber,Nonnen,Kuchen,Schwimmbäder,Bibeln,Autos,nackte Frauen,Party-U-Boote,Bischöfe,Kirchen,Katzen,Hunde,Badewannen,Toiletten,Mistgabeln",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Teufel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Babys",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "El Colacho ist ein spanisches Festival, bei dem sich die Leute wie der Teufel verkleiden und über <BLANK> springen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "babies",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "323215_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "323212_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Toilettenwärter,eine Bauchrednerpuppe,eine Geheimagentin,Adolf Hitler,einen Pantomime,einen 100-jährigen Papagei,einen Hai,einen Shuffleboarder,eine Stahltrommelband,einen Teenager,einen Rodelschlitten,eine Gruppe Delfine,Harlem Globetrotter,eine aufblasbare Palme,eine Eisskulptur,einen Friseur,einen singenden Magier,einem Typ im Piratenkostüm",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Reha",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Trace Adkins Imitator",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Während einer jamaikanischen Kreuzfahrtreise musste Country-Sänger Trace Adkins auf Reha, nachdem er <BLANK> bekämpfte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Trace Adkins,sich selbst",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "344651_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "344648_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

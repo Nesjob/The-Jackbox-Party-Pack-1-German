@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mäusefallen,Zuckerwürfeln,Fingerhüten,Lincoln Logs,Heftzwecken,Murmeln,Stücken Trockenfleisch,Wattestäbchen,Haaren,Knöpfen,Gewürzgurken,Schachfiguren,Erbsen,Servietten,Flaschenkapseln,Nägeln,Darts,Mini-Windrädern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "San Francisco",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Zahnstochern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Nach 35 Jahren Arbeit hat Künstler Scott Weaver mit über 100.000 <BLANK> die Stadt San Francisco nachgebaut.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Zahnstocher,zahn stocher,zahn stochern",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "327462_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "327459_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

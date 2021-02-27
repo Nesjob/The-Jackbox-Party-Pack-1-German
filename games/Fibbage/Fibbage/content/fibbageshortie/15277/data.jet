@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Iglu,einem Krankenwagen,einem Aufzug,einen offenen Haus,einem Plumpsklo,einem Fastfood-Restaurant,einem Vogelhaus,einem Sessel,einem Gartenhäuschen,einem Büro eines Optikers,einem Veranstaltungszimmer,einem IKEA,einer Intensivstation,einem Einkaufszentrum,einem Applestore,einem Steakhouse",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "verletzt",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einer Kustgalerie",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Gemäß des International Code of Disease ist der Kodex Y92250 die offizielle Bezeichnung für \u201cWenn ein Patient in <BLANK> verletzt wurde\u201d.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einer bildergalerie,einer kusthalle,einer gemäldegalerie",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "337656_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "337653_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

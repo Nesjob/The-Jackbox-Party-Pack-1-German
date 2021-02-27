@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "kleine,adipöse,ältere,bildhübsche,sterbenskranke,chaotische,stinkende,tote,idiotische,betrunken,rothaarige,getüpfelte,depressive,magersüchtige,blonde",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Gesichter",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "hässliche",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Laut einer Studie der Universität Jena sind die Menschen mit den einprägsamsten Gesichtern, <BLANK> Menschen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "unattraktiv,unattraktive",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "358883_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

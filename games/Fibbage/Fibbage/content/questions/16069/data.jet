@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Scooter,Güterwagen,Schaukelpferd,Kühlschrank,Weihnachtsbaum,Surfboard,Bananenbot,Sarg,Skateboard,Hoverboard,Batmobile nachbau,Hai,Krankenhausbett",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Minnesota",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "La-Z-Boy Stuhl",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein Mann aus Proctor, Minnesota, wurde verhaftet, weil er betrunken mit einem motorisierten <BLANK> gefahren ist.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Stuhl",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "355475_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

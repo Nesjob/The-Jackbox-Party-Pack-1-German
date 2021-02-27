@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einer Bibliothek,Planet Hollywood,einer Pizzeria,einem Hot-Dog Stand,einem Museum,einem Mauthäuschen,einer U-Bahn,einem Feuerwehrhaus,einem Hotel,einer Sauna,einer Bar,einem Pferdewagen,einem Zeitungskiosk,einem Verkaufsautomaten,einem Brunnen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Einstein",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Tresor",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Seltsam aber wahr, Albert Einsteins Augäpfel befinden sich in <BLANK> in New York City.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einem schliessfach,in einem bankschliessfach,einem stahlfach,einem bankfach,einem schrankfach,einem tresorfach",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "339039_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "339036_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

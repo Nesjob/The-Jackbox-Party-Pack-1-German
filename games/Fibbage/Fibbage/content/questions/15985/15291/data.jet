@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "im dunkeln leuchten,in ein Gefieder verwandeln,schrumpfen,schmelzen,verschwinden,gut schmecken,schneller wachsen,schweben,fleckig werden,rückwärts altern,schuppig werden,sehr hart werden,jucken,orange färben,rot färben,grün färben,gelb färben,hölzern werden,haarig werden,schimmeln",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Haut",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "blau färben",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die seltene Erkrankung \u201cArgyrie\u201d oder \u201cPerlmuttstomatitis\u201d lässt die Haut der betroffenen <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "blau werden,bläulich färben,bläuchlich werden",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "337975_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

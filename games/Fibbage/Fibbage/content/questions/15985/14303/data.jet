@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Nasen,Drachen,Bananen,Sonnen,Kämme,Schwerter,Fussbälle,Lieferwagen,Zungen,High Heels,Gummibänder,Gitarren,Schornsteine,Kondome,Rasenmäher,Darts,Lakritzstangen,Bikinis",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Isle of Man",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Beine",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das Logo der Isle of Man zeigt drei miteinander verbundene <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "317979_4",
+      "n": "QuestionAudio"
+    }
+  ]
+}

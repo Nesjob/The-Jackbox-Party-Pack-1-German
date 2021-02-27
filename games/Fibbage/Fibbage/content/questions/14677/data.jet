@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sein Schwert,seinen Kolostomiebeutel,seine Shotgun,sein Einhornkuscheltier,sein Bierfass,seinen Pelzmantel,sein Kind,seine Donuts,sein Auto,seinen Glücksbringer,seine Kamera,sein Tretrad,sein Abendessen,seine Handcreme,seine Oma,seinen schwulen Freund,seinen Baseballschläger,seinen Rasenmäher",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Striptease",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "seine Katze",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein Mann wurde in Florida verhaftet, weil er die Polizei gerufen hatte um sich zu beklagen, dass er <BLANK> nicht mit in den Strip-Club nehmen darf.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "seine muschi,sein kätzchen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "325650_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

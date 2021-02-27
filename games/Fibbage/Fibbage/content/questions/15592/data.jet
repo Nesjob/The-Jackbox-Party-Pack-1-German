@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einer Bärenfalle,einem Kobra-Gehege,einer Schiessanlage,einem Pferdearsch,Nachokäse-Bottich,einer Jauchegrube,einem Hahnenkampf,Wal,einem Wespennest,Vulkan,einem Düsentriebwerk,einem Kühlturm eines Atomkraftwerks,einem Tornado,einem vergrabenen Sarg,einem Riesenmixer,einer Waschmaschine,einem Betonmischer,einem Kuhhintern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "feststecken",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Holzhacker",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wie durch ein Wunder überlebte ein Mann aus Longview, Washington im Jahr 2014 ein erschütterndes Ereignis. Er war für 10 Sekunden in <BLANK> festgesteckt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einem holz hacker,einen holzspalter,einen holz spalter",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "344941_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "344938_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

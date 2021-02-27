@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Musik,des Seinfeld Titelsongs,Bongos,Yannis Liedern,Niesgeräuschen,Klatschgeräuschen,Eiscreme-Trucks,Alfs Stimme,Blockflöten,Eieruhren,platzenden Luftballons,Furzen,quietschenden Kreidetafeln,Urmels Stimme,Rülpsgeräuschen,Tippgeräuschen,MC Hammer,Stepptanzgeräuschen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Krampfanfälle",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Mary Harts Stimme",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein Neurologie-Professor des Albany Medical College dokumentierte im Jahr 1991, dass eine seiner Patientinnen beim hören von <BLANK> Krampfanfälle hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mary Hart",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "328623_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

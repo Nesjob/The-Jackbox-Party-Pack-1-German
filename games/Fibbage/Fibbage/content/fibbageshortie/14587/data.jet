@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Viva la France,friss meinen Staub,Deez Nuts,Ich bin ein Moster,Bis später, ihr Trottel,Livin La Vida Loca,Meine Fähre,Ich bin die Königin der Welt,Niemand kann mir etwas anhaben,Ich bin unterwegs Mama,Mein Fehler,Ich bin auf einem Boot,Ich habe Kennedy erschossen,Ich könnt mich alle,Ich bin unbesiegbar,Volle Kraft voraus,Who let the dogs out,Ich bin eine goldene Gottheit",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Geschrei",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ich bin Jack Sparrow",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine Britin wurde für die Entführung einer Fähre verhaftet, nachdem sie \u201c<BLANK>!\u201d gerufen hat",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "i am jack sparrow,im jack sparrow,i\u2019m jack sparow",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "323800_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

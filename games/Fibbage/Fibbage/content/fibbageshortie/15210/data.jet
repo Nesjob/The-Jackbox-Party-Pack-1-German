@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Tresor,Jimmy Hoffa,eine Abrissbirne,ein Hummer,ein Boot,ein Zug,eine Standuhr,ein Esszimmertisch,einen Wal,ein Vogelbad,einen Kronleuchter,ein Faberge-Ei,ein Basketballkorb,ein LKW,ein Bulldozer,ein Briefkasten,ein Whirlpool,ein alter Geräteschuppen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Haufen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Klavier",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Als Paul Nelson und Andrew Hunter im Jahr 2006 den höchsten Berg Großbritanniens bestiegen, haben sie hinter einen Steinhaufen eine ungewöhnliche Entdeckung gemacht. Es war <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ein flügel,ein piano",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "336093_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "336090_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

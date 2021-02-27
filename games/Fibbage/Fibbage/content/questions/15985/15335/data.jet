@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "alte Frauen,Tänzer,Papageien,Adler,Staubsaugerroboter,Cheerleader,Dachse,Schmetterlinge,Ninjas,Hausfrauen,ferngesteuerte Helikopter,Rennwagen,Buchhalter,Gedichte,Leitern,Kissen,Wrestler,DVD-Player",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Marokko",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Affen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2003 machte Marokko den USA ein ungewöhnliches Angebot, 2.000 <BLANK> zur Unterstützung des Irakkriegs zu schicken.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Schimpansen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "338993_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "338990_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

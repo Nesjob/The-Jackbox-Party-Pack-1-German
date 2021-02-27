@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Herpes,Diabetes,Hohlräumen in der Nase,Vögeln in der Nase,Bienen in der Nase,Superkräften,Explodieren des Kopfes,Krebs,Fettleibigkeit,blonden Haar,Pilzen in der Nase,Moos in der Nase,einer Operation,Sperma in der Nase,Warzen in der Nase,Flöhen in der Nase",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Mittelstufe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Maden in der Nase",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lehrer einer Realschule in Rhode Island beobachteten, wie einige Schüler Smarties zerkleinerten und durch die Nase schnupften. Sie schickten eine E-Mail in der sie die Eltern vor <BLANK> als Nebenwirkung bei ihren Kindern warnten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Würmer in der Nase",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "351825_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

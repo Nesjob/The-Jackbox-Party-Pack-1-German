@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Teenager,Hundetrainer,Priester,Sportler,Babysitter,Klemptner,Karikaturkünstler,Opernsänger,tote,Kirmesleute,Einwagenfahrer,Obdachlose,Strassenkünstler,LKW-Faher,Babys,Millionäre,Pantomimen,Schuhputzer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Romanian",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hexen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2013 begann die rumänische Regierung angesichts finanzieller Schwierigkeiten eine Personengruppe zu besteuern. Sie begannen <BLANK> zu besteuern.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "wahrsager,hellseher,wahrsagerinnen,hellseherinnen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "349330_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "349327_0f",
+      "n": "QuestionAudio"
+    }
+  ]
+}

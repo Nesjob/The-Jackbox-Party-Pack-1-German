@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kängurublut,Toilettenwasser,Anti-Frotzschutzmittel,Urin,Ketchup,Blut,Benzin,Mango Eistee,Menschentränen,Kaffee,Eiskaltes Wasser,Sprite,Spucke,noch mehr Frostschutzmittel,Flohshampoo,Gallenflüssigkeit,Bier",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Frostschutz",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Vodka",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Nachdem ein Malteser-Rassenhund in Australia Frostschutzmittel getrunken hatte, haben die Tierärzte sein leben geretten, indem sie ihm <BLANK> zum trinken verabreichten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "355547_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "355544_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

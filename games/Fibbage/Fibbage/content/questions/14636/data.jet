@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kissen,Kuschel,Ruhe,Schrei,Kätzchen,Massage,Whirlpool,Fluch,Selbstbefriedungungs,Banjo,Wrestling,Mal,Kickboxing,John Stamos,Schlaf,Jogging,Kaninchen,Fight Club",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Stress",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Welpen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2012 wurde an der Dalhousie University ein <BLANK>-Zimmer zur Stresslinderung der Studenten eingeführt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "hundewelpen,welpe,hundebaby",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "324794_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "324791_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

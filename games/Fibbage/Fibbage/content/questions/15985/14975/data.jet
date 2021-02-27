@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eines Arschzeigenden Mannes,des Teufels,eines Daumen nach unten,einer toten Ratte,einer Zunge,einer Schlange,einer zerschlagenen Hochzeitstorte,eines Poolboys,eines Ehevertrags,eines Anwalts,eines Sacks voll mit Geld,eines Stinktiers,eines Penis,eines Dämon,eines lächelnden Mannes,eines Gheists,einer Kackwurst,eines Regenbogens",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "errichten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eines Mittelfingers",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2013 kaufte ein wohlhabender Mann aus Michigan das Grundstück neben dem neuen Haus seiner Ex-Frau und errichtete dort eine riesige Bronzestatue in Form <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "eines Stinkefingers,eines mittel fingers,eines mittelfinger,eines mittel finger",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "331677_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "deinen Haustieren,deinen Haaren,deinen Eltern,deiner Kamera,deinen Kissen,deinen Ehegatten,deinen Feinden,deinem Essen,deinem Reisegepäck,deiner Adoptivfamilie,deiner Nannie,deiner Zeitschrift,deiner Geliebten,deinen Familienfotos,deinen Gartenzwerg,deinem Arbeitnehmer,deinen Klamotten,deinem Auto",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Urlaub",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "deinen Kuscheltieren",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Unagi Travel ist eine ungewöhnliche japanische Reiseagentur, die eine Urlaubsreise mit <BLANK> unternimmt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "deinen plüschtieren,deinen plüsch tieren,deinen kuschel tieren",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "328191_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

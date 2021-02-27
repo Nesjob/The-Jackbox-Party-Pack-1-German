@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "petite churls,sandy toes,lil icebergs,Joseph Stalin,ice bargs,bip bops,wee berglettes,baby bergs,ice churns,kiddy bergs,snow tumblers,daddy lumps,water slivers,small loads,tiny cubebergs,ice babies,pappy palettes,fresh fancies",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Growlers",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Bergy Bits",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Nach Angaben der National Oceanic und Atmospheric Association werden kleine Eisberge offiziell \u201cGrowlers\u201d genannt. Mittlere Eisberge haben die außergewöhnliche, zwei wörtige Bezeichnung \u201c<BLANK>\u201d.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "bergybits",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "338297_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

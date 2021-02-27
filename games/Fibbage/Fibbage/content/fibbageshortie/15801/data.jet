@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Schweinekopf,einer weissen Flagge,einen Kaktus,einem Sandkasten,einer Fackel,einen aufgeblasenen Ballon,einer Perücke,einem VHS-Spieler,einer Mülltonne,eine Statue von Herkules,einen Ziegelstein,eine verspätete Mahnung,ein Paddel,ein Fläschchen mit Tränen,einen Helm,vergammelten Früchten,einem Katzenklo,einer DVD von Rocky",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Netflix",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Spülbecken",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2004 sandte der CEO von Blockbuster dem CEO Reed Hastings von Netflix ein Paket mit <BLANK> als Inhalt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einen abwaschbenken,einer spüle",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "349625_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

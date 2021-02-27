@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hässliche,Kleine,Dumme,Furzende,Inkompetente,Dummkopf,Idiot,Arsch,Winzling,Gestörte,Verrückte,Schlaffe,Stinkende,Lasche,so genannte König,Ekelhafte,Esel,Unbrauchbare,mit den komischen Hosen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "beschämend",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Machtlose",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "King Henry IV von Kastilien hatte den Spitznamen \u201cHenry der <BLANK>\u201d.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "339358_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

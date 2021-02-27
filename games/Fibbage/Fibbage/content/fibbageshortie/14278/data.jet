@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Juice,Medicine,Curse,Friend,Weapon,Milk,Party,Syrup,Mule,Tea,Elixir,Fuel,Jubilee,Potion,Dance,Slave,Lover,Escape",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Gin",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ruin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im 16. Jahrhundert wurde Gin in Großbritanien als \u201cMother\u2019s <BLANK>\u201d bezeichnet.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "317460_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

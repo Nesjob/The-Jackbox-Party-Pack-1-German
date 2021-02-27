@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Chip,Bier,Waschmittel,Schuh,Spiegel,Haus,Stein,Klavier,Mülleimer,Portrait,Tisch,Pullover,Wohnwagen,Auto,Buch,Keks",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Ecuador",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Fusspulver",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahre 1967 gewann in einer kleinen Provinz in Ecuador ein Produkt namens Pulvapies die Wahlen zum Bürgermeister. Somit war der Bürgermeister ein <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fusscreme",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "318327_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "318324_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

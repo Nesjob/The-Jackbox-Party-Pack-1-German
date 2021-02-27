@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "betrügen,anschreien,waschen,weiterverkaufen,werfen,misstrauen,anfassen,infragestellen,beerdigen,während des Schlafens verwenden,fallen lassen,zu sehr geniessen,rasieren,kritisieren,aufschrauben,tauschen,kitzeln",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "iPod",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "essen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Kleingedruckten des iPod Shuffles befand sich folgender Hinweis: \u201cDen iPod Shuffle nicht <BLANK>\u201d.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "fressen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "330554_3",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "330551_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schweiss,Gift,Ziegenspeichel,Vodka,Kotze,einem Schafbauch,in Kofferraum eines Autos,Bier,Batteriesäure,Vaseline,Menschenfett,Tränen,Fäkalien eines Wasserbüffels,deinem eigenen Blut,Lava,Schokolade,Whirlpoolwasser,Abwasser,Sperma",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Eier",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Urin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "ROADTRIP! Wenn Sie im Frühling Dongyang, China, besuchen, probieren Sie die in <BLANK> gekochten Eier.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "kinderurin,kinder-urin,jungen-urin,jungen urin",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "354867_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "354864_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

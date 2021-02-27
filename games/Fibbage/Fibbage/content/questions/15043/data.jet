@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "schlummern,lesen,Curling,malen,sitzen,klatschen,lachen,liegen,mastrubieren,Angeln,Bowlen,schwimmen,baden,putzen,gleiten,fallen,Square-Tanzen,stehen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Gründen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Bügeln",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Phil Shaw ist der Gründer des bizarren Sports namens \u201cExtrem <BLANK>\u201d.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "333235_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "333232_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

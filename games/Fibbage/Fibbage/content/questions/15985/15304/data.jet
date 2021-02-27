@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Seilspringen,Fotografieren,Bildhauen,Ballett Tanzen,Frisbee werfen,Stricken,Inlineskaten,Flugzeug fliegen,Counter-Strike,Mathe,Backen,Konfliktbewältigung,Schlagzeug spielen,Joga,Synchronschwimmen,Nähen,Puppen machen,Fifa",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Eminem",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Donkey Kong",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Am 03. Dezember 2009 und am 30.03.2010 twitterte Rapper Eminem ein Foto um zu beweisen, dass er gut in/im <BLANK> ist.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Donkey Kong spielen,Donky Kong",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "338274_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

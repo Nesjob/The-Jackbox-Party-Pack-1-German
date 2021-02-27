@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Big Wood,Bonelick,Woodcock,Tata,Pussywillow,Bosom,Nunt,Titmouse,Beaver,Big Wind,Chub,Suckey,Dangle,Moist,Virgin,Grundle,Glory Hole,Bulger",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "schmutzig",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Morning Glory",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Stadtrat von Lehi City, Utha stimmte der Bitte zu, den Namen der \u201c<BLANK> Road\u201d zu ändern, weil er zu schmutzig klang.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "323711_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "323708_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Gebärmutter,ein totes Haustier,ein weindendes Baby,eine Lehrerin,ein Teller Lasagne,ein Feuerwehrmann,dein Opa,ein Hase,eine Kuhzunge,der Mutterleib,ein verwesender Hai,eine Wolke,das Gesicht einer nahstehenden Person,ein lustiger Clown,ein Busfahrer,ein Schutzengel,eine Familie von Comic-Fischen,ein sprechender Donut",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Einsamkeit",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Frauenschoss",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2004 verkaufte die Trane Corporation in Japan Kissen, geformt wie <BLANK>, um die Einsamkeit der Menschen zu bekämpfen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ein frauen schoss",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "348112_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "348109_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

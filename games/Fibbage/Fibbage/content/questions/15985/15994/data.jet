@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "die Salatschleuder,der Playboy,das Zippo,der Nackenspoiler,die Müllabfuhr,die Taschenlampe,der Toaster,der Ofen,die Fernbedienung,der VHS-Player,der Walkman,der Pizza-Bagel,der Bierhelf,das Kondom,der Duschkopf,die Bauchtasche,der Computer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wirtschaftler",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "die Waschmaschine",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Cambridge Universitys Wissenschaftler Ha-Joon Chang vertritt die Meinung, dass <BLANK> die Welt mehr verändert hat, als das Internet.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "die wasch maschine,die waschmaschiene,die wasch maschiene",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "353845_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

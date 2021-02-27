@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Lehrer,einem Serienmörder,einen Hasen,einen Zeitreisenden,einen Pferd,einen Mönch,dem Poolboy,einem Penner,einem Senator,einem Drogenkurier,einer Statue,einem König,einen Delfin,dem Opa eines Freundes,einen Kaktus,einen Hund,einen Präsidenten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Lucy",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Geist",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In einem Interview mit der <i>US Weekly</i> im Jahr 1999 gab die Schauspielerin Lucy Liu an, dass sie einmal Sex mit <BLANK> hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einen geist",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "356553_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

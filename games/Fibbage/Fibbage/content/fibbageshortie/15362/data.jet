@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Warmstein,einen Furz,einen Vogel,100 Eiswürfel,einen Ständer,brennende Kerze,Vogelspinne,einen Viehtreiber,ein Skorpion,Schweinefilet,einen Biber,ein Messer,einen Feuerwerkskörper,eine Schlange,eine Dynamitstange,eine Murmel,einen Fisch,eine Maus",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hosen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Frettchen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Reg Mellor ist amtierender Meister in einer Sportart, bei der man <BLANK> möglichst lange in seiner Hose behalten muss.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ein frett",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "339614_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "339611_0f",
+      "n": "QuestionAudio"
+    }
+  ]
+}

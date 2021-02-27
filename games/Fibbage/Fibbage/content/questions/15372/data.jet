@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Holzspielzeug,Nackte-Frauen,Pfadfinder,schreckliche Unfälle,Origami,Skandale von Prominenten,Angeln,Science-Fiction,Priestertum,Landwirtschaft,Esel,Golf,Kriminalität,Musik,Autos,Vögel beobachten,Damenmote,Schifffahrt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Fliegen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Imkerei",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die erste Berichterstattung über die Flüge der Brüder Wright erschien nicht in einer Zeitung oder im Radio, sondern in einem kleinen Magazin, welches sich hauptsächlich mit dem Thema <BLANK> befasste.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bienen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "339844_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "339841_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

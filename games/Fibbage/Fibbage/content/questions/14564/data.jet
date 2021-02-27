@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "DVDs,Videospiele,Tacos,Ringe,Gutscheine,Umarmungen,Zigarren,Zigaretten,Schafe,Dates,Lap-Dances,Massagen,Hamburger,Zugtickets,Baseballs,Fedoras,High Heels,Besuche im Puff",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Nationalität",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Frühlingsrollen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2013 wurde ein US-Zoll und Grenzschutzbeamter für schuldig befunden, die Staatsbürgerschaft im Austausch für 200 <BLANK> gewährt zu haben.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "323302_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "323299_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

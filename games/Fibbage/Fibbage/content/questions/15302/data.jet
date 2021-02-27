@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pizza-Bagels,Dinge aus dem Müll,Kleber,mehr Bonbons als Obst,abgestorbene Haut,Shampoo,Sperma,Früchtebrot,Mayonnaise-Sandwiches,Fett eines Rostbratens,Fischstäbchen,abgelaufene Lebensmittel,Baumrinde,Hundefutter,Würfelzucker pur,Katzenfleisch,Gras,Funde aus der Sofaritze",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "44%",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ihren Popel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In einer von dem Author Stefan Gates durchgeführte Studie haben 44% der Erwachsenen zugegeben <BLANK> zu essen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Popel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "338228_0f",
+      "n": "QuestionAudio"
+    }
+  ]
+}

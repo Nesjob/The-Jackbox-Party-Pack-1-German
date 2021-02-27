@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einer Schubkarre,einer Hundehütte,einem Graben,der Umkleidekabine,dem Tresorraum einer Bank,dem Bett der Eltern,der Arbeit,der Scheune,einem Skilift,einem Sarg,der Strafbank eines Einhockeystadions,einer Gefängniszelle,der Küche,einer Telefonzelle,einer Schachtel,einem Strandkorb,einem Kamin,einer Brauerei",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Playtex",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Kanu",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine im Jahr 2013 von Playtext durchgeführte Umfrage ergab, dass 8% der Kanadier Sex in <BLANK> hatten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einem paddelboot,einem kayak,einem kajak",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "340189_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "340186_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Nashorn,einem gefrorenen See,einem Vulkan,einem Geysir,einem Pfahl,einer Kanone,einem Krokodil,einem Bulldozer,einem Sarg,einen Löwen,einem Elektrozaun,dem Dach,einer Abrissbirne,einer Leiter,einem Katana,einem mechanischen Bullen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sex",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "dem Bahngleis",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2008 starb ein Paar in Südafrika, während sie Sex auf <BLANK> hatten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "den schienen,dem gleisbett",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "317408_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "317405_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

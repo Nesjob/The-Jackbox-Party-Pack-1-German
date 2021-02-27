@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Garnelen,Bärenpenis,Dynamit,Fisch,Pferdezähne,Sprengstoff,Kaugummi,Knorpel,Zement,getrockneten Hundekot,Uran,Schleim,Menschenknochen,Menschenhaar,Teppich,gefährdeten Rotholz,Augenbraue,Maissirup mit hohem Fructosegehalt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Angeln",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Karotten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Fischerei \u201cE21\u201d stellt eine sehr eigenartige Angelrute her, die zu 70% aus <BLANK> besteht.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "möhren",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "353278_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "353275_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

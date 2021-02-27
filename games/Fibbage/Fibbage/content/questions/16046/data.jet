@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Lineale,Papier,Computer,Podium,Globus,Taschenrechner,Handbewegungen,Paddel,Schreibtisch,Stühle,Antwortschlüssel,Videos,Brille,Kontaktlinsen,Tafel,Radiergummi,Noten,Overheadprojektor",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Akademie",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Rotstift",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Gegenstand, den Lehrer an der Mounts Bay Academy in England im Jahr 2014 verboten wurde.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "rot stift,rote tinte,rote stifte,roter stift",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "354949_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "354946_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

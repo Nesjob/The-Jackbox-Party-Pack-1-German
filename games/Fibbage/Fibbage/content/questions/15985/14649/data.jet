@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Strohmänner,supermodels,Taschentuchverpackungen,Briefkästen,Schafe,Omas,Fenstern,Vakuen,Zelten,Puppen,Socken,Geldautomaten,Pferden,Hunden,Kaffekannen,Ziegen,Furbys,Geistern,Furrys",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "1.000",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Autos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Edward Smith aus Yelm, Washington sorgte in den Medien für Aufmerksamkeit, weil er behauptet hat, er habe Sex mit über 1.000 <BLANK> gehabt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "automobilen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "325065_2",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "325062_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Büchern,Notenblätter,Fäustlinge,Hüte,Hundefutter,Glocken,Trampoline,Unterwäsche,Trommeln,Hacken,Schuhen,Drachenfiguren,Bleistiften,Schlitten,Kissen,Dominosteinen,Tassen,Briefkästen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Samsung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Nudeln",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Mit welchen einfachen Produkt, hat Samsung als Unternehmen angefangen?",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "noodels",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "334756_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "334753_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+"v": "ein Paar Kinder im Paletot,zusammengeklebte Rennmäuse,ein langhaariges Pferd,einen amerikanischen Löwen,einen Flauschteppich,eine Eisskulptur,eine Kuh,eine Videoprojektion,eine Katze,eine Vogelscheuche,ein totes Schwein,einen Spiegel,zurechtgeschnittene Pappe,einen Leinensack,gelbe Schlafanzüge,eine Katze hinter einem Lupenglas,eine Blondine,eine Ziege,einen Wolf,einen Bär",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Löwe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Hund",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2013 versuchte ein chinesischer Zoo <BLANK> als afrikanischen Löwen auszugeben.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "hund,einen grossen hund",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "350191_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "350188_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ziegen,Sex,Frauen,Vodka,Stuhl,Kinder,Rikscha,Madg,Bade,Sing,Tabakpfeifen,Erwerbs,Bett,Bibliotheken,Perücken,Geigen,Taschentuch,Tanz",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Peter",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Bart",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Peter der Große besteuerte Adlige mit einer <BLANK>-Steuer in der Höhe von 100 Rubel jährlich.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "gesichtsbehaarungs,gesichts behaarungs",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "317359_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

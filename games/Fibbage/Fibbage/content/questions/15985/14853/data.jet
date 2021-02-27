@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Donuts,Kartoffelchips,Snickers,Orangen,Tacos,Nachos,Big Macs,Gummibärchen,Tic Tacs,Bananen,Erdnüsse,Cheez-Its,Stücke Knabbergebäck,Chicken Wings,Gurken,Cupcakess,Babykarotten,Stücke Pizza,Fischstäbchen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Bolt",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Chicken McNuggets",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Weil der Sprinter Usain Bolt chinesisches Essen bei den Olympischen Spielen 2008 in Peking seltsam fand, hat er laut eigenen Angaben am Ende über 1.000 <BLANK> gegessen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "mcnuggets",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "329054_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

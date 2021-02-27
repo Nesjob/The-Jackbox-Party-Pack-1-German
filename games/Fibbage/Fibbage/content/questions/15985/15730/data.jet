@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "glatzköpfige,alleinstehende,ältere,Geschäfts-,geschiedene,betrunkene,urinierende,religiös,sehr hochgewachsene,arbeitslose,transvestite,frisch verheiratete,irische,von Beruf Milch-,hässliche,adipöse,bärtige",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schlafwandler",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "nackte",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die preiswerte Hotelkette Travelodge berichtete, dass zwischen 2006 und 2007 etwa 95% der Schlafwandler in ihren Hotels <BLANK> Männer waren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "nicht bekleidete",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "348027_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

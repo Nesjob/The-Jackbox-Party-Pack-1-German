@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Puppe,einen Menschen in einen Murmeltierkostüm,eine Karotte,einen Football,ein Gemälde,eine Gliederpuppe,Blumen,eine nackte Frau,ein Hologramm,Kopfsalat,Tomaten,Gurken,ein Kuscheltier,einen schönen Baum,nichts,einen Komiker,eine Karotte,eine gigatische 2",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Punxsutawney Phil",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Roboter",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "PETA wollte 2012 das Murmeltier Phil, welches in Punxsutawney, Pennsylvania am 2. Februar die Wettervorhersage übernimmt, durch <BLANK> ersetzen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ein roboter Murmeltier",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "318774_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Teenagern,ehemaligen Modells,Müttern von Fussballspielern,ehemaliger Zirkusartisten,Blinden,Katzen,Grosseltern,Schlangen,Hunden,Dronen,Pfadfindern,Hochschulprofessoren,Witwen,Sexualstraftätern,Tigern,Vogelscheuchen,Robotern,Psychopathen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Aufruhr",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Zwillingen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In der russischen Stadt Rostow am Don gibt es eine Bereitschaftspolizei, die gänzlich aus <BLANK> besteht.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "338714_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

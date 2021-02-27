@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Froschhaut,Sand,Kot,Käse,Zähnen,Bierflaschen,Hundefell,alten Socken,Fingernägeln,Müll,Aluminium,VHS-Kassetten,Federn,Büroklammern,Gold,Kantalupen,alten Brot,Styropor",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Solar",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Menschenhaaren",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein Student der Wissenschaft aus Nepal hat ein kostengünstiges, innovatives Solarmodul entwickelt, welches aus <BLANK> besteht.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "menschenhaar,haar,haaren",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "356095_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

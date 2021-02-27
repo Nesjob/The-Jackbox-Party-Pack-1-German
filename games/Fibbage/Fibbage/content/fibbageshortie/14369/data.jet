@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "gekackt haben,gelesen haben,singen,beten,gemalt haben,nochmal nackt sind,Jodeln,Sex hatten,meditieren,kräftig rülpsen,ihre Sünden bekennen,jonglieren,weinen,backen,einander umarmen,baden,alkohol getrunken haben",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Alexander der Große",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "rasiert sind",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Alexander der Große verlangte von seinen Männern, dass sie vor der Schlacht <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "319399_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

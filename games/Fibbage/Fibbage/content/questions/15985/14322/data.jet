@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "weisse Fahnen,Kekse,Waffen,Valentinskarten,Kissen,Gedichte,Rosen,Dynamitstangen,Friedenszeichen,Schweinemasken,Kondome,Hühner,IKEA Möbel,Parfümflaschen,Papierkraniche,Papierflieger,Bücher,Messer,Lippenstifte",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "schwedisch",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Teddybären",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Um gegen den Polizeistaat von Belarus zu protestieren, warf eine schwedische Gruppe Hunderte <BLANK> aus einem Flugzeug.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Teddy Bären,Teddys",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "318402_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Kartoffel,ein Pilz,eine Feder,eine Beere,eine Raupe,ein Kinn,ein Urzeitkrebs,eine Schnecke,ein Fingernagel,ein Kleeblatt,eine Motte,eine Birne,ein Radieschen,ein Zahn,ein Pickel,eine Schlange,eine Zehe,ein Diamant",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Ohr",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Löwenzahn",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Nachdem <BLANK> in ihrem Gehörgang gewachsen ist, wurde ein 16 Monate altes chinesisches Mädchen am 25. November 2013 operiert, um es zu entfernen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ein löwen zahn,eine pusteblume,eine puste blume",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "333439_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

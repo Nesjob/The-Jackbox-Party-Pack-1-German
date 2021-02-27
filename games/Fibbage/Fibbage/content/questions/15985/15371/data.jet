@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein Auto,ein Boot,$1.000.000,eine Umarmung,ein Date mit dem Geschäftsführer,eine Packung Kekse,einen Zettel mit der Aufschrift DANKE,ein Candle-Light-Dinner,eine Collegeausbildung,eine Katze,Taco-Dinner,einen Privatjet,ein Pferd,ein neues Kleid,ein Haus mit zwei Badezimmern,einen dekorativen Stift,einen neuen Backofen,ein Steakmesser-Set",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schokochip",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine lebenslange Lieferung von Schokolade",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Erfinderin des Schokoladenkekses tauschte ihr Rezept mit Nestl\u00e9 für <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "kostenlose Schokolade,für immer Schokolade,Schokolade",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "339821_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "339818_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

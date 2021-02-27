@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Rasenmäher,einer Fackel,einem Schwert,einem Hackmesser,einer Axt,einem Gemüsemesser,einem Hammer,einem Angelhaken,einer Nadel,einem Bohrer,der Kreissäge,einem Mixer,einer Säge,einem Rechen,einem Fleischthermometer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hornhaut",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einer Schrotflinte",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine Frau aus Muncie, Indiana wurde ins Krankenhaus eingeliefert, nachdem sie versucht hat ihre Hornhaut mit <BLANK> zu entfernen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einer waffe,einer shotgun,einer shot gun",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "320716_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "320713_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

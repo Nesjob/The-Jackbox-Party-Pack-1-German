@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vogel,Hintern,Bogen,Herz,Halstuch,Teufel,Stern,Baum,Engel,Schuh,Barret,Pferd,Penis,Elefanten,Affen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Paris",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Cowboy-Hut",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "ROAD TRIP! Bei einem Besuch in Paris, Texas solltest du unbedingt den Nachbau des Eiffelturms mit einem riesigen roten <BLANK> auf der Spitze anschauen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Hut,cowboyhut,cowboy hut",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "331079_4",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Redskin,Murder,Apartheid,Racist,Marijuana,Butt Chugging,Dogfighting,F.U.,Hate,Capital Punishment,Middle Finger,Abortion,Foot Fetish,1%,Hairy Balls,Caucasian Town,Dumb Hicks,Fart",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Dörfer",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hakenkreuz",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In der Gemeinde Kirkland Lake, Ontario, liegt ein Dorf mit dem umstrittenen Namen <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Swastika",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "338921_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

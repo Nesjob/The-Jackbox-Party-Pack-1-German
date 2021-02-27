@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mussolini Imitator,Faschismus-Model,Bauchredner,Vertreter,Grabschänder,Clown,Aktmodell,Fischer,Hundepsychologe,Filmkritiker,Synchronschwimmer,Rennfahrer,Friseur,Autoverkäufer,Feuerwehrmann,Kindergärtner,Karikaturist,Pantomime",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Mussolini",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Jazzmusiker",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Romano Mussolini, Sohn des faschistischen Diktators Benito Mussolini trat nicht in die Fußstapfen seines Vaters. Er verdiente seinen Lebensunterhalt als <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "jazz musiker",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "339726_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

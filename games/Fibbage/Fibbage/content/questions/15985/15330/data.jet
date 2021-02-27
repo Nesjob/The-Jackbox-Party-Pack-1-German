@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Büroklammer,Lasagne,eine Schere,eine Zeitschrift,ein Buch aus der Bibliothek,seinen kleinen Finger,ein iPhone,positives Denken,Nasenhaare,Rattenkacke,Schlüssel,Einlagen der Schuhe,Zahnpasta,seine dritten Zähne,einen Hammer,ein Lexikon,seine Lesebrille,Fingernägel",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "italienisches Gefängnis",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Zahnseide",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2000 entkam ein Mafia Boss aus seiner Zelle, indem er <BLANK> als Werkzeug verwendete.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "zahn seide",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "338878_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "338875_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

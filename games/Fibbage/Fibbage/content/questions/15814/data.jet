@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schal,Familienfoto,Picknickkorb,Bongos,Koffer,Winddrachen,Ballon,Blumen,Baguette,Spielzeug,Leine,Martiniglas,Buch,Lippenstift,Kesselgewicht,Zeitung,Einkaufskorb,Waffe",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Marine",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Regenschirm",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Gemäß dem Marine Corps Uniform-Regelcode MCO P1020.34F, darf ein männlicher Marine dies nicht in Uniform tragen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "349915_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "349912_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

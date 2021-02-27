@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "dem Busfahrer,Hüten,Kindern,Paperboy,dem Grossonkel,dem Pastor,Dienstmädchen,Textilreiniger,sich selbst,Sonnenbrillen,dem Tod,Hintern,Schatten,Briefkästen,krimineller Vergangenheit,eigenen Furzen,Kleidung,Toastern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Angst",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "der Schwiegermutter",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pentheraphobie ist die ständige Angst vor <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "schwiegermutter",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "317290_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

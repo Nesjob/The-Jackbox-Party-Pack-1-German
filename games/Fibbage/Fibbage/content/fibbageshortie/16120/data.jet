@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Clowns,Garagenverkäufe,Jazzmusik,Tischlerarbeit,Gebrauchsanweisungen,die Steuererklärung,Die Muppets,Züge,Karaoke,kochen,Stepptanz,das klingeln eines Telefons,das reinigen eines Fischs,das Abstimmen bei einer Wahl,Bügeln,Haie,Niesen,Khakihosen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Erregung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Poesie",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Metrophilie ist sexuelle Erregung, verursacht durch <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "gedichte",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "356640_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

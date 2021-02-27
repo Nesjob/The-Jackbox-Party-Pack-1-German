@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "drei,fünf,acht,zehn,zwölf,16,20,32,110,2,41,24,99,37,50,46,63,80,70",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Strafzettel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "13",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Walter Arnold erhielt 1896 den ersten Strafzettel der Welt, weil er umgerechnet <BLANK> km/h gefahren ist.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "dreizehn",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "317656_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "317653_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

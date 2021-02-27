@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Zirkus,Affen,egoistische,Schwächlings,liberale,Clowns,Kängurus,Titten,Scheiss,Arschlöcher,Zombie,widerliche,sozialistische,Deppen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Patton",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "irrelevante",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Schauspieler George C. Scott aus <i>Patton – Rebell in Uniform</i> nahm im Jahr 1971 den Oscar nicht an, weil die Oscarverleihung \u201cEine zweistündige <BLANK> Veranstaltung\u201d sei.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "bedeutungslose,unwichtige,unerhebliche,belanglose,belanglose",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "350792_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "350789_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

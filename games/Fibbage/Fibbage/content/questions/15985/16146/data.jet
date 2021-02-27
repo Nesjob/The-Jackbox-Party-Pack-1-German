@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "aus Kissen besteht,freundlich und effizient ist,auf einem Schrottplatz liegt,im Dunkeln leuchtet,von Robotern verwaltet wird,von Landminen umgeben ist,auf einem Piratenschiff liegt,sich in einem Vulkan befindet,auf einem Friedhof liegt,nur ein Automat ist,aus Waffeln besteht,ein Iglu ist,George Clooney besitzt,immer brennt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Büro",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sich unter Wasser befindet",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "ROAD TRIP! Wenn Sie sich in Port Vila aufhalten, sollten Sie unbedingt das Postamt in Vanuatu besuchen, was ungewöhnlich ist, weil es <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "unter wasser ist",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "357164_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "357161_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

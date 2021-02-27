@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Togen,Zylindern,Windeln,Windeln für Erwachsene,Rüstung,Umhängen,Flügeln,pinken Klamotten,Miniröcken,Gorillakostümen,Mülltüten,Monokeln,Toilettenpapier,Hörnern,nichts,Bikinis,Kleenex Verpackungen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Abschlussball",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Panzer-Tape",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2013 gewannen zwei Teenager der Sequoyah High School in der Nähe von Atlanta, Georgia $5.000 Stipendien für das tragen von <BLANK> beim Abschlussball.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "duck-tape,ducktape,duck tape,panzerband,panzerklebeband,panzer klebeband",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "324892_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

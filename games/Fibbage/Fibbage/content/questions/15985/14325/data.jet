@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Spionin,Bibliothekarin,Nonne,Ratte,Ziege,Stute,Henne,Gans,Lehrerin,Psychopathin,Frau",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Angst",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ente",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Anatidaephobie ist die Angst davor, von einer <BLANK> beobachtet zu werden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "318474_1f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "318471_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

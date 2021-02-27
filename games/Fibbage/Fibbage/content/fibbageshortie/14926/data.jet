@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "müde,hungrig,bereits gut bestückt,kitzelig,naiv,Kanadier,arbeitslos,betrunken,Single,bereits erregt,penibel,gläubig,verkatert,depressiv,unter 40,hässlich,fettleibig,adipös",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Potenzmittel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "schwanger",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein Warnhinweis auf dem ExtenZe Original Male Enhancement Supplement (Potenzmittel): \u201cNicht einnehmen, wenn Sie <BLANK> sind\u201d.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "trächtig",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "330600_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "330597_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

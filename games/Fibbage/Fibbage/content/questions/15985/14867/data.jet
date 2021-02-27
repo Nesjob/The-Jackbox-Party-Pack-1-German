@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "entspannt atmet,betet,duscht,schnitzt,jodelt,gärtnert,putzt,Wolle schert,tanzt,raucht,Bingo spielt,sex hat,staubsaugt,joggt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Norwegen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "strickt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Um das \u201cgemütliche Fernsehen\u201d in Norwegen voranzutreiben, gab es 2013 einen 12 stündigen Programmblock wie man richtig <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "329348_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

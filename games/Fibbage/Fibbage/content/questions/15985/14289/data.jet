@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Poopy,Bamba,Kitty Cat,Snooki,Cankles,Snaggletooth,Jean Shorts,Dingleberry,Flowers,Cranky,La,Sunshine,Perfume,Bath,Soft Rock,Snuggles,Satin Sheets,Fergie",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Drogenkartell",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Barbie",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der nicht wirklich furchterregende Spitzname von Edgar Valdez Villarreal, Kopf eines mexikanischer Drogenkartells, lautete \u201cLa <BLANK>\u201d.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "barby",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "317699_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

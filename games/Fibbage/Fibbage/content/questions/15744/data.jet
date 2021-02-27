@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Gehirn,Brustvergrösserung,Herd,Sorgen,Feuer,BH,Seele,Küche,Ehemann,Nase,Geschmackssinn,Fernseher,Pferd,Budget,rechte Hand,David Hasselhoff,Gesicht,Hausfrau",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Rezepte",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Buch",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pam Anderson schrieb ein Kochbuch mit dem Titel <i>Wie man ohne <BLANK> kocht</i>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "348373_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "348370_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

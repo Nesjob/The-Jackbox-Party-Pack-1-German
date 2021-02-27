@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Freizeitforschung,Kommunikationstechnik,Poesie des 18. Jahrhunderts,Töpferhandwerk,Strafjustiz,Soziologie,Anthropologie,Archäologie,Religionswissenschaft,Journalistik,Geologie,Finanzwesen,Genderforschung,Ausdruckstanz,Kunsthistorik,Massenmedien,Kriegsgeschichte,Landwirtschaft",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Abschluss",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Chemieingenieurswesen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Komiker Gallagher, der unter anderem für das Zerschlagen von Wassermelonen mit einem Vorschlaghammer bekannt ist, hat einen Hochschulabschluss im Bereich <BLANK> erworben.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "338001_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "337998_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

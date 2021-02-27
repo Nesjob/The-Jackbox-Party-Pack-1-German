@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "LKW,Toaster,TV,Wasserkocher,Kühlschrank,Staubsauger,Wecker,Fön,Rasierer,PC,Drucker,Vibrator,Radio,Anrufbeantworter,CD-Spieler",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "eBay",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Laserpointer",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der erste bei eBay gelistete Artikel war ein defekter <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "laser pointer",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "330278_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "330275_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Benzin,Wildbeeren,Zuckerwatte,Pommes,Schweiss,Orangen,Lavendel,Honig,frisch gewaschener Wäsche,Waldmeister,Marshmallows,verdorbenen,Chili,Pantherurin,Donuts,Pastasauce,Schinken,Lakritze",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Urin",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "gebutterten Popcorn",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Gemäß des Sachbuchs <i>The Man-Eating Tigers of Sundarbans</i>, riecht Tigerurin \u201cirgendwie nach <BLANK>\u201d.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "gebuttertem popcorn,popcorn",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "335496_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

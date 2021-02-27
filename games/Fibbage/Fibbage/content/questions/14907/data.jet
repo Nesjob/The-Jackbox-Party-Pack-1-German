@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Radio,Monstertruck,Baseballkarten,Dominosteine,Roboter,Flugzeug,Diener,Aal,Toupet,Lotusflötens,Löffel,Gabel,Messer,Buddhastatuen,Kaffeetassen,Cowboyhüte,VHS-Kassetten,Sandalen,Teleskop,Spiegel",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "55.000",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Büffel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Mit über 55.000 Stück, besitzt Ted Turner die weltweit größte <BLANK>-Sammlung.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bison",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "330177_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "330174_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

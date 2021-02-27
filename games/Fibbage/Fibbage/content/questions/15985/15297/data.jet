@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Niren,Post,Kinder,Dachziegeln,Panzerfäuste,Weihnachtsdekoration,Bäume im Garten,Fenster,Seele,Fussmatte,Grosseltern,Rasensprengeranlage,Whirspoolanlage,Urinproben,Rosen aus dem Garten,Muttermilchvorräte,Fahrräder",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "gestohlen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "gepflasterte Garagenzufahrt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2012 kam eine Frau aus Florida nach Hause und stellte fest, dass ihre Nachbarn beobachtet haben, wie ihre <BLANK> gestohlen wurde.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "pflaster,pflastersteine",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "338116_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "338113_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

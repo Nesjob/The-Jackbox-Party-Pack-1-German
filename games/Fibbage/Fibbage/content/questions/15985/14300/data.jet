@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schlangen,Banditen,Waschbären,Nerds,Häftlingen,Waisenkindern,Bären,Ninjas,Drachen,Robotern,Motorrad-Gangs,Schmetterlingen,Nazis,Touristen,Vielfrasse,Aalen,Kanninchen,Hasen,Schildkröten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Japan",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Katzen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Tashirojima ist eine Insel vor Japan, die überlaufen von <BLANK> ist.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "kätzchen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "317910_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

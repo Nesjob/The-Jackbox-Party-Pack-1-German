@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Blumen,Gänseblümchen,Moos,Federn,Nippel,ein Geweih,Nasen,Augen,Zähne,Gras,ein Schnabel,Schuppen,Nadeln,ein Fötus,Crystal Meth,ein Horn,Getreidehalme,Geschmacksknospen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Steroide",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Fingernägel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Nach einer allergischen Reaktion auf Steroide zur Behandlung von Asthma wuchsen einer 28-jährigen Frau anstelle von Haaren <BLANK> auf dem Kopf.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "nägel,fingernagel,finger nägel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "356620_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "356617_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

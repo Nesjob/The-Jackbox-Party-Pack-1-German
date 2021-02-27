@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Suppe,Schlamm,Cracker,Schokolade,Kuchen,Kinder,Haare,Joghurt,Felsen,Wanzen,Donuts,Kuchen,Schweinekotletts,Kokos-Curry-Suppe,Pizza,Kartoffelsalat,Centstücke,Knabbergebäck",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Nigeria",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Süsskartoffeln",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die nigerianische Version des Cookie Monsters kann nicht aufhören <BLANK> zu essen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "322731_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

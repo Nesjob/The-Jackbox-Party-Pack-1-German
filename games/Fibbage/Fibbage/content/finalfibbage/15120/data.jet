@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Smelly Island,Spazmania,Psycho Island,MILF Island,Crapstick Island,Murder Island,Hobbit Island,Island Island,Gangsta Island,Diaper Island,Loser Island,Showtunes Islans,Fingernail Island,Illuminated Isles,Sensual Island,Bootylicious,Pantaloon Island,Carpenter Jeans",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Inseln",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Insel der Enttäuschung",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Circa 300 Kilometer südlich von Neuseeland, an den Koordinaten 50\u201936.25\u2019S  165\u201958.38\u2019E, liegt diese seltsam benannte Insel.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Disappointment Island",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "335009_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "335006_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

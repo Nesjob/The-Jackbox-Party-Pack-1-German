@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Kobold,einem Footballprofi,einen Hund,einen Geist,einer Karotte,einer Wolke,seinem Lehrer,dessen Familie,einem Videospiel,einem Heavy-Metal Song,einem Gartenzwerg,einer Fee,einer Fledermaus,sprechenden Katze,einem Polizisten,einem Anwalt,einer Karaokemaschine,einem Seemonster",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Niederstechen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Hexenbrett",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2012 behauptete ein Teenager aus Weslaco, Texas, dass er seinen Freund erstochen hat, weil er von <BLANK> dazu gezwungen wurde.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einem ouija board,einem ouija-board,einem ouijaboard,einem hexen-brett,einem hexen brett,einem ouijabrett,einem ouija-brett,einem ouija brett",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "332160_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

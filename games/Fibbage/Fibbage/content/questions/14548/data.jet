@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Babys,Republikaner,Frauen,Tote,Hunde,Katzen,Mäuse,Astronauten,Nonnen,Geister,Schwangere,Fische,Gefangene,Priaten,Wassermelonen,Puppen,Hasen,Elfen,Gewichtheber,Präsidenten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Technologie",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kühe",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Advanced Comfort Technology stellt Wasserbetten für <BLANK> her.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "rinder,kälber",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "322962_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "322959_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

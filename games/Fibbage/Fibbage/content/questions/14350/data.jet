@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Essstäbchen,Bambus,Windeln,Kissen,Pudding,Sandalen,Videospiele,gefälschte Sonnenbrillen,Betonsteine,Zimt,Eheringe,Betten in Rennwagenform,Dünger,Cargohosen,Glocken,Kerzen,Süssigkeiten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schmuggeln",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Knoblauch",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "2010 haben Zollbeamte an der Grenze zwischen Norwegen und Schweden einen LKW abgefangen, der 28 Tonnen <BLANK> aus China schmuggeln wollte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Knoblauchknollen,knoblauch knollen,knoblauchzehen,knoblauch zehen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "318990_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Tacos,Büchern,Comics,Perücken,Gutscheinen,Rückenmassagen,Schuhen,Haarspray,Panzertape,Batterien,Schauspielkurse,Bettdecken,Gedichten,Waffen,Kettensägen,Knöpfen,antiken Löffeln,Benzin",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "John Larroquette",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Marihuana",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Schauspieler John Larroquette wurde für seine Erzählerrolle in <i>Texas Chainsaw Massacre</i>, mit <BLANK> anstelle von Geld bezahlt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "weed,gras",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "318526_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

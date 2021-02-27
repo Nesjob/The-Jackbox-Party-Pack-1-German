@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tot,ein Eichhörnchen,ein Sandwich,ein Ziegelstein,ein Monster,ein Baby,ein Hase,ein Kaninchen,ein Kind,ein Teenager,Friseur,ein Betrüger,ein Geist,Kanadier,ein Pferd,ein Hot Dog,eine Pizza,ein Aktmodell,Opernsänger,Pantomime",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Macht",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Hund",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Bürgermeister von Rabbit Hash, Kentucky ist <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "eine Hündin",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "322711_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "322708_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

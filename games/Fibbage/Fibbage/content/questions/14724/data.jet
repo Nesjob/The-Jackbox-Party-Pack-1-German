@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "urinieren,schlafen,husten,singen,tanzen,furzen,fluchen,klatschen,kriechen,knipsen,weinen,keuchen,hasten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hüfte",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "lachen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Seit 2010 hat sich ein Niederländer nach einer Hüftoperatoin von seiner Familie abgewendet, weil er aufgrund einer seltenen Nebenwirkung nicht aufhören kann zu <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "326610_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

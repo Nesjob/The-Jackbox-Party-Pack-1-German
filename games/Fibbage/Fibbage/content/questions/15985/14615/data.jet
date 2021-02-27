@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Katze,ein Sicherheitshandbuch,einen Feuerwehrschlauch,ein Baby,eine Nonne,eine Ersthelferin,die Badewanne,einen Hund,Eisbärenfell,die Feuerleiter,ein abgetrenntes Bein,eine Ente,einen Wasserkessel,einen Frosch,ein Dreidel,eine Schildkröte,einen Sarg,einen Teppich,den Feuerlöscher",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Feuer",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "seinen Bart",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Während eines berühmten Brands im Jahre 1567 starb ein Norweger namens Hans Steininger, weil er über <BLANK> gestolpert ist.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "324363_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "324360_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Gandalf,Sherlock Holmes,Wesley Snipes,Scrooge,James Bond,Darth Vader,Christian Grey,Indiana Jones,Peeta Mellark,Boo Radley,Rocky Balboa,Superman,Neil Armstrong,John McClane,Batman,Tintin,Fagin,Spiderman",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Denzel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Jesus",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Denzel Washington wurde 2012 bei einer von <i>Vanity Fair</i> und <i>60 Minutes</i> durchgeführten Umfrage zur ersten Wahl für die Rolle des Charakters <BLANK> gewählt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Jesus Christus",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "321002_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

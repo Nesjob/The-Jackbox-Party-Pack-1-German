@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mädchen,Haus,Auto,Bett,Alien,Erdmännchen,Bier,Ei,Joghurt,Monster,Toilette,Penis,Geschlechtsteil,Maschinenpistole,Computer,Smartphone,Unterwäsche",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wachs",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Baby",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2006 wurde im Madame Tussauds Museum in New York City der/die/das erste Wachs-<BLANK> ausgestellt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "321321_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "321318_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

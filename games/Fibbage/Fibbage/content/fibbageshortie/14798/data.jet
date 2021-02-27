@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein Casino,eine Schiessanlage,einen Zigarrenladen,ein illegales Drogenlabor,ein Gefängnis,ein Bordell,eine Höhle,eine leerstehende Fabrik,eine Brauerei,ein Traphouse,eine Kirche,ein Footballstadion,eine Oper,einen Kinofilm für Erwachsene",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schulausflug",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Strip-Club",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein Chemielehrer aus Indiana wurde 2013 entlassen, nachdem er angeblich mehrere seiner Schüler bei einem unzulässigen Schulausflug in <BLANK> mitgenommen hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einen stripclub,einen strip club,eine tittibar",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "328030_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "328027_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

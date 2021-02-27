@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kellerstein,Stachelstein,Adlerstein,Backstain,Eckstein,Grabstein,Ziegelstein,Tropfstein,Warstein,Urinalstein",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Feuerstein",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Murmelstein",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wilma Feuersteins Geburtsname.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Slaghoople",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "353641_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "353638_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

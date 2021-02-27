@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "lachen kann,Wörter bellt,jongliert,PowerPoint Präsentationen hält,Fahhrad fährt,bis zehn Zählen kann,einfach beeindruckt,Origami faltet,Klavier spielt,Steuern bezahlt,Englisch spricht,Poesie versteht,nur hüpft,seinen Schwanz nachwachsen lassen kann,Basketball spielt,die Toilette benutzt,gebären kann,Lieder bellt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Beagle",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "im Dunkeln leuchtet",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Beagle \u201cRuppy\u201d ist ein sehr ungewöhnlicher Hund, weil er <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "355827_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "355824_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

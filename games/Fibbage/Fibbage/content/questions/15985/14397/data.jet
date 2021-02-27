@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Affen,eine Kanone,eine Waffe,einen Spielmannszug,ein Filmteam,einen Zauberer,einen Clown,eine Schaufensterpuppe,einen Sarg,einen Roboter,eine Katze,einen Frosch,einen Priester,ein Schwert,einen Waschbären,eine Giraffe,einen Adler,einen Penner",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Mercury",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Lama",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Freddie Mercury hat sich von einem Duet mit Michael Jackson zurückgezogen, weil Jackson <BLANK> mit ins Aufnahmestudio brachte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "320032_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "320029_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Sackhüpfen,Fahrrad fahren,Seilspringen,Staubsaugen,Kochen,spielen mit einem Haustier,Barfuss laufen,Football spielen,Schaukeln,Bootfahren,Bowling,Völkerball,sägen,Wippen,nichts tun,Bouldern,lesen,Federball spielen,Fernsehen,Frisbee spielen,Inlineskaten,Minigolf spielen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Verletzung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hüpfburg springen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Laut einer im Jahr 2010 durchgeführten Studie, verletzt sich alle 46 Minuten ein Kind in den USA beim <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "hüpfburgspringen,hüpf burg springen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "346121_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

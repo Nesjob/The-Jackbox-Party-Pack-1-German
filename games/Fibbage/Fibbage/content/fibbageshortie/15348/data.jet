@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Nerds,Kongressabgeordnete,Journalisten,Clowns,Teeniemütter,Volksmusikgruppen,Profisportler,pfeifende Kellner,Musiker,Strassenkünstler,Astronauten,Reality-Show-Teilnehmer,Magier,Models,Lehrer,Forscher,Einwohner von Florida,Zahnärzte",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "nervig",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hipster",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2013 waren bei einer von Public Policy Polling durchgeführen Umfrage 27% der Wähler dafür <BLANK> mit einer Sondersteuer zu besteuern, weil sie so nervig sind.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "alle hipster",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "339289_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

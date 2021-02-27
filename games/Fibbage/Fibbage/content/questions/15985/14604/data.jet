@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Freddy Krueger,Dracula,Aquaman,Homer Simpson,Ronald Reagan,Wonder Woman,Sexy Nonne,Vincent Price,Rainbow Brite,Hulk Hogan,Bill Clinton,Cher,Mr. T,Spiderman,eine Katze,Wayne Newton,Bob Costas,Marilyn Monroe",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Halloween",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "er selbst",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 1988 verkleidete sich George H. W. Bush an Halloween als <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "sich selbst,George Bush,George H. W. Bush,George H.W. Bush,George HW Bush,George H W Bush",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "324135_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

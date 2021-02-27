@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Rückenmassagen bekommen,konstruktive Kritik erhalten,Affenmilch trinken,Kokain nehmen,einen Facebookaccount haben,Anal stimuliert werden,lustige Hüte tragen,Privatsphäre haben,Geburtstag feiern,Tattoos haben,Deodorant verwenden,Hamburger essen,Komplimente erhalten,mehr Euter haben,Marihuana rauchen,auf Wasserbetten schlafen,Milch trinken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "5% mehr Milch",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Namen haben",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine Studie, die in der Zeitschrift <i>Anthrozoös</i> veröffentlicht wurde ergab, dass Kühe die <BLANK> bis zu 5% mehr Milch produzieren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "benannt wurden,benannt sind",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "355524_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "355521_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

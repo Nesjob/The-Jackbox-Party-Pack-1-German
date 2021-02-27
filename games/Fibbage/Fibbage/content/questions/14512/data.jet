@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein Kadaver,eine Schrotflinte,eine kranke Katze,medizinisches Marihuana,ein Eimer,ein Faustschlag ins Gesicht,die Infektion mit der Vogelgrippe,ein Hakenkreuzplakat,eine Bazooka,Kokain,ein Sarg,eine Bombe,eine abgetrennte Hand,ein Pflegeheimbewohner,Urlaub in Amerika,ein Virbator,eine Bin Laden Puppe,eine Prostituierte",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Preise",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Baby",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine pakistanische Gameshow löste 2013 eine Kontroverse aus, als der Hauptpreis <BLANK> war.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ein Kind",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "322265_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "322262_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

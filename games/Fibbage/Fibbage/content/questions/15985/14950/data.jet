@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Shorts,ein Trikot der Green Bay Packers,eine Sonnenbrille,Bademantel,Flip Flops,Pelzmantel,einen Rock,viel Bling Bling,einen Bikini,Tanga,gar nichts,Flügel,Turnschuhe,Jogginghose,einen Umhang,Anzug,ein Kostüm des Teufels,Schminke,Handschuhe",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Friedhof",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Cowboystiefel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Auf dem Evergreen Cemetery steht eine seltsame Jesus-Statue, die <BLANK> trägt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "stiefel,cowboy stiefel,cowboy-stiefel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "331105_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "331102_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ka-blam,Shizzle,Huh,Bong,Bam,Flap,Nip,Flurb,Wham,Bark,Jerk,Slam,Snap, Sr.,Barf,Wheeze,Jack,Yoink,Roar",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Crew",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pow",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Es hab ursprünglich eine vierte Figur auf der Verpackung der Kellogg\u2019s Rice Krispies. Snap, Crackle, Pop und <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "321176_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

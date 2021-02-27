@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Dreirad,Golfmobil,Tandemfahrrad,Einkaufswagen,Skateboard,Schubkarren,Rollstuhl,Motorroller,Schlitten,Hoverboard,Bulldozer,Müllwagen,Go-Kart,Heissluftballon,Boot,Kettcar",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "feuchtfröhlich",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Rasenmäher",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein Mann aus Pennsylvania beging Alkoholmissbrauch am Steuer, da er mit einer offenen Dose Bier mit einem <BLANK> fuhr.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "318425_0f",
+      "n": "QuestionAudio"
+    }
+  ]
+}

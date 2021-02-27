@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Vorschlaghammer,einen Menschenschädel,einen Katana,einer Dynamitstange,Bowlingkugel,einem Brennschneider,Kran,einer Schrotflinte,einem Betonstein,einem SUV,einer Kettensäge,einer Python,einem Bulldozer,einer Nagelpistole,einem Computer,einer Granate,einem Kollegen,einer Brechstange",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Twix",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Gabelstapler",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein Mann aus Milford, Iowa, wurde von seinem Job entlassen, nachdem er mit <BLANK> den Twix-Automaten aufgebrochen hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einem stapler,einem gabel stapler",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "346823_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Statue,einen Footballrasen,Konfetti,BBQ-Sauce,Make-Up,Munition,einen Flügel,Zuckerkekse,eine Zaubertafel,Pfefferspray,Vogelfutter,Lufterfrischer,eine Sandburg,Bilder von Berühmten,in Katzenstreu,ein Gemälde,Teller,Kochgewürze",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Asche",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Riff",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "George Frankel ist CEO eines in Georgia ansässigen Unternehmens, welches die Asche ihrer toten Verwandten in <BLANK> verwandelt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "354736_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "354733_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

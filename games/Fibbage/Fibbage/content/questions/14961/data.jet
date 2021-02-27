@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kröten,Babys,Stoppschilder,Parlamentmitglieder,Vogelhäuser,Fussballstadien,Laternen,Cricketschläger,Autos,Kühe,Telefonzellen,Boote,Brauereien,Zäune,Starbucks Cafes,Museen,Zahnärtze,Bibliotheken,Polizeiautos,Feuerwehrautos,Sehenswürdigkeiten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "lecken",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kathedralen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2012 ging ein 26-jähriger Mann aus London auf Mission, alle <BLANK> in Großbritannien abzulecken.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Kirchen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "331358_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "331355_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

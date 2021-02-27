@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Suppe,Eiscreme der Zukunft,Kartoffelbrei,eine Gemüsepfanne,Sahnemeerrettich,Frühstücksfleisch,ein Donut,ein Kartoffelchip,ein Müsliriegel,Frischkäse,ein Bonbon,Pizza,eine Lammkeule,Makkaroni mit Käse,Hummus,ein Doritochip,Sauerkraut,ein Chicken Wing",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Weltraum",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Apfelmus",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das erste, was im Weltraum gegessen wurde, war <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "apfelbrei,apfelkompott,apfelmark",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "337311_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "337308_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

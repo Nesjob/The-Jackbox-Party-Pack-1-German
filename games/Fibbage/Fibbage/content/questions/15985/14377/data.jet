@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "während eines Lapdances,beim Tanzduell,während eines Marathonlaufs,bei einer Messerstecherei,beim wet t-shirt contest,während eines Footballspiels,bei einer Beerdigung,beim Zumaunterricht,beim Buchstabier-Wettbewerb,beim Poetry Slam,beim Rollstuhlrennen,beim Skateboarden,während er Twilight schaute,beim Kuchenwettessen,bei einer Drogenrazzia,an einer Überdosis,beim Stierkampf",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "107",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "im Schusswechsel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Monroe Isadore, ein 107-jähriger Mann aus Arkansas, starb <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "bei einer schiesserei",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "319569_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

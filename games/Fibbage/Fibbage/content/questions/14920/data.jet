@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Wachs,Finder,Kamms,Flügels,Regenschirms,Schneiders,Kuchens,Tuchs,Trimmers,Heizers,Dekorateurs,Transportmittels,Lichts,Radierer,Spiegels,Huts",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schnurrbart",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Schutzes",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das im Jahr 1890 patentierte US-Patent US435748 ist für die Erfindung eines Schnurrbart-<BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "schutz",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "330459_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

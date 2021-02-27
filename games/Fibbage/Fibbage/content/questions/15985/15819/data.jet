@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Nägelknipsen,Scrapbooking,Zucker,Essen,Aufmerksamkeit,Anerkennung,Geld,Anerkennung,Liebe,Bestätigung,Alkohol,Koks,Nasenspray,Nikotin",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "schwedisch",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Heavy Metal Musik",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein Schweder der als Tellerwäscher arbeitet, erhielt aufgrund seiner ständigen Sucht nach <BLANK> eine Teilbehinderung.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "heavy metal",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "350017_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

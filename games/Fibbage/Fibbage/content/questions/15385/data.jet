@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Regenschirmen,Bärten,Bananen,Pfannkuchen,Kleiderbügeln,V-Ausschnitten,Jigsaw,Harmoniken,Gürteln,dem Zahnarzt,Kaffeetassen,Flugzeugen,Beton,Hot-Dogs,Schaukeln,Ponys,Kaninchen,Ratten,Stromverteilerkästen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Angst",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Eiern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der berühmte Filmregisseur Alfred \u201cMeister des Thrillers\u201d Hitchcock beklagte, \u201cIch habe Angst vor <BLANK>, sogar weit mehr als Angst\u201d.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "eier,einem ei",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "340143_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "340140_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schaukelstuhl,Kürbis,Kokain,Schuh,Schmuck,Unterwäsche,Marihuana,Porno,Black Jack,Kerzen,Schildkröten,Tannenzapfen,Ananas,Macheten,Rohr,Weltkarten,Hut,Seifen,Schokoladen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "America",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Gurken",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Amerigo Vespucci, der Mann, nach dem Amerika benannt wurde, war ein <BLANK>-Händler.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "gurke",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "317483_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

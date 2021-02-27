@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "in der Kanalisation,in einem Einkaufszentrum,in einem Silo,auf einer Mülldeponie,in einem Lager,in einem Walmart,in einem Strip-Club,in einem Hallenbad,in einem Schulbus,im Gefängnis,in einem Bordell,in einem Leuchtturm,in der Poststelle,in einer Windmühle,auf einem LKW-Parkplatz,in einem Bunker,in einem Krankenhaus,in einem Zugwagon",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wohnen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "auf einem Friedhof",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Seit dem Jahr 2000 lebt ein Paar aus Queens, New York mietfrei <BLANK>. Im Austausch kümmern sie sich um diesen Ort.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "auf einen Friedhof",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "328814_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "328811_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

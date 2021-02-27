@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kobolde,Dem Loch Ness Monster,Professoren,MILFS,Kredithaie,Werwölfe,Pinguine,Dämonen,Feen,Elfen,den Vorstand der Schule,Studenten,hässliche Kaninchen,Bigfoot,Nerds,Geister,Eichhörnchen,Regenbögen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Jagd",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Einhörner",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Lake Superior State University erlaubt dir in einem bizarren Freibief die legale Jagd auf <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "354203_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "354200_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

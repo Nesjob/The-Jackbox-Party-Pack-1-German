@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "seine Haare,Plätzchenteig,Ziegen,iPhones,Strohhalme,Seife,Holzklötze,Zähne,Crystal Meth,Knuspermüsli-Riegel,tote Ratten,Fische,Dynamit,Bier,Silber,Käse,Eier,Benzin",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Gefängnis",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "seine Kacke",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein Mann aus Enniskillen, Northern Ireland wurde zu drei Monaten Gefängnis verurteilt, weil er beim Versuch <BLANK> in Gold zu verwandeln, einen Brand verursacht hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "seine scheisse,seinen kot",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "353973_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "353970_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

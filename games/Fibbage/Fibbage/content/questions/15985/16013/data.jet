@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sich Outen,zu Gott beten,seine Sünden beichten,für 10 Minuten tanzen,ein Lied singen,einen Witz erzählen,sterben,zu seinem Besitzer zurückkehren,ein Kompliment machen,Sex mit einem Werwolf haben,Reibekuchen machen,seinen Kopf hineinstecken,der nähesten Person einen Heiratsantrag machen,ein Geheimnis verraten,sich selbst beissen,Luftgitarre spielen,ein Schläfchen machen,alles aufessen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Vampir",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "jedes Korn zählen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Nach einem chinesischen Mythos muss ein Vampir, der gegen einen Sack Reis stößt, <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "jedes einzelne korn zählen,jedes korn einzeln zählen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "354271_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "354268_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

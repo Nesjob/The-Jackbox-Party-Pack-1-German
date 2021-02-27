@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Strippen,Essen,Trinken,Klatschen,Küssen,Singen,Kichern,Malen,Schlafen,Furzen,Rülpsen,Golfen,Jonglieren,Weinen,Mastrubieren,Schwitzen,Reden,Schreien",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Frankreich",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Tanzen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 1518 wurden Hunderte von Menschen in Straßburg in einen bizarren Zustand versetzt, der sie nicht mit dem <BLANK> aufhören liess.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "350459_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

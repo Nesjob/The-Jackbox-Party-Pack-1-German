@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Iglu,einer kissen Festung,einem Legoraumschiff,einem Kuhskelett,einer Schlange,einem Wal,einem Gewächshaus,einem Käse Keil,einer Achterbahn,einer Statue von ihnen selbst,einer Waschmaschine,einem Kirbis,einem Vogelhaus,einem Baumhaus,einem Röhrenfernseher,einem fliegenden Schloss,einem Briefumschlag,einer Seifenblase,einer Schneekugel",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Orbit",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Hamsterrad",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das Kustwerk \u201cIn Orbit\u201d von Ward Shelley und Alex Schweder, welches in einer Galerie in New York zu sehen war, zeigte zwei Männer die zehn Tage in <BLANK> lebten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einem hamster rad,einem rennrad,einem laufrad",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "350611_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "350608_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

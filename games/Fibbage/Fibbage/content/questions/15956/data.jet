@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vögel,Perverslinge,Blätter,Schnitzereien,Schlafen,Eulen,Mastrubieren,Kätzchen,Heulsusen,sich Bekämpfende,Herumpfeifende,sich Liebende,Studenten,Elfen,Surfen,Streaming,Geister,Dornen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Bäume",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hippies",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Calum Wright gründete während seines Studiums an der UC Berkeley eine Organisation mit dem Namen \u201cStudenten gegen <BLANK> in Bäumen\u201d.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "hippys",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "353016_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "353013_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

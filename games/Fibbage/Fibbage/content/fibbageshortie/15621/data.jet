@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Transvestit,einen Autoradio,einen Mord,eine kurze Hose,ein Messer,einen Zungenkuss,eine duschende Frau,ein Motel,einen BH,ein weinendes Baby,eine Mikrowelle,ein Unterlippenbärtchen,eine tote Frau,einen Türspion,einen Kadaver,ein Telefon,eine Strumpfhose,einen Nippel",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Psycho",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Toilettenspülung",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "<i>Psycho</i> war der erste amerikanische Film, der <BLANK> zeigte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "eine toiletten spülung,eine wasserspülung,eine wasser spülung",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "345600_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

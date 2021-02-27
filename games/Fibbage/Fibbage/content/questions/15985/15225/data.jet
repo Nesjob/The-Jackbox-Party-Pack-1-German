@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Haare,Zuhause,Haus,Grab,Hände,Katze,Stuhl,Windeln,Badezimmer,Blumenkohl,Liebhaber,dritte Zähne,Träume,Atem,Beerdigung,Parfüm,Fehler,Hackbraten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "787",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pullover",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Benjamin Moores Farbe mit der Nummer 787 hat seinen seltsamen Namen: Omas <BLANK> (Grandma\u2019s <BLANK>).",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "sweater,pulli,pull over",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "336433_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "336430_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

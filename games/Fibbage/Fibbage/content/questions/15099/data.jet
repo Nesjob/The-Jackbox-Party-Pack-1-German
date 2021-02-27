@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kellner,Butler,Zahnarzt,Blogger,Lehrer,Bauarbeiter,Schriftsteller,Führungskraft,Dienstmädchen,Scheidungsanwalt,Schiedsrichter,Pilot,Talkshow-Moderator,Ingenieur,Direktor,Regisseure,Vizepräsident,Biologen bei der Marine",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Scheidung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Tänzer",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Berufsgruppe mit der höchsten Scheidungsrate, nach der 2000 U.S. Zählung.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "tänzerin,taenzer,taenzerin",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "334526_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "334523_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

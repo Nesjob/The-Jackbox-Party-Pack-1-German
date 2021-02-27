@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Tacho,ein Namensschild,eine Schlange um den Hals,eine Clipkrawatte,eine Kappe,eine Monokel,eine Maske von Richard Nixon,einen falschen Schnurrbart,ein I am with stupid Shirt,eine Glatzenmütze,einen BH,eine Helikoptermütze,ein Schweissband,eine Plastik Hulkhand,eine Entenmaske,ein Frasier Crane Kostüm,einen Goldzahn,einen farbigen Anzug",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Psychiater",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Zauberhut",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Duncan Scortt, der Senator des Staates New Mexico, hat einen Gesetzesvorschlag verabschiedet, bei dem Psychiater die vor Gericht aussagen, <BLANK> tragen müssen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einen zauber hut",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "352545_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "352542_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

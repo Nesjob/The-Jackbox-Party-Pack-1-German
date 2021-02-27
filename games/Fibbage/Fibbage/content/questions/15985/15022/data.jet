@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einer Zigarre,einem Pinguin,einem Getreidehalm,einer Pommes,einem Basketballkorb,einer Gebärmutter,einem Besen,einem Hund,einem Finger,einer Kentaur,einer Krawatte,einer Klarinette,einem Telefonhörer,einer Zunge,einer alten Socke,einer Rose,einen Schurrbart,einem Didgeridoo",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sonnenuhr",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Frauenbein",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "ROAD TRIP! Bei einem Besuch in Roselawn, Indiana, sollten Sie sich unbedingt die riesige Sonnenuhr ansehen, die <BLANK> ähnelt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einem frauen bein,einem bein",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "332774_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

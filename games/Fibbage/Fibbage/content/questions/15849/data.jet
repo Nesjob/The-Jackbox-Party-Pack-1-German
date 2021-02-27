@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Apple,Microsoft,Google,McDonalds,Burger King,KFC,Burger,M&M,WalMart,Tiffany,Versace,Guci,Ralph Lauren,Banana Republic,K-Mart,Nike,Adidas,Puma",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wüste",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Prada",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "ROAD TRIP! Wenn Sie sich in Marfa, Texas, befinden, besuchen Sie das ungewöhnliche Kunstwerk mitten in der Wüste, was wie ein <BLANK>-Geschäft aussieht.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "350672_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

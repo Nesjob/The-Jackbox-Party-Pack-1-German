@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nackt,unsichtbar,tot,hässlich,aufgebläht,Gott,schwerelos,glatzköpfig,müde,entsetzt,auf dem Kopf,noch attraktiver,unter Wasser,von Bienen umzingeld,das andere Geschlecht,erfolgreich,eine Comicfigur",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Spiegel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "glücklich",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2013 entwickelten Forscher der University of Tokyo einen \u201cIncendiary Reflection\u201d-Spiegel, indem man aussiehst, als wäre man <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "lächelnd",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "349240_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Jesus,Achtlinge,Aliens,eine Statue,eine Schlange,eine Wespte,einen alten Mann,einen sprechenden Hund,den Teufel,sich selbst,Robin Hood,eine Biene,eine Fee,,eine Puppe,einen Stapel Papier,den Weihnachtsmann,jedemenge Goldmünzen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Geburt",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Kaninchen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 1726 überzeugte die Britin Mary Toft ihre Ärztin, dass Sie <BLANK> geboren hat.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einen Hasen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "351045_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

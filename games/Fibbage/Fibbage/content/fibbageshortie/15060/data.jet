@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "backwards,less crazy,invisible,oars,puppies,vaginas,green,taller,missing,trustworthy,teeth,berries,lasers,single,listening,my legal guardians,friendlier,wings",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Ohren",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cameras",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "CELEBRITY TWEET! Am 10. Mai 2011 um 14:44 Uhr twitterte @THEGaryBusey: \u201cI wish my ears were <BLANK>\u201d.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "333623_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "der Mutter,dem Auto,dem Hund,dem Spitznamen,der Gitarre,dem Schloss,den Penis,den Adoptivsohn,der Katze,den Sekretär,dem Boot,der Perücke,den Künstlernamen,der Frau",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Snickers",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "dem Pferd",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der \u201cSnickers\u201d-Schokoriegel wurde nach <BLANK> des Erfinders benannt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "dem gaul",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "355701_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

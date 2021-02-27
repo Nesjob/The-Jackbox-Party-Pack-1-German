@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "katholische,feministe,Asthmatiker,Elefanten,liebenswerte,alte,Transgender,ausserirdische,taube,Meerjungfrau,kanadische,republikanische,sterblicher,freundlicher,Baby,Hipster,Rastafari,alkoholiker",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Reckoning",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "amische",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "<i>Chosen</i>, <i>Shunned</i> and <i>Reckoning</i> sind alles Bücher einer ungewöhnlichen Reihe über <BLANK> Vampire.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "amishe,amish,amisch",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "331588_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "331585_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

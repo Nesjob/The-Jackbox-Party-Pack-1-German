@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "die Freiheitsstatue,Mona Lisa,Mount Rushmore,einen Basketball,die Airforce One,eine Dampflock,das Kolosseum,das Weisse Haus,die Chinesische Mauer,die Grosse Sphinx von Gizeh,eine Statue von Alexander dem Grossen,vier Autos,eine Achterbahn,Big Ben,eine Vogelscheuche,eine Pizza",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Heirat",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "den Eiffelturm",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2007 heiratete eine Frau mit Objektophilie (seltene Erkrankung, bei der man Gegenstände sexuell anziehend findet) <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "den eiffel turm",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "321454_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "321451_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "internationale Bankiers,Anwälte,Köche,Boxer,Model,Türsteher,Müllmänner,Overall-Model,Balletttänzer,Poker-Profis,Bauern,LKW-Fahrer,Bauarbeiter,Reinigungskräfte,Zahnärzte,Schädlingsbekämpfer,Beerenpflücker,Motivationssprecher",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Mario und Luigi",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hausmeister",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Zeitung <i>The New York Times</i> musste einen ihrer Artikel korrigieren, nachdem sie Mario und Luigi fälschlicherweise als <BLANK> anstatt als Klempner bezeichnet hatten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "317809_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

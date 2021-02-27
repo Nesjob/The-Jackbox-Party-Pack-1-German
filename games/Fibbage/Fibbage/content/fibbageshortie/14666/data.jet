@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "das Auto,den Kollegen,auf den Hut,auf das Knie,die Waffe,in die Genitalien,die Frau,auf die Schulter,den Sohn,das Haus,den Hund,den Schlagstock,in das Gesicht,auf die Sonnebrille,auf den Hintern,auf den Schnurrbart,auf den Helm,den Kaffee",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Polizei",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "das Pferd",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "An einem Tag im Juni 2013 um 02:45 Uhr wurde ein Mann in Orlando, Florida festgenommen, weil er <BLANK> eines Polizisten geschlagen hatten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "das pony,ein pferd",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "325411_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

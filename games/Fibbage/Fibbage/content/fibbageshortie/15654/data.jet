@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einer Polka-band,einem Anzug,einem Zauberer,einer Python,eines Smiley Faces,eines UFOs,eines Frettchens,einer Meerjungfrau,eines Hintern,eines Engels,eines Drachen,eines Penners,einer Krabbe,eines Sandwiches,eines Babys,eines Dollarscheins,einer Waffe,einer Spritze,der schweizer Flagge",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Toblerone",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Bären",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Berglogo auf der Schachtel einer Toblerone-Schokolade enthält ein verborgenes Bild von <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einen bär",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "346335_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

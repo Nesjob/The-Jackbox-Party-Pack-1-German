@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einer Erdnuss,einer Kotztüte,einer SkyMall-Zeitschrift,einem Käseblock,einem Taschentuch,einer Tellermütze,einem Strohhalm,einer Computermaus,einer Tüte Brezeln,einer Krawatte,einem Schlüsselbund,einem Kugelschreiberetui,einer Lesebrille,einem Tampon,einem Kondom,einem Hut,einer Uhr,dem Getränkehalter",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Entleeren",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Kleiderbügel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Während eines Fluges im Jahr 1995, führten Dr. Angus Wallace und Dr. Tom Wong erfolgreich eine Thoraxdrainage an einem Passagier mit einem Gummischlauch, einem Branntwein und <BLANK> durch.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "coathanger,wire hanger,hanger",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "339016_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "339013_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

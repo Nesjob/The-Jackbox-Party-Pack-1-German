@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "dweeb,jerk,bitch,numbskull,skank,spazz,loser,geek,baldie,putz,dork,weirdo,butterface,airhead,snitch,deadbeat,dingleberry,dope",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "abfällig",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "nerd",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dr. Seuss ist es zu verdanken, dass er diesen allgemein abfälligen Begriff in seinem Buch <i>If I Ran the Zoo</i> von 1950 geprägt hat.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "nerds,a nerd",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "334730_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

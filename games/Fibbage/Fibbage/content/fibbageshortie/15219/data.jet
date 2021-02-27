@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pfarrer,alleine den Abschlussball besuchen,Harvard besuchen,im Krankenhaus landen,im Gefängnis landen,in der Hölle landen,Astronaut,Hollywood Star,Putzmann,Soldat,Vietnam Veteran,Russe,Mechaniker,Arbeitslos,Extremist,früh sterben,Arzt,Nerd",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Stallone",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "hingerichtet",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Während der Schulzeit wurde Sylvester Stallone von seinen Lehrern als die Person gewählt, die höchstwahrscheinlich <BLANK> wird.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "auf dem elektrischen stuhl hingerichtet",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "336291_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

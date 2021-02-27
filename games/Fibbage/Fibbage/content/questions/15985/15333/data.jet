@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Reporter,ein Baby,eine Stripperin,eine Schwangere,eine Lehrerin,einen Tauben,einen Bürgermeister,einen Sozialarbeiter,eine religiöse Statue,eine Taube,einen Grabstein,ein Bild des Papst,ein Kind,einen Blinden,ein Bild Van Goghs,einen Hasen,einen Bauarbeiter,die Bundeskanzlerin",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wein",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Obdachlosen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der deutsche Politiker Peter Gloystein ist im Jahr 2005 zurückgetreten, weil er <BLANK> mit Wein übergossen hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "eine obdachlose",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "338944_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

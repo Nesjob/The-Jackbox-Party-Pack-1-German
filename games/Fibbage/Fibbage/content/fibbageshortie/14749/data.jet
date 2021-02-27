@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Lady,Baby,Kuss,Wachs,Flammen,Omas,Affen,Herpes,Penner,Hässliche,Big Boy,Rissige,Saftige,Stinkende,Geile,Arsch,Cameltoe",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Lippen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Nutten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die chinesische Blume \u201cPsychotria elata\u201d ist auch unter den Namen \u201c<BLANK> Lippen Blume\u201d bekannt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "nutte",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "327113_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "327110_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schuhen,Rücksäcken,Vogelscheuchen,Hüten,Schildkröten,Lutscher,Leichen,Macheten,Fledermäuse,Dollar,Büstenhalter,Gruken,Hosen,Bienenstöcke,Schlüsselanhänger,Vogelhäuschen,Löffeln,Gummibärchen,Gummibällen,Schwämmen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hängen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Puppen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Isla de las Munecas in Mexiko ist eine Attraktion, die dafür bekannt ist, dass hunderte von <BLANK> in ihren Bäumen hängen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "baby puppen,baby-puppen,alte puppen,kaputte puppen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "323054_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "323051_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

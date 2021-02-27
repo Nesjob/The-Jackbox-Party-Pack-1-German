@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kleenex,Moped,Kondome,BIC Stifte,Frisbees,Heftklammern,Lippenstift,Cheerios,Jell-O,Doritos,Tesa,Pampers,Gewürzgurken,7-UP,Skittles,Dr. Martens,Pringles,Scope",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Markenname",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Q-tips",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Derzeitiges Markenprodukt, welches 1926 als \u201cBaby Gays\u201d bezeichnet wurde.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "qtips,qtip,q-tip",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "334503_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "334500_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

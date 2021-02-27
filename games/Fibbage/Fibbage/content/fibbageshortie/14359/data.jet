@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Schuldschein,Küssen,Umarmungen,High Fives,Chicken Nuggets,Salz,Waffen,Organen,Briefmarken,abgelaufenen Parktickets,Uhren,Pommes,Toilettenpapier,antiken Lampen,Stickern,lebenden Spinnen,Scheisse,Gutscheinen für Massagen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Parken",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kastanien",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Herbst 2013 erlaubte ein englisches Unternehmen, welches Parkplätze besitzt, den Kunden diese mit <BLANK> zu bezahlen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "319183_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

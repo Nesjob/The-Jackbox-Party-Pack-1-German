@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mayonnaise,Paintballs,Pudding,Butter,Trauben,Insekten,Zitronen,Orangen,Aluminiumfolie,Makkaronisalat,Wallerballons,Milch,Joghurt,Granatäpfeln,Luftplsterfolie,Kuscheltieren,Bubbletea",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "E.T.",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Gelatine",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das Geräusch welches E.T. beim laufen macht wurden erzeugt, indem jemand mit <BLANK> schmatzte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "jello,jell-o,sprenggelatine,speisegelatine",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "321890_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fötus,Penis,Fingernagel,Salamander,Kaktus,Zeh,Spargel,Wurm,Käfer,Kupferstab,Eisenstab,Plastikbecher",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Lunge",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ast",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2009 schockierte ein Russe die Medizinwelt, als ein 5 cm langer <BLANK> in seiner Lunge steckte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "buchenzweig,zweig",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "354465_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "354462_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

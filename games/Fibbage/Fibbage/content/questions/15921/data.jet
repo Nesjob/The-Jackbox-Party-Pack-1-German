@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schachtunier,Footballspiel,Festival,Tennisspiel,Handballspiel,Fussballtunier,E-Sport Tunier,Volleyballspiel,Basketballspiel,Golftunier,Beachvolleyballtunier",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "6.084",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Völkerballspiel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2012 brachte die University of California Irvine 6.084 Studenten zusammen, um den Weltrekord für das größte <BLANK> zu brechen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "völkerball spiel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "352300_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

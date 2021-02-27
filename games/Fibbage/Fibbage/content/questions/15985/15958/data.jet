@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein toter Hund,eine Smartphone App,ein Geist,ein Teddybär,eine Kiefer,ein Skelett,ein Kissen mit Aufdruck,ein Wassertank,ein Poster von Celine Dion,ein Schuh,ein unsichtbares Kaninchen,ein Dinosaurier in einem Museum,Elvis Imitator,eine Katze,eine Tasche voller Perücken,eine Barbiepuppe,ein Wischmopp mit einer Schürze,ein Haufen schmutziger Unterwäsche",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Glücklich",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Schaufensterpuppe im Rollstuhl",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein Mann aus Watertown, New York, behauptet, dass er seit über 25 Jahren glücklich mit seiner Frau Teagan verheiratet ist, die seltsamerweise <BLANK> ist.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "eine Puppe im Rollstuhl",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "353057_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "353054_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

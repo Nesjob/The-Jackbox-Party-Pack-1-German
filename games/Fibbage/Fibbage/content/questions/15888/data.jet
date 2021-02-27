@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bluttransfusion,\u201cPolice Academy\u201d marathon,an einer Katze schnüffeln,Schlag ins Gesicht,ein Grashüpfer-Smoothie,Zauberei,Roboterlungen,Beschneidung,ein induzierter Herzinfarkt,ein Pony reiten,Bild von Jesus,Ganzkörperenthaarung,Viagra,ein ernstes Gespräch,ein Traumjournal,eine Tracht Prügel,eine gute Ohrfeige,Süßigkeiten Diät",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schluckauf",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Rektalmassage",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dr. Francis M. Fesmires todsicheres Mittel, um Ihren Schluckauf zu stoppen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "rektal massage,anusmassage,anus massage",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "351573_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "351570_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "im Auto,auf dem Dachboten,auf einem anderen Sofa,im Müll,in der Wäsche,im Briefkasten,in der Dusche,in der Badewanne,im Ofen,im Geschirrspühler,in der Mikrowelle,in der Toilette,im Garten,bei der Schnapsbar,im Bett,im Schuppen oder Stall,im Arzneischrank",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Fernbedienungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "im Kühlschrank",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Laut einer Studie von Logitech werden 49% der verschollenen Fernbedienungen im Sofa wiedergefunden, während 4% <BLANK> wiedergefunden werden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "in der Kühlschranktür",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "318889_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

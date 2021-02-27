@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Muscheln,Lava,Ananas,Tassen,Schuhe,Fackeln,Blumen,Welpen,Blütenketten,erotische Fotos,Hüte,ein ganzes Schwein,Bowlingkugeln,SPAM,Fische,eine Kopie von The Descendants,Rucksäcke,persönliche Toilettenartikel",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Post",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kokosnüsse",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "ROAD TRIP! Wenn Sie sich auf der hawaiianischen Insel Molokai befinden, sollten Sie unbedingt das Hoolehua Postamt besuchen, wo Sie <BLANK> ohne Karton verschicken können.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "eine Kokosnuss",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "354139_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

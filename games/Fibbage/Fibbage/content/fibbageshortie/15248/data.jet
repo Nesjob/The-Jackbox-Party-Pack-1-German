@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Tänzer,Taschendieb,Krimineller,Schlittschuhläufer,Tarockkartenleser,Betrüger,Bestatter,Fahrlehrer,Sänger,Übersetzer,Verkäufer,Kinderbuchauthor,Totengräber,Surfer,Psychologe,Bäcker,Wrestler,Mechaniker",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Alfred",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Zahnarzt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der elektrische Stuhl wurde von Alfred Southwick erfunden, welcher beruflich eigentlich als <BLANK> tätig war.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "zahn arzt",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "336989_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "336986_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

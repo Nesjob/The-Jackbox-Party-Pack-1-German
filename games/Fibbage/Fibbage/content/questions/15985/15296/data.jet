@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Katzengehirn,Heroin,Menschenschweiss,Schweineauge,Ziegenzahn,geschreddertes Küken,Hexenspucke,Leberwurst,Falkenauge,Schlamm,Menschenhaar,Kies,Zehnägel,Blut einer Jungfrau,verfaulte Eier,Kokain,Affenschwanz",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Indien",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kuhurin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In Indien gibt es eine Cola namens \u201cGau Jal\u201d zu kaufen, welche die bizarre Zutat <BLANK> enthält.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "kuh urin,kuhpisse,kuh pisse,urin,pisse",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "338093_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "338090_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

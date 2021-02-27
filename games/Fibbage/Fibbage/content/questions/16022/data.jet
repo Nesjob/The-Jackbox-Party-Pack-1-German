@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hände zu waschen,Toilette zweimal zu Spülen,ehrlich zu ihren Date zu sein,den Boden zu wischen,Zwischenzuspülen,zu lächeln,wirklich in den Spiegel zu schauen,ihre Eltern anzurufen,in unter 5 Minuten zu kacken,ein Streichholz anzuzünden,kein Kokain zu ziehen,ihre Telefone auszuschalten,kein Calamari zu bestellen,leise zu kacken,sparsam mit dem Toilettenpapier zu sein,nicht zu grunzen,ihre Frisur zu richten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Vorschrift",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "im sitzen zu pinkeln",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Mitarbeiter des Edible Canada Restaurants haben auf der Männertoilette ein Schild angebracht, was sie auffordert <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "sitzend zu pinkeln,im sitzen zu urinieren,im sitzen zu pissen,sitzend zu pissen,sitzend zu urunieren,sitzpinkeln,im sitzen pinkeln",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "354488_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "354485_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

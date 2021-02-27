@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Cupcakes,Oma,verbrannten Haar,Pommes,einem Gefängnis,Hummus,verfaulten Eiern,Whiskey,toten Fisch,alten Schuhen,frischen Blumen,Zitrone,Orange,Schwefel,Stinktier,Sumpfwasser,Furzen,Büffelsauce,Lakritze",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Rückruf",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Katzenurin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2013 startete die Firma Dell eine Rückrufaktion, nachdem sich Kunden darüber beschwert hatten, dass ihre Notebooks nach <BLANK> rochen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "katzen urin,katzenpisse,katzen pisse",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "359125_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

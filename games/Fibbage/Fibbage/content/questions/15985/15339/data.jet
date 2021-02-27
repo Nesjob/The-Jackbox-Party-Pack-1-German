@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nicht vorhandenen,holprigen,gigantischen,riesigen,seltsamen,faltigen,flockigen,nackten,dreckigen,hässlichen,perfekten,schönen,förmigen,quadratischen,weiblichen,muskulösen,märchenhaften,legendären,üppigen,stinkenden,furchterregenden,gefügigen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Pobacken",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "behaarten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dasypygal ist ein Adjektiv und bedeutet \u201ceinen <BLANK> Hintern haben\u201d.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "haarigen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "339085_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "339082_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

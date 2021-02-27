@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Erster,Bist du wach?,Auf dem Weg,Hat es funktioniert?,Test,Pic Pls,Das wird alles verändern,neues Telefon, wer ist da?,Ich habe hunger,Ich mag Sandwiches,Watson bist du da?,Lust zu ficken?,adflakdsja,Hot-Dog,Mein Name ist Neil,Und jetzt?,Es funktioniert,Yabba dabba du",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "SMS",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Frohe Weihnachten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die erste SMS die von Neil Papworth im Jahr 1992 versendet wurde, enthielt den Text \u201c<BLANK>\u201d.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Merry Christmas",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "334040_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "334037_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

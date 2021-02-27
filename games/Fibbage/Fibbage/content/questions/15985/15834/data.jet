@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "müde Eidechseex,begeisterter Hamster,trauriger Clown,Rango,gigantischer Stock,Schere für die Hand,Hundelecker,Pirat,Cäptain,winziges Feuer,der mit Willy Wonka spielt,Augenbraue,Schauspieler,Fräulein,Zeitverschwendung,Grufti,Sexy Bär,Langhaar,reicher Wanderer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Johnny Depp",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Formwandler",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Johnny Depp wurde zum Ehrenmitglied der Comanche Nation ernannt und erhielt einen passenden Comache-Spitznamen. Sein Spritzname \u201cMah-Woo-Meh\u201d bedeutet <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "gestaltwandler,metamorph",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "350360_4",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "350357_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

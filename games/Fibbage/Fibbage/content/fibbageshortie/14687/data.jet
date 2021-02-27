@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vögel,den Weihnachtsmann,den Osterhasen,Ronald McDonald,Stephen Hawking,den Teufel,alle Frauen,die Zahnfee,Präsident Bush,Dora,Elfen,Darth Vader,Bigfoot,Betty White,Trolle,alle Kriminellen,Betty Boop,Donald Duck",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Nebraska",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Gott",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2007 hat Nebraskas State Senator Ernie Chambers aus Spaß eine Klage gegen <BLANK> eingereicht.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "325838_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

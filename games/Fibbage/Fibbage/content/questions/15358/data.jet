@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Rotten Fish,Dry Humping,Nudity,Face Punch,Public Urination,Booger,Snake-Eating,Vomiting,Pubic Hair,Roadkill,Ear Wax,Dead Cat,Fist Fight,Dandruff,Foreskin,Patchouli,Fart,Lower Back Tattoo",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Nepal",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Cursing",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "ROAD TRIP! In Nepal sollte man sich unbedingt das in den Dörfern Parsawa und Laxmipur etwas abscheuliche stattfindende, 10-tägige <BLANK> Festival.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "curse,curse word,curse words,swearing,swear words,swear word",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "339522_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "339519_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

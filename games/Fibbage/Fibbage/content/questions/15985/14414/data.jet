@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Aquaman,Regenbogen,Big Foot,Kobolden,Poseidon,Atlantis,Herpes,fliegenden Schweinen,Zaubersprüche,Fleischbällchenhagel,schlechte Reviews,Shuffle Board Unfälle,Bazookaraketen,Jets,das Armageddon,Blackbeard,Flunder,die Titanic,Eisberge",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kreuzfahrten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "das Loch Ness Monster",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Besitzer des Schiffes Jacobite Cruises haben eine ungewöhnliche Versicherung abgeschlossen, die das Schiff vor Schäden durch <BLANK> schützt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "nessie,nessie das loch ness monster",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "320364_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "falsche Cowgirl,Nutten,Perverse,Abartige,Rallige,Genital,Doggystyle,Missionar,69er,Flittchen,Leckende,Fussfetisch,Knecht,Blasende,Scheue,Dominante,Dreierlei",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Paarung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Lesben",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Aufgrund des ungewöhnlichen Paarungsverhaltens der Cnemidophorus Neomexicanus ist sie auch unter dem Spitznamen <BLANK>-Echse bekannt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "lesbe",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "329783_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

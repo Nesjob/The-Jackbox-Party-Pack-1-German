@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein Schwert,einen Computer,ein Baby,eine Flasche voll Gift,eine Uzi,eine Bärenfalle,ein geklautes Auto,ein Hackebeil,eine Rakete,eine Bazooka,eine Tüte voll Haare,einen Finger,einen Donut,ein vermisstes Kind,einen Affen,ein gefälschtes Polizeiabzeichen,eine Bong,eine Heroinspritze",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "verhaftet",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Rohrbombe",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein Mann wurde in L.A. bei einem von der Polizei gesponsorten Waffenrückkauf festgenommen, versucht hat den Polizisten anstelle einer Waffe <BLANK> zu verkaufen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "eine Bomb",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "323391_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

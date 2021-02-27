@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Haaren,Zähnen,Armen,Füssen,Halmen,Würmern,Schlagen,Zunge,Brüsten,Kacke,Affen,Schlümpfen,Bäumen,Leberfleck,Pickel,Bauchnabel,Eiern,Augen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Gummi",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ohren",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Haribo verkauft in Deutschland Schaumzucker mit Fruchtgummi mit der Bezeichnung \u201cA... mit <BLANK>\u201d.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "326406_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "326403_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Sexspielzeug,Furby,Seepferdchen,Playmobilmännchen,Walbaby,Meerschweinchen,Brautkleid,Trampolin,Zelt,Plüscheinhohrn,Wiesbachhorn,Katzenklo",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Florida",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Legomännchen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein ca. 2,5 Meter großes <BLANK> wurde 2011 an einem Strand in Florida an Land gespühlt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "lego männchen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "320006_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

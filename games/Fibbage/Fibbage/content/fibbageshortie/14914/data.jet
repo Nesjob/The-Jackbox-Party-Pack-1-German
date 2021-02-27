@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schnee,Amanda,Kleiner,Engels,holländischer,Teufel,Action,Juden,Kacke,Monster,Besoffener,nackter,hässlicher,merkwürdiger,seltsamer,roter,grüner",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Weihnachtsmann",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "schwarzer",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die niederländische Version von Santa Claus hat einen Helfer namens \u201c<BLANK> Peter (Zwarte Piet)\u201d.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "schwarz",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "330321_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

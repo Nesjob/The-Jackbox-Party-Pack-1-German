@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Roller,Auto,Monstertruck,Scooter,Kleinstwagen,LKW,Kompaktwagen,Mittelklassewagen,Sportwagen,Van,SUV,Panzer,Pickup,Geländewagen,Oldtimer,Bus",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sport",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Traktor",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Beim Kila Raipur Sports Festival, das jährlich in Punjab, Indien, stattfindet, gibt es viele ungewöhnliche und gefährliche Ereignisse, bei denen z.B. die Teilnehmer auf dem Boden liegen und von einem <BLANK> überfahren werden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "bulldog,trecker,schlepper,zugmaschine,sattelzugmaschine,ackerschlepper,stachelrad,stachelwalze,sattelzug",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "356907_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

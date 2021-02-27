@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einer Shotgun,einer Locke von Gene Wilders Haar,einen Lockenstab,einer Yogamatte,einem Beutel voll Blutegel,einen Schnurrbartkamm,einen Spiegel,einem Baseballschläger,einem Nackenkissen,dem goldenen Ticket,einer Bowlingkugel,einem Fläschchen mit Kindertränen,einen Saxophon,Everlasting Gobstopper,einer Ledermaske,einem Schmuddelwitzebuch,einer Granate,einer Dose Bohnen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schokolade",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einer Motorsäge",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Als Roald Dahl, der Author von <i>Charlie und die Schokoladenfabrik</i> starb, wurde er mit einen Billardqueue, einen Burgunderwein, Schokolade, Stiften und <BLANK> beerdigt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einer Kettensäge",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "353733_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "353730_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

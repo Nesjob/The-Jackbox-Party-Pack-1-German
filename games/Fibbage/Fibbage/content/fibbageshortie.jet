@@ -1,0 +1,1697 @@
+{
+  "content": [
+    {
+      "x": true,
+      "id": 16224,
+      "category": "Rückruf",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16213,
+      "category": "Gesichter",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16197,
+      "category": "Sechstklässler",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16146,
+      "category": "Büro",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 16134,
+      "category": "Sport",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16119,
+      "category": "Steroide",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 16116,
+      "category": "Lucy",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 16103,
+      "category": "Eichhörnchen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16098,
+      "category": "Autowerkstatt",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14263,
+      "category": "Kickstarter",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14264,
+      "category": "Kevin Spacey",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14268,
+      "category": "Branson",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14273,
+      "category": "Peter",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14275,
+      "category": "Sex",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14278,
+      "category": "Gin",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14279,
+      "category": "Amerika",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14287,
+      "category": "Strafzettel",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14289,
+      "category": "Drogenkartell",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14296,
+      "category": "Jockey",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14300,
+      "category": "Japan",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14303,
+      "category": "Isle of Man",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14310,
+      "category": "Eye Shadow",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14317,
+      "category": "Maryland",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14318,
+      "category": "Ecuador",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14319,
+      "category": "New Hampshire",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14322,
+      "category": "schwedisch",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14323,
+      "category": "feuchtfröhlich",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14325,
+      "category": "Angst",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14328,
+      "category": "John Larroquette",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14332,
+      "category": "Charles Bukowski",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14333,
+      "category": "Umarmungen",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14334,
+      "category": "Analsekrete",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14338,
+      "category": "Illinois",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14343,
+      "category": "Affen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14345,
+      "category": "Fernbedienungen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14350,
+      "category": "Schmuggeln",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14351,
+      "category": "Nonnen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14369,
+      "category": "Alexander der Große",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14377,
+      "category": "107",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14378,
+      "category": "Verkaufsautomaten",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14392,
+      "category": "Beetlejuice",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14396,
+      "category": "Florida",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14397,
+      "category": "Mercury",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14405,
+      "category": "Boote",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14412,
+      "category": "Grabstein",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14414,
+      "category": "Kreuzfahrten",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14420,
+      "category": "Forest",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14423,
+      "category": "Stonehenge",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14431,
+      "category": "Hornhaut",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14432,
+      "category": "Kakerlaken",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14437,
+      "category": "Portugal",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14446,
+      "category": "Denzel",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14450,
+      "category": "$25.000",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14454,
+      "category": "Topeka",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14456,
+      "category": "Crew",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14464,
+      "category": "Wachs",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14471,
+      "category": "Heirat",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14483,
+      "category": "Zauberei",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14493,
+      "category": "Josh",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14494,
+      "category": "E.T.",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14500,
+      "category": "Saddam",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14504,
+      "category": "Iowa",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14506,
+      "category": "physisch",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14512,
+      "category": "Preise",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14515,
+      "category": "Gutscheine",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14521,
+      "category": "Waffen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14532,
+      "category": "Macht",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14533,
+      "category": "Nigeria",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14536,
+      "category": "Juno",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14545,
+      "category": "Tara",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14548,
+      "category": "Technologie",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14552,
+      "category": "Hängen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14559,
+      "category": "Teufel",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14564,
+      "category": "Nationalität",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14568,
+      "category": "verhaftet",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14583,
+      "category": "schmutzig",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14586,
+      "category": "Zeit ist Geld",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14587,
+      "category": "Geschrei",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14598,
+      "category": "Bier",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14611,
+      "category": "Übersetzung",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14613,
+      "category": "Einkommen",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14615,
+      "category": "Feuer",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14619,
+      "category": "Erfinder",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14624,
+      "category": "Telefonverkäufer",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14633,
+      "category": "Gang",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14635,
+      "category": "Pazifik",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14636,
+      "category": "Stress",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14641,
+      "category": "Abschlussball",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14642,
+      "category": "Ende",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14649,
+      "category": "1.000",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14656,
+      "category": "Kleidung",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14666,
+      "category": "Polizei",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14667,
+      "category": "Orte",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14679,
+      "category": "Freude",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14687,
+      "category": "Nebraska",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14690,
+      "category": "Gesicht",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14696,
+      "category": "Schreiben",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14698,
+      "category": "Knochen",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14714,
+      "category": "Gummi",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14724,
+      "category": "Hüfte",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14727,
+      "category": "Boxen",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14731,
+      "category": "Bälle",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14733,
+      "category": "Wörterbuch",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14740,
+      "category": "Blake",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14749,
+      "category": "Lippen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14755,
+      "category": "Pepsi",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14767,
+      "category": "San Francisco",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14770,
+      "category": "Berge",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14795,
+      "category": "Feuer",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14798,
+      "category": "Schulausflug",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14808,
+      "category": "Urlaub",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14822,
+      "category": "Fighting",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14831,
+      "category": "Krampfanfälle",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14841,
+      "category": "Wohnen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14842,
+      "category": "Bohnen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14852,
+      "category": "Shampoo",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14853,
+      "category": "Bolt",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14867,
+      "category": "Norwegen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14875,
+      "category": "Rekorde",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14881,
+      "category": "Calvary",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14890,
+      "category": "Paarung",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14891,
+      "category": "Oh",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14898,
+      "category": "Schweine",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14900,
+      "category": "Eiscreme",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14904,
+      "category": "Brett",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14905,
+      "category": "Töten",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14907,
+      "category": "55.000",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14912,
+      "category": "eBay",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14914,
+      "category": "Weihnachtsmann",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14920,
+      "category": "Schnurrbart",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14924,
+      "category": "iPod",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14925,
+      "category": "Haare",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14926,
+      "category": "Potenzmittel",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14949,
+      "category": "Paris",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14956,
+      "category": "Doo",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14961,
+      "category": "lecken",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14971,
+      "category": "Reckoning",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14975,
+      "category": "errichten",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14978,
+      "category": "Essen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14981,
+      "category": "Buenos Aires",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14996,
+      "category": "Niederstechen",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15022,
+      "category": "Sonnenuhr",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15043,
+      "category": "Gründen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15052,
+      "category": "Ohr",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15053,
+      "category": "Wertlos",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15060,
+      "category": "Ohren",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15077,
+      "category": "Afghanistan",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15078,
+      "category": "SMS",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15087,
+      "category": "Freilassung",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15126,
+      "category": "8",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15183,
+      "category": "Sprengung",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15184,
+      "category": "Urin",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15187,
+      "category": "Umarmung",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15191,
+      "category": "Oscar",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15197,
+      "category": "Simmons",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15207,
+      "category": "Petition",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15210,
+      "category": "Haufen",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15213,
+      "category": "Warnhinweis",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15219,
+      "category": "Stallone",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15229,
+      "category": "Weinen",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15248,
+      "category": "Alfred",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15249,
+      "category": "Löffelvoll",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15262,
+      "category": "Weltraum",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15273,
+      "category": "Orange",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15277,
+      "category": "verletzt",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15280,
+      "category": "Ente",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15291,
+      "category": "Haut",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15292,
+      "category": "Abschluss",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15295,
+      "category": "Selbstversuch",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15296,
+      "category": "Indien",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15299,
+      "category": "Illinois",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15302,
+      "category": "44%",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15305,
+      "category": "Growlers",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15310,
+      "category": "Geschenke",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15320,
+      "category": "Glastonbury",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15323,
+      "category": "Aufruhr",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15330,
+      "category": "it. Gefängnis",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15332,
+      "category": "Dörfer",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15333,
+      "category": "Wein",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15335,
+      "category": "Marokko",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15336,
+      "category": "Entleeren",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15337,
+      "category": "Einstein",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15339,
+      "category": "Pobacken",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15348,
+      "category": "nervig",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15358,
+      "category": "Nepal",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15362,
+      "category": "Hosen",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15364,
+      "category": "Papst Pius II.",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15365,
+      "category": "Klaps",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15367,
+      "category": "Mussolini",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15371,
+      "category": "Schokochip",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15372,
+      "category": "Fliegen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15385,
+      "category": "Angst",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15387,
+      "category": "Playtex",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15969,
+      "category": "Angeln",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 16071,
+      "category": "5% mehr Milch",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16097,
+      "category": "Solar",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16092,
+      "category": "Heimkehr",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16085,
+      "category": "Beagle",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 16078,
+      "category": "Snickers",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16072,
+      "category": "Frostschutz",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16070,
+      "category": "Regenwald",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 16069,
+      "category": "Minnesota",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16042,
+      "category": "Eier",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 16035,
+      "category": "Asche",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 16022,
+      "category": "Vorschrift",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 16021,
+      "category": "Lunge",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16020,
+      "category": "kontrollieren",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 16013,
+      "category": "Vampir",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 16011,
+      "category": "Wasserspeier",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 16010,
+      "category": "Jagd",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 16007,
+      "category": "Post",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15999,
+      "category": "Gefängnis",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15997,
+      "category": "Menschenmenge",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15994,
+      "category": "Wirtschaftler",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15988,
+      "category": "Schokolade",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15958,
+      "category": "Glücklich",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15956,
+      "category": "Bäume",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15933,
+      "category": "Psychiater",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15921,
+      "category": "6.084",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15915,
+      "category": "Konstruktion",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15900,
+      "category": "Mittelstufe",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15897,
+      "category": "Gipfel",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15895,
+      "category": "Barcelona",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15865,
+      "category": "Geburt",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15858,
+      "category": "Nase",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15854,
+      "category": "Patton",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15849,
+      "category": "Wüste",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15846,
+      "category": "Orbit",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15844,
+      "category": "Lohan",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15843,
+      "category": "Cowell" ,
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15842,
+      "category": "oben Ohne",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15839,
+      "category": "Frankreich",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15834,
+      "category": "Johnny Depp",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15827,
+      "category": "Löwe",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15819,
+      "category": "schwedisch",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15813,
+      "category": "Selbsthilfe",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15812,
+      "category": "einzeln",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15801,
+      "category": "Netflix",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15797,
+      "category": "Lehrer",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15793,
+      "category": "ländlich",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15787,
+      "category": "Rumänien",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15783,
+      "category": "Spiegel",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15744,
+      "category": "Rezepte",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15734,
+      "category": "Einsamkeit",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15730,
+      "category": "Schlafwandler",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15675,
+      "category": "Twix",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15673,
+      "category": "Eddie Murphy",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15670,
+      "category": "Lumpen",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15663,
+      "category": "Kathedrale",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15654,
+      "category": "Toblerone",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15648,
+      "category": "Coca-Cola",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15644,
+      "category": "Verletzung",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15632,
+      "category": "Miniatur",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15621,
+      "category": "Psycho",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15618,
+      "category": "unbesiegbar",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15592,
+      "category": "feststecken",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15580,
+      "category": "Reha",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14270,
+      "category": "Angst",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14295,
+      "category": "Mario und Luigi",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14340,
+      "category": "Punxsutawney Phil",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14358,
+      "category": "mürrisch",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14359,
+      "category": "Parken",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14387,
+      "category": "Treten",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14404,
+      "category": "Handys",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14527,
+      "category": "John",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14572,
+      "category": "Sicherheit",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14604,
+      "category": "Halloween",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14639,
+      "category": "Mahnmal",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14677,
+      "category": "Striptease",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14710,
+      "category": "Chad",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14718,
+      "category": "Auszeichnung",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14866,
+      "category": "Schwarz",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14950,
+      "category": "Friedhof",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15225,
+      "category": "787",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15297,
+      "category": "gestohlen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15304,
+      "category": "Eminem",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15307,
+      "category": "Bulldogge",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15319,
+      "category": "Feldwebel",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15329,
+      "category": "Heavy Metal",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15351,
+      "category": "beschämend",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15886,
+      "category": "Phenomenon ",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 16120,
+      "category": "Erregung",
+      "bumper": ""
+    }
+  ],
+  "episodeid": 1210
+}

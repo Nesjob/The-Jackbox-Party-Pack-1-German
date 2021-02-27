@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "kastrieren,neutralisieren,zu kleiden,braten,küssen,kitzeln,missbrauchen,befruchten,bespucken,zeichnen,rasieren,verehren,verbrennen,essen,kochen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Eichhörnchen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "zählen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Stadt Olney, Illinois, organisiert jährlich ein Event, um Eichhörnchen zu <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "356224_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "356221_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

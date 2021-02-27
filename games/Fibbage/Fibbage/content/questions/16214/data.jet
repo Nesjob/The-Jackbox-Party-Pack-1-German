@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "McPineapple,Aloha Sandwich,McHawaii,McLuau,Hot Fruit Slider,McPiney,Alohamburger,The Good Lei,The Pineapple Eruption,McTidbits,McMeatless,Filet-O-Fruit,Maui Muncher,Big Kahuna Mac,Magic School Bus,Polynesian Burger,Mama Kroc\u2019s,McMahi-Mahi",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Ananas",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hula Burger",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Name des experimentellen gegrillten Ananas-Sandwich von McDonald\u2019s, welches bei einem Verkaufswettbewerb gegen Filet-O-Fish verloren hat.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "hulaburger",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "358906_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

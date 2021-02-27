@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Nonne und des Priesters,Pius-Liebhaber,schweren Busen,Sünden,heiligen Union,verheirateten Perverslinge,Heiligkeit der Ehe,Drei-Wege,Dinge im Ehebett,Gemeinheit,Verleugnung der Liebe,Nacht,entflammten Kerzen,Ehe von Zwei,Mädchen und Junge,Bettpfosten,perversen Nonne",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Papst Pius II.",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "zwei Liebhaber",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bevor Papst Pius II. Papst wurde, schrieb er einen erotischen Roman mit dem Titel <i>Die Geschichte der <BLANK></i>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "2 Liebhaber",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "339657_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

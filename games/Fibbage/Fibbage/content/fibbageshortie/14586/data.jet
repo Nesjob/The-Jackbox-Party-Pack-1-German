@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tanzen,Kinderschlagen,kämpfen,vorgeben zu schlafen,Backe backe Kuchen,dich zu ignorieren,dein Haustier zu beobachten,seilspringen,furzen,zu twittern,Seifenblasen blasen,Pokern mit dir,Ballons platzen zu lassen,singen,dir High-Fives zu geben,die Hundehütte anzumalen,Möbel zu polieren",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Zeit ist Geld",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "kuscheln",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Es ist vielleicht ein etwas merkwürdiger Job, aber Jackie Samuel verlangte $60 für eine Stunde <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "umarmen,anschmiegen,schmiegen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "323777_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein Auto,ein Opossum,ein Bier,eine Ratte,ein Boot,ein Date,einen Hund,ein Hausboot,$1.000.000,einen Thanksgiving-Truthahn,einen Mantel,ein Wohnwagen,einen Gutschein für ein Gratisessen,ein Trampolin,eine Nintendo Wii,einen Fernseher,eine Urlaubsreise,ein Jahr gratis Kakerlakenspray",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kakerlaken",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Python",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein Mann aus Florida erstickte an Kakerlaken, die er bei einem Wettbewerb gegessen hat, um <BLANK> zu gewinnen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "schlange",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "320739_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "320736_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

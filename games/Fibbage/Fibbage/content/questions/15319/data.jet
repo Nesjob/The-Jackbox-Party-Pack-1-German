@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Wuff,Eisenhower,Slippers,Yorkie,Pooches,Peppers,Scrappy,Smelly,Paws,Bitch,Nudel,Chicken,Chuckles,Barker,Howler,Sniffy,Freedom,Mutt,Biter,Bierholer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Feldwebel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Schultz",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der erste und einzige Hund, der in den Streitkräften der Vereinigten Staaten einen Rang erhielt, wurde Feldwebel <BLANK> (Sergeant <BLANK>) genannt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "stubby",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "338625_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "338622_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

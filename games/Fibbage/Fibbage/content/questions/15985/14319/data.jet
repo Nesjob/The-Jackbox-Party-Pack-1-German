@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Operationen,Steuern,Sandwiches,Kleider,Reinigung,Immobilien,Kinotickets,Bustickets,Möbel,Taxis,Mieten,Tagespflege,Gerichtskosten,Kreditkartenabrechnungen,Putzfrauen,Hochzeiten,Windeln,Führerscheinprüfungen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "New Hampshire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Parkuhren",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine Gruppe, die als \u201cRobin Hooders\u201d in Keene, New Hampshire bekannt ist, bezahlt die <BLANK> anderer Personen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Parkometer",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "318347_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "jongliert,eine Rakete startet,mit Computern arbeitet,einen Zauberwürfel löst,Schlittschuh läuft,Akupunktur anwendet,klingonisch spricht,einen Hubschrauber fliegt,Breakdance tanzt,Basketball spielt,schweisst,ein Schwein schlachtet,Karten zählt,ein Lagerfeuer entzündet,einen Sattelzug fährt,HAM-Radios verwendet,wrestelt,jagt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Lehrer",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Akkordeon spielt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In den 90ern mussten Lehrer in Nordkorea seltsamerweise wissen, wie man <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "harmonika spielt,ziehharmonika spielt,schifferklavier spielt,handharmonika spielt,handorgel spielt,quetsche spielt",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "349539_3",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "349536_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

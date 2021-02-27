@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "200 Frettchen,seine Playstation 2,seine Schlafanzug,seinen Ofenhandschuh,seine Bong,seine VHS Kollektion,sein Brennholz,seine Geliebte,seine gekochten Nudeln,seine Wollsocken,eine Packung Trockenfleisch,seine Kaffeetassen,seine Sonnenbrille,seine Lavalampe,seinen Regenschirm,seine Katze,die Süssigkeiten für Halloween,ein John Belushi Poster",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Feuer",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sein Bier",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Am 24. Oktober 2013 sorgte ein Mann aus Columbus, Georgia für Aufmerksamkeit, als er in sein brennendes Haus rannte um <BLANK> zu retten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ein Glas Bier",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "327972_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

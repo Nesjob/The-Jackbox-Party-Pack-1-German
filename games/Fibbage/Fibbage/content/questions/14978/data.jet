@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "halb gegessenes,von berühmten Leuten berührtes,ausgekotztes,ausgedehntes,blau gefärbtes,aus der Werbung bekanntes,aus Zeitschriften bekanntes,gemaltes,heruntergefallenes,aus Mülltonnen gesammeltes,zerteiltes,vergoldetes,vergammelndes,aus der Antarktis,radioaktives,gefrorenes,aus Filmen bekanntes,draufgesessenes",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Essen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "verbranntes",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In Arlington, Massachusetts gibt es ein Novum Museum indem nur <BLANK> Essen ausgestellt ist.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "331746_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

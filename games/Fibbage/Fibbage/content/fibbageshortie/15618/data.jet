@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Power,Vereinigung,Kraft,Augen,Brüderschaft,Verspieltheit,Pizza,Strenge,Ironie,Indifferenz,Jungfräulichkeit,Kaltblütigkeit,Meditation",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "unbesiegbar",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Liebe",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Einer der vielen von Kim Jong Ils Abzeichen war \u201cUnbesiegbarer und Immer-Triumpfierender General mit höchster Verkörperung der revolutionären kameradschaftlichen <BLANK>\u201d.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "345531_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "345528_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

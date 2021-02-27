@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fässer,Särge,alte Autos,Schubkarren,Wassermelonen,Schaufensterpuppen,Grills,Einkaufswagen,Trampoline,Toiletten,Schulbusse,Badewannen,Tische,alte Woks,Sofas,Puppenhäuser,Mülleimer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Boote",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kürbisse",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Menschen in Damariscotta, Maine, veranstalten jedes Jahr ein Rennen, bei dem sie <BLANK> als Boote verwenden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einen Kürbis",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "320202_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "320199_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

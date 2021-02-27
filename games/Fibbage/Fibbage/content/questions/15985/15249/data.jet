@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Waschmittel,Spachtelmasse,Flüssigkleber,Motoröl,geröstete Erdnüsse,Hustensaft,Bodylotion,Fasern,Deodorant,Eye-Liner,Q-tips Watte,Backpulver,Spermizid,Tamponwatte,Nicorette,Teppichfasern,Kontaktlinsenflüssligkeit",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Löffelvoll",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Vaseline",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Chemiker Robert Chesebrough behauptete, er habe jeden Tag einen Löffel seiner Erfindung, <BLANK>, zu sich genommen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "der vaseline",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "337012_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "337009_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Essen,einen Eiscreme-Truck sehen,weinen,gefeuert werden,Kacken,auf Beerdigung sind,herumhuren,einen Welpen halten,sich übergeben,sich verbrennen,sterben,ein Baby sehen,einen Porno schauen,Sex haben,jemanden Umarmen,eine Werbung sehen,tanzen,Müll riechen,heiraten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Barcelona",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Musik hören",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Laut einer Studie der University of Barcelona haben überraschenderweise 5% der Menschen keinerlei emotionale Reaktion, wenn sie <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "351718_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "351715_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

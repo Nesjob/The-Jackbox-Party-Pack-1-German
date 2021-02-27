@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Dinosauriern,Kobolden,Walen,Holznymphe,Lavamenschen,Yetis,Chupacabras,Zombies,Indianer,goldenes Gras,Fans von Bjork,Ratten,Geister,Maden,Krokodile,Monster,winzige Pandas,Zeitreisende",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Konstruktion",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Elfen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Bau einer Autobahn in Island verzögerte sich 2013 nachdem Gegner des Baus behaupteten, das Projekt würde natürliche Landschaften zerstören, in dem <BLANK> leben und gedeihen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "elven",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "352123_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "352120_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

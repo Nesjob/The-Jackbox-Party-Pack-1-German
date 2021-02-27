@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nach Afrika,nach Indien,nach Kanada,nach Hause,nach Grönland,nach China,zum Mittelpunkt der Erde,nach Orlando,nach Texas,nach Irland,nach Schottland,nach Deutschland,zu seinen Eltern,",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schwarz",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "in den Weltraum",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Als der Fußballspieler Stefan Schwarz 1999 bei Sunderland unter Vertrag genommen wurde, stellte das Team sicher, dass sein Vertrag ihn ausdrücklich daran hinderte, <BLANK> zu reisen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ins weltall",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "329328_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "329325_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}
