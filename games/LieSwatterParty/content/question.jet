@@ -3403,7 +3403,7 @@
                "truth": false
             },
             {
-               "text": "Es gibt genau 13 Zeilen in einem Pentagramm.",
+               "text": "Es gibt genau 13 Seiten in einem Pentagramm.",
                "audio": "10868_4",
                "truth": false
             },
@@ -17432,7 +17432,7 @@
             },
             {
                "response": "Religiöse Gruppen erzwangen den Wechsel zu den Firebirds.",
-               "text": "Der Devils Lake der North Dakota High School hatte bis 2002 den Spitznamen "Satans". ",
+               "text": "Der Devils Lake der North Dakota High School hatte bis 2002 den Spitznamen \"Satans\".",
                "audio": "11903_1",
                "truth": true
             },

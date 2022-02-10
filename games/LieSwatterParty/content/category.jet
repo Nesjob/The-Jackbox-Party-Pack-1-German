@@ -341,7 +341,7 @@
                "text": "Vereinigte Staaten vs. Bizzaro Vereinigte Staaten",
                "audio": "10780_4",
                "truth": false,
-               "tweet": Vereinigte Staaten vs. Bizzaro Vereinigte Staaten war ein echter US-Gerichtsfall."
+               "tweet": "Vereinigte Staaten vs. Bizzaro Vereinigte Staaten war ein echter US-Gerichtsfall."
             },
             {
                "text": "Katzenschicklichkeit vs. Hundeschicklichkeit",
@@ -2710,7 +2710,7 @@
                "truth": false
             },
             {
-               "text": "Die Rolling Stones erwogen, sich selbst "Die Arschlöcher" zu nennen.",
+               "text": "Die Rolling Stones erwogen, sich selbst \"Die Arschlöcher\" zu nennen.",
                "audio": "10761_6",
                "truth": false
             }
@@ -3262,7 +3262,7 @@
          "subject": "Easter Egg",
          "statements": [
             {
-               "response": Sie zogen ihn vor einen anfahrendem Zug weg.",
+               "response": "Sie zogen ihn vor einen anfahrendem Zug weg.",
                "text": "Die John Wilkes Booths Brüder haben beide das Leben von Abraham Lincolns Sohn gerettet.",
                "audio": "10974_0",
                "truth": true
