@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="episodes">
+        <item>
+            <mystring>YDKJ: Classic Episode 1</mystring>
+            <id>2001</id>
+            <locked>0</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+         <item>
+            <mystring>YDKJ: Classic Episode 2</mystring>
+            <id>2002</id>
+            <locked>0</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 3</mystring>
+            <id>2003</id>
+            <locked>0</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 4</mystring>
+            <id>2004</id>
+            <locked>0</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 5</mystring>
+            <id>2005</id>
+            <locked>0</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 6</mystring>
+            <id>2006</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 7</mystring>
+            <id>2007</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 8</mystring>
+            <id>2008</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 9</mystring>
+            <id>2009</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 10</mystring>
+            <id>2010</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 11</mystring>
+            <id>2011</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 12</mystring>
+            <id>2012</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 13</mystring>
+            <id>2013</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 14</mystring>
+            <id>2014</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 15</mystring>
+            <id>2015</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 16</mystring>
+            <id>2016</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 17</mystring>
+            <id>2017</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 18</mystring>
+            <id>2018</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 19</mystring>
+            <id>2019</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 20</mystring>
+            <id>2020</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 21</mystring>
+            <id>2021</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 22</mystring>
+            <id>2022</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+         <item>
+            <mystring>YDKJ: Classic Episode 23</mystring>
+            <id>2023</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 24</mystring>
+            <id>2024</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 25</mystring>
+            <id>2025</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 26</mystring>
+            <id>2026</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 27</mystring>
+            <id>2027</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 28</mystring>
+            <id>2028</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 29</mystring>
+            <id>2029</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 30</mystring>
+            <id>2030</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 31</mystring>
+            <id>2031</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 32</mystring>
+            <id>2032</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 33</mystring>
+            <id>2033</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 34</mystring>
+            <id>2034</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 35</mystring>
+            <id>2035</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 36</mystring>
+            <id>2036</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 37</mystring>
+            <id>2037</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 38</mystring>
+            <id>2038</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 39</mystring>
+            <id>2039</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 40</mystring>
+            <id>2040</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 41</mystring>
+            <id>2041</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 42</mystring>
+            <id>2042</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 43</mystring>
+            <id>2043</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 44</mystring>
+            <id>2044</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 45</mystring>
+            <id>2045</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 46</mystring>
+            <id>2046</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 47</mystring>
+            <id>2047</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 48</mystring>
+            <id>2048</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 49</mystring>
+            <id>2049</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>YDKJ: Classic Episode 50</mystring>
+            <id>2050</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+   </string-array>
+</resources>
